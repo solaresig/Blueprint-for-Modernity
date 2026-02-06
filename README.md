@@ -9,6 +9,3 @@ Download the sql files at https://www.dropbox.com/scl/fi/so0dwxea5ps1id3auuwaj/d
 Download the method for the construction of the dataset at https://www.dropbox.com/scl/fi/3kwzj5ggtytbw1q82cuta/origin-and-R.zip?rlkey=69cgkbo0tq68stnwg0ujg5ghz&st=lwr89dbb&dl=1
 
 The list of our primary source can be found in the Appendix V1 document. We have added, as well, a distant reading of the Engineering and Mining Journal, with full description of the references for each entry of the csv file. 
-
-
-#The original code for the paper Solares, Israel G., and Edward Beatty. "Engineers & Corporate Management, ca 1870–1930: The Invisible Hand Redux." Enterprise & Society 25.2 (2024): 486-511, is available on github.com/solaresig/invisibleredux
