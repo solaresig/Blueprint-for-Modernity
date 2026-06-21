@@ -1,0 +1,385 @@
+"id","source","year","simpname","lastname","firstname","middlename","prof","org","loc"
+"co21472",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"co34769",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"co48041",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cu12925","cu",1892,"drasel, c","drasel","c",NA,"student","cu","ny city"
+"cu16012","cu",1911,"frank, e","frank","e",NA,"student","cu","ny city"
+"cu18812","cu",1907,"guinchard, a","guinchard","a",NA,"student","cu","ny city"
+"cu19207","cu",1898,"hall, h","hall","h",NA,"student","cu","ny city"
+"cu20488","cu",1892,"hay, a","hay","a",NA,"student","cu","ny city"
+"cu21124","cu",1911,"herter, a h","herter","a","h","student","cu","ny city"
+"cu21791","cu",1885,"hoffbauer, o","hoffbauer","o",NA,"student","cu","ny city"
+"cu22577","cu",1904,"howe, a a","howe","a","a","student","cu","ny city"
+"cu23330","cu",1909,"hutchinson, g e","hutchinson","g","e","student","cu","ny city"
+"cu26219","cu",1884,"lamb, a j","lamb","andrew","j","student","cu","ny city"
+"cu28529","cu",1912,"macdermott, s s","macdermott","s","s","student","cu","ny city"
+"cu29080","cu",1885,"mannheim, p a","mannheim","paul","a","student","cu","ny city"
+"cu31533","cu",1912,"moffett, h","moffett","h",NA,"student","cu","ny city"
+"cu36129","cu",1906,"popper, e","popper","e",NA,"student","cu","ny city"
+"cu37053","cu",1910,"raphael, a","raphael","a",NA,"student","cu","ny city"
+"cu44627","cu",1894,"taylor, o","taylor","o",NA,"student","cu","ny city"
+"cu46393","cu",1912,"van, t","van","t",NA,"student","cu","ny city"
+"cu5040","cu",1902,"brcneman, h c","brcneman","h","c","student","cu","ny city"
+"cu5940","cu",1884,"bryce, w","bryce","w",NA,"student","cu","ny city"
+"cu6025","cu",1903,"buckmaster, f c","buckmaster","f","c","student","cu","ny city"
+"cu7529","cu",1892,"casamajor, g h","casamajor","g","h","student","cu","ny city"
+"cu7564","cu",1893,"caspe, a","caspe","a",NA,"student","cu","ny city"
+"cu8314","cu",1906,"church, j a","church","j","a","student","cu","ny city"
+"en34067","eni",1905,"ostos, j","ostos","j",NA,"student","eni","mexico city"
+"en34315","eni",1905,"palacio, r","palacio","r",NA,"student","eni","mexico city"
+"en46554","eni",1905,"vazquez, s","vazquez","s",NA,"student","eni","mexico city"
+"fr2471","frei",1865,"de crano, e","de crano","e",NA,NA,NA,"san francisco usa"
+"fr2510","frei",1866,"dietze, g m","dietze","georg","moritz",NA,NA,"freiberg sachsen"
+"fr2638","frei",1870,"lowe, f a","lowe","francis","asbury",NA,NA,"washington usa"
+"fr2697","frei",1870,"zoric, s","zoric","svetosar",NA,NA,NA,"titel ungarn"
+"fr2732","frei",1872,"stoiber, e g","stoiber","eduard","georg",NA,NA,"new york usa"
+"fr2813","frei",1874,"heck, c","heck","carl",NA,NA,NA,"dierdorf rheinpreuben"
+"fr2955","frei",1876,"fuch8, e f","fuch8","ernst","fiirchtegott",NA,NA,"chemnitz sachsen"
+"fr2987","frei",1876,"wei8, c e","wei8","carl","eduard",NA,NA,"marienberg"
+"fr2988","frei",1876,"zetzsche, h p","zetzsche","heinrich","paul",NA,NA,"altenburg"
+"fr3001","frei",1877,"fischer, h c","fischer","heinrich","carl",NA,NA,"colditz sachsen"
+"fr3010","frei",1877,"jeramjanz, s","jeramjanz","stephan",NA,NA,NA,"erivan rubland"
+"fr3210","frei",1881,"krantz, f a","krantz","friedrich","august",NA,NA,"aimaberg rubland"
+"fr3306","frei",1883,"eydam, w","eydam","willy",NA,NA,NA,"weida b"
+"fr3341","frei",1883,"herter, e f","herter","emil","franz",NA,NA,"pleiske b"
+"fr3343",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fr3368","frei",1884,"v dessauer, a","v dessauer","anton",NA,NA,NA,"munchen"
+"fr3465",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fr3528","frei",1886,"zell, m","zell","max",NA,NA,NA,"neuruppin"
+"fr3610","frei",1888,"keller, r","keller","richard",NA,NA,NA,"city wisconsin usa"
+"fr3662","frei",1889,"hey, g a","hey","gustav","adolf",NA,NA,"freiberg sachsen"
+"fr3692","frei",1889,"schneiders, k g","schneiders","karl","gottfried",NA,NA,"aachen preuben"
+"fr3708","frei",1889,"wehner, f c","wehner","frederik","carl",NA,NA,"england"
+"fr3718","frei",1890,"boddinghaus, w","boddinghaus","walther",NA,NA,NA,"elberfeld"
+"fr3781","frei",1890,"v wolff, e m","v wolff","erich","maximilian",NA,NA,"baron hintzenberg rubland"
+"fr3852","frei",1892,"abe, r","abe","richard",NA,NA,NA,"witten preuben"
+"fr3874","frei",1892,"lister, a l","lister","arthur","leonard",NA,NA,"yercand indien"
+"fr3906","frei",1893,"bernhard, g w","bernhard","gustav","walther",NA,NA,"schlobchemnitz bei chemnitz"
+"fr4049","frei",1895,"bauer, o f","bauer","oswald","friedrich",NA,NA,"goldingen rubl"
+"fr4085","frei",1895,"korwazki, w","korwazki","wasili",NA,NA,NA,"ananiew rubland"
+"fr4118","frei",1895,"spitzner, k j","spitzner","karl","justus",NA,NA,"dresden"
+"fr4135","frei",1896,"balasinovici, e","balasinovici","eugeniu",NA,NA,NA,"cordareni rumii"
+"fr4279","frei",1897,"hilgenberg, h m","hilgenberg","hermann","max",NA,NA,"cassel preuben"
+"fr4298","frei",1897,"kulbach, o m","kulbach","oswald","moritz",NA,NA,"tabbifer rubland"
+"fr4344","frei",1897,"schott, a e","schott","albert","ernst",NA,NA,"chemnitz sachsen"
+"fr4412","frei",1898,"v kupffer, e f","v kupffer","eduard","friedrich",NA,NA,"moskau"
+"fr4477","frei",1899,"dabkowicz, j","dabkowicz","jan",NA,NA,NA,"warschau"
+"fr4540","frei",1899,"v neyman, k w","v neyman","kasimir","wilhelm",NA,NA,"kharkov ukraine"
+"fr4545","frei",1899,"paul, w","paul","wilhelm",NA,NA,NA,"goslar preu en"
+"fr4602","frei",1899,"brill, b","brill","bernhard",NA,NA,NA,"jassy rum"
+"fr4648","frei",1899,"konjaroff, g","konjaroff","georgi",NA,NA,NA,"plowdir bulgarien"
+"fr4685","frei",1899,"popoff, p","popoff","paul",NA,NA,NA,"irkutsk rubland"
+"fr4714","frei",1899,"steinberg, w","steinberg","wladimir",NA,NA,NA,"odessa rubland"
+"fr4839","frei",1901,"singher, l","singher","leibu",NA,NA,NA,"vaslui rum"
+"fr4958","frei",1903,"browne, r","browne","robert",NA,NA,NA,"new york usa"
+"fr4979","frei",1903,"gorenstein, n","gorenstein","nachim",NA,NA,NA,"kiew rubland"
+"fr4989","frei",1903,"jones, s","jones","sidney",NA,NA,NA,"kapstadt stidafrika"
+"fr5058","frei",1903,"warnecke, h p","warnecke","heinrich","paul",NA,NA,"hornhausen preuben"
+"fr5112","frei",1904,"glockler, c a","glockler","carl","adam",NA,NA,"wasserau rubi"
+"fr5129","frei",1904,"johnson, b a","johnson","bernard","angas",NA,NA,"london england"
+"fr5176","frei",1904,"ralff, e","ralff","eugen",NA,NA,NA,"belopolie rubland"
+"fr5208","frei",1904,"v gel, p h","v gel","paul","herbert",NA,NA,"herbert dresden"
+"fr5214","frei",1904,"weise, g o","weise","gerhard","oskar",NA,NA,"sayda"
+"fr5230","frei",1905,"brandt, r e","brandt","rudolf","erich",NA,NA,"zwickau sachsen"
+"fr5368","frei",1906,"ficker, k j","ficker","kurt","johannes",NA,NA,"johannes dresden"
+"fr5413","frei",1906,"molls, e o","molls","eduard","otto",NA,NA,"nowapraga b"
+"fr5415","frei",1906,"moshaizew, a l","moshaizew","andreas","lwowitsch",NA,NA,"kotelniki russia"
+"fr5464","frei",1907,"beck, f w","beck","felix","walter",NA,NA,"sachsen"
+"fr5773","frei",1910,"nette, p r","nette","paul","rudolf",NA,NA,"oberschlema sachsen"
+"fr5791","frei",1910,"schonfelder, e e","schonfelder","ernst","erich",NA,NA,"holzminden braunschweig"
+"fr5797","frei",1910,"schwirkus, r w","schwirkus","rudolf","walter",NA,NA,"freiberg sachsen"
+"fr5923","frei",1912,"glanzberg, r e","glanzberg","rudolf","erwin",NA,NA,"grillenburg sachsen"
+"fr6000","frei",1912,"wiirfel, a g","wiirfel","alwin","gotthard",NA,NA,"li ibau sachsen"
+"fr6022","frei",1914,"wiegemann, r","wiegemann","rosa",NA,NA,NA,"freiberg sachsen"
+"fr6034","frei",1915,"geuthner, w","geuthner","walther",NA,NA,NA,"leipzig"
+"fr6061","frei",1916,"mtiller, e","mtiller","ernst",NA,"merchant",NA,"zitzau"
+"fr6080","frei",1917,"beck, g","beck","gottfried",NA,NA,NA,"schleiz germany"
+"fr6093","frei",1917,"dachselt, j","dachselt","johannes",NA,NA,NA,"freiberg sa"
+"fr6127","frei",1917,"klinger, r","klinger","rudolf",NA,NA,NA,"kau frnann"
+"fr6166",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fr6317","frei",1918,"raber, r","raber","rudolf",NA,NA,NA,"schwyz switzerland"
+"fr6540","frei",1920,"gri rnmig, h","gri rnmig","hans",NA,"secretary",NA,"weibwasser kr"
+"fr6653","frei",1921,"berg, a","berg","alfred",NA,NA,NA,"dortmund"
+"fr6705",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"fr6720","frei",1921,"kebner, h","kebner","herbert",NA,"merchant",NA,"riga lettland"
+"fr6949","frei",1922,"meyer, r","meyer","rudolf",NA,NA,NA,"freiberg sa"
+"fr6951","frei",1922,"muller, h","muller","hans",NA,NA,NA,"goppingen"
+"fr7118","frei",1924,"maucher, h","maucher","herbert",NA,"engineer",NA,"freiberg sa"
+"fr7152","frei",1925,"kimse, w","kimse","werner",NA,"engineer",NA,"dill lngen"
+"fr7183","frei",1926,"herrmanns, o","herrmanns","otto",NA,"owner",NA,"grobauheim b"
+"fr7202","frei",1926,"schmidt, g","schmidt","georg",NA,NA,NA,"annaberg erzgeb"
+"fr7207","frei",1926,"steck, g","steck","gunter",NA,NA,NA,"biebrioh ruhr"
+"fr7222","frei",1927,"jancu, l","jancu","leon",NA,"merchant",NA,"falticeni rur"
+"fr7222","frei",1927,"jancu, l","jancu","leon",NA,"merchant",NA,"falticeni rur"
+"fr7226","frei",1927,"kraghwehn, h i","kraghwehn","h","i",NA,NA,"oslo"
+"fr7267","frei",1928,"knackstedt, w","knackstedt","wolfgang",NA,NA,NA,"zeitz"
+"mi19434","michcoll",1906,"hamilton, o r","hamilton","o","r","student","michcoll","houghton mich"
+"mi27853","michcoll",1905,"longshore, r p","longshore","r","p","student","michcoll","houghton mich"
+"mi46377","michcoll",1907,"van, j w","van","j","w","student","michcoll","houghton mich"
+"mi7654","michcoll",1898,"cavazos, a","cavazos","a",NA,"student","michcoll","houghton mich"
+"mitg11841",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg12098",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg12140",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg12435","MIT",1901,"johnson, h v","johnson","howard","v","student","MIT","hilo hawaii"
+"mitg1246","MIT",1885,"barr, h p","barr","harry","p","student","MIT","new york city new york"
+"mitg12629","MIT",1903,"joyce, c m","joyce","clarence","m","student","MIT","new york city new york"
+"mitg12658","MIT",1910,"kalbach, l i","kalbach","lee","i","student","MIT","oskaloosa iowa"
+"mitg13025",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg13663","MIT",1900,"lazenby, p h","lazenby","paul","h","student","MIT","chicago illinois"
+"mitg14088",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg14233","MIT",1892,"look, m j","look","moses","j","student","MIT","brown station new york"
+"mitg15258",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg16107","MIT",1909,"moore, f","moore","frederick",NA,"student","MIT","amalfi colombia"
+"mitg16348","MIT",1876,"morton, g a","morton","george","a","student","MIT","new haven connecticut"
+"mitg17152",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg1742",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg18153","MIT",1903,"place, a e","place","adolph","e","student","MIT","mexico city mexico"
+"mitg19939",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg207",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg21128","MIT",1906,"smith, f h","smith","frederic","h","student","MIT","cudahy wisconsin"
+"mitg21649","MIT",1903,"stanley, l r","stanley","leonard","r","student","MIT","salem massachusetts"
+"mitg21847","MIT",1868,"stevens, e s","stevens","e","s","student","MIT","quinebaug connecticut"
+"mitg2350",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg23524",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg24278","MIT",1906,"wells, a j","wells","albert","j","student","MIT","chicago illinois"
+"mitg24452","MIT",1897,"weymouth, t r","weymouth","thomas","r","student","MIT","northampton pennsylvania"
+"mitg24892","MIT",1895,"wilkinson, d","wilkinson","david",NA,"student","MIT","johannesburg africa south"
+"mitg3556","MIT",1890,"calkins, g n","calkins","gary","n","student","MIT","new york city new york"
+"mitg4687","MIT",1907,"coffin, c w","coffin","charles","w","student","MIT","new york city new york"
+"mitg534","MIT",1908,"angus, r a","angus","robert","a","student","MIT","new york city new york"
+"mitg5966",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg6265",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg7525","MIT",1906,"fallon, n i","fallon","nugent","i","student","MIT","lynn massachusetts"
+"mitg78","MIT",1874,"adams, c f","adams","charles","f","student","MIT","spencer massachusetts"
+"mitg8891",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mitg9825","MIT",1890,"hale, g e","hale","george","e","student","MIT","pasadena california"
+"mitg9835","MIT",1908,"hale, j w","hale","james","w","student","MIT","newburyport massachusetts"
+"mito10010",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10036",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10190",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10303",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10448",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10529",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10559",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10649",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10768",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito10890",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11015",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11041",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11272",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11457",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11589",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11684",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11688",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11745",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1183",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito11905",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12139",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12147",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1218",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1220",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1248",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12514",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12611",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12643",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12666",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1279",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12810",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12884",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12952",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito12998",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13003",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13362",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13473",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13522",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13528",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13750",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13751",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13809",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13835",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13924",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13983",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito13997",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito14051",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito14059",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito14121",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito14189",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito14205",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito14218",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito14409",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito14434",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1486",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1624",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1794",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito1840",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito189",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2039",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2234",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2376",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2474",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2562",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2625",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2765",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2779",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito2841",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito312",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3136",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3162",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito323",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3237",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3304",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito334",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3509",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3538",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3665",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito369",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3754",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito3778",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito4129",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito429",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito470",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito4859",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito4919",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito4956",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito5246",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito5262",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito5764",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito5898",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito5919",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito5975",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito5980",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito6448",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito6491",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito6591",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito6928",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito7339",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito7417",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito7858",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito7862",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8029",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8078",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8213",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8309",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8422",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8518",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8572",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8610",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8754",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8775",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito8906",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito9088",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito9256",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mito9876",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mo19909","montana",1926,"harrington, l t","harrington","l","t","engineer's department","city of butte.","butte, mont."
+"mo2718","montana",1912,"bassett, a f","bassett","a","f","student","montana school of mines","butte, mont."
+"mo42573","montana",1926,"spencer, j w","spencer","j","w",NA,NA,"butte"
+"mo43910","montana",1910,"stuewe, w","stuewe","w",NA,"student","montana school of mines","butte, mont."
+"pe14778","pennstate",1915,"fehl, p b","fehl","p","b","student","pennstate","state college penn"
+"pe21347","pennstate",1892,"hildebrand, c","hildebrand","c",NA,"student","pennstate","state college penn"
+"rs10290","rsm",1867,"arsm, m c","arsm","ma","cambridge","instructor","naval architecture 1867","naval architecture"
+"rs10385","rsm",1909,"love, s g","love","stuart","gilkison","assistant","assistant manager rangoon mining co","co tavoy burma"
+"rs11178","rsm",1854,"monteiro, j j","monteiro","joachim","john",NA,"royal school of mines","london"
+"rs1190","rsm",1889,"cooke, l h","cooke","lewis","h",NA,"royal school of mines","london"
+"rs1251","rsm",1896,"creswell, f h","creswell","frederick","h","assayer","assayer the yuruaru co","venezuela"
+"rs12766","rsm",1895,"mimm, f","mimm","fgs",NA,"lecturer","sydney","sydney"
+"rs13299","rsm",1910,"tawerner, l o","tawerner","leonard","o",NA,"royal school of mines","london"
+"rs14046","rsm",1890,"arcs, m","arcs","mimm",NA,"lecturer",NA,"otago"
+"rs14231","rsm",1900,"young, a e","young","allan","edwin",NA,"royal school of mines","london"
+"rs1559","rsm",1896,"school, s l","school","st","lawrence",NA,"royal school of mines",NA
+"rs1778","rsm",1861,"finch, f g","finch","fred","g",NA,"royal school of mines","london"
+"rs1866","rsm",1896,"gilghrist, p c","gilghrist","percy","carlyle",NA,"3638556 tons",NA
+"rs2346","rsm",1896,"harrison, f i","harrison","fred","i",NA,NA,NA
+"rs2696","rsm",1896,"humpidge, t s","humpidge","thomas","samuel","scholar",NA,"heidelberg"
+"rs2741","rsm",1896,"iervis, i c","iervis","il","cav","master",NA,"london"
+"rs2927","rsm",1896,"kitchener, a b","kitchener","arthur","b",NA,NA,"waiiii ivio grange dunback otago new zealand"
+"rs3070","rsm",1896,"liversidge, a","liversidge","archibald",NA,NA,"the sydney university","sydney"
+"rs3178","rsm",1896,"mirza, m k","mirza","medhj","khan","author","the nizarn",NA
+"rs3962","rsm",1896,"riley, e o","riley","edward","o",NA,"other works",NA
+"rs4119","rsm",1896,"saifeord, g h","saifeord","george","herbert",NA,NA,"cedars road clapham common london sw"
+"rs4304","rsm",1896,"simpson, m h","simpson","matthew","henry","died",NA,"engaged in gold mining died in british guiana on february th"
+"rs432","rsm",1896,"becher, h m","becher","harry","m",NA,"pahang","the gold quartz deposits of pahang"
+"rs4334","rsm",1889,"smeeth, w f","smeeth","william","f",NA,"royal school of mines","london"
+"rs4387","rsm",1851,"spiller, w","spiller","william",NA,"student","royal school of mines","london"
+"rs4472","rsm",1886,"streatfeild, h s","streatfeild","hugh","s",NA,"royal school of mines","london"
+"rs4530","rsm",1888,"swinburne, u p","swinburne","umfreville","p","student","royal school of mines","london"
+"rs5936","rsm",1897,"fgs, m","fgs","mgmi",NA,"assistant","engineer montana gold mining co","montana"
+"rs6089","rsm",1920,"beringer, j j","beringer","john","j","analyst","the county of","cornwall"
+"rs6200","rsm",1870,"board, g o","board","gregory","o",NA,"royal school of mines","london"
+"rs6692","rsm",1919,"aimm, f","aimm","fgs",NA,"director","jan 1920 dept","belgium"
+"rs6968","rsm",1920,"arsm, f m","arsm","forbes","medallist",NA,NA,"links end ashford middlesex"
+"rs7419","rsm",1887,"crookes, h","crookes","henry",NA,"chemist","and assayer morgan gold mine","organ"
+"rs81","rsm",1896,"adie, r h","adie","richard","haliburton",NA,NA,"cambridge"
+"rs8174","rsm",1906,"aimm, d l","aimm","de","la","assistant","bruseh hydraulic tin mining co","mining co fms"
+"rs8299","rsm",1912,"garrido, f o","garrido","ferdinand","o","assistant","1914 assistant demonstrator in mine","surveying at rsm"
+"rs8761","rsm",1890,"griffiths, a p","griffiths","andre","pierre","manager",NA,"italy"
+"st13192","stanford",1899,"dunbtan, w j","dunbtan","w","j","teacher",NA,"cal."
+"st18537","stanford",1896,"gregg, p m","gregg","p","m","student","stanford university","stanford university"
+"st19836","stanford",1899,"harrelson, w h","harrelson","w","h",NA,NA,"san francisco cal."
+"st21982","stanford",1899,"hollistkr, j j","hollistkr","j","j",NA,NA,"chapila st.. santa barbara cal."
+"st2450","stanford",1899,"barnhisel, e m","barnhisel","e","m","student","stanford university","stanford university"
+"st27083","stanford",1897,"lesley, e","lesley","e",NA,"student","stanford university","stanford university"
+"st28944","stanford",1899,"mailer, j w","mailer","j","w","student","stanford university","stanford university"
+"st37171","stanford",1899,"rdddell, f s","rdddell","f","s",NA,NA,"indianapolis ind."
+"st43764","stanford",1899,"stratton, g d","stratton","g","d","roadmaster","southern pacific company.","southern pacific company."
+"st44348","stanford",1899,"taber, w c","taber","w","c",NA,NA,"stockton cal."
+"st47692","stanford",1899,"wbioht, g h","wbioht","g","h",NA,NA,"hollands cal."
+"st49037","stanford",1899,"wigle, b d","wigle","b","d",NA,NA,"soji jose cal."
+"st49880","stanford",1899,"wood, a e","wood","a","e",NA,NA,"campbell cal."
+"st50564","stanford",1899,"young, l c","young","l","c",NA,NA,"santa rosa cal."
+"st50663","stanford",1899,"zion, e r","zion","e","r",NA,NA,"san francisco cal."
+"st9890","stanford",1899,"cory, h m","cory","h","m",NA,NA,"san jose cal"
+"ua25301","uariz",1906,"kilgore, r b","kilgore","r","b","student","uariz","tucson arizona"
+"ua25303","uariz",1912,"kilgour, b f","kilgour","b","f","student","uariz","tucson arizona"
+"wo10390","worcester",1911,"crooker, p p","crooker","p","p","student","worcester","boston, mass"
+"wo13011","worcester",1916,"drury, l l","drury","l","l","student","worcester","boston, mass"
+"wo13210","worcester",1923,"duncan, w j","duncan","william","j",NA,NA,"new york."
+"wo13552","worcester",1923,"eaton, g m","eaton","g","m",NA,NA,"e. pittsburgh."
+"wo13567","worcester",1914,"eaton, l l","eaton","l","l","student","worcester","boston, mass"
+"wo1771","worcester",1917,"bagdigian, n n","bagdigian","n","n","student","worcester","boston, mass"
+"wo17954","worcester",1886,"gordon, a a","gordon","a","a","student","worcester","boston, mass"
+"wo19272","worcester",1923,"hall, r s","hall","r","s",NA,NA,"shanghai."
+"wo19938","worcester",1923,"harris, c c","harris","c","c",NA,NA,"orange."
+"wo20552","worcester",1915,"hayes, g g","hayes","g","g","student","worcester","boston, mass"
+"wo22419","worcester",1923,"hossack, a b","hossack","a","b",NA,NA,"new york."
+"wo22639","worcester",1909,"howe, j j","howe","j","j","student","worcester","boston, mass"
+"wo23737","worcester",1906,"jacobs, r r","jacobs","r","r","student","worcester","boston, mass"
+"wo23817","worcester",1923,"jamieson, t s","jamieson","t","s",NA,NA,"new york."
+"wo24361","worcester",1909,"jones, f f","jones","f","f","student","worcester","boston, mass"
+"wo26994","worcester",1923,"leland, f h","leland","f","h",NA,NA,"newtonville."
+"wo27882","worcester",1901,"loomis, e e","loomis","e","e","student","worcester","boston, mass"
+"wo28373","worcester",1902,"lyman, e e","lyman","e","e","student","worcester","boston, mass"
+"wo28727","worcester",1923,"macnamara, g r","macnamara","g","r",NA,NA,"atlanta."
+"wo32820","worcester",1914,"nelson, g g","nelson","g","g","student","worcester","boston, mass"
+"wo34198","worcester",1923,"paelian, g h","paelian","g","h",NA,NA,"new york."
+"wo35300","worcester",1923,"perry, h h","perry","h","h","student","worcester","boston, mass"
+"wo35627","worcester",1889,"pickwick, e e","pickwick","e","e","student","worcester","boston, mass"
+"wo39021","worcester",1918,"rowell, j j","rowell","j","j","student","worcester","boston, mass"
+"wo40791","worcester",1922,"shaw, b b","shaw","b","b","student","worcester","boston, mass"
+"wo41805","worcester",1913,"smith, f f","smith","f","f","student","worcester","boston, mass"
+"wo42702","worcester",1902,"sprague, e e","sprague","e","e","student","worcester","boston, mass"
+"wo42712","worcester",1923,"sprague, m m","sprague","m","m","student","worcester","boston, mass"
+"wo42912","worcester",1907,"starbird, c c","starbird","c","c","student","worcester","boston, mass"
+"wo44732","worcester",1918,"tenney, r r","tenney","r","r","student","worcester","boston, mass"
+"wo46341","worcester",1878,"vail, j j","vail","j","j","student","worcester","boston, mass"
+"wo4703","worcester",1922,"bowman, w w","bowman","w","w","student","worcester","boston, mass"
+"wo47518","worcester",1882,"washburn, w w","washburn","w","w","student","worcester","boston, mass"
+"wo49047","worcester",1906,"wilber, d d","wilber","d","d","student","worcester","boston, mass"
+"wo49704","worcester",1891,"winslow, j j","winslow","j","j","student","worcester","boston, mass"
+"wo49826","worcester",1923,"wolcott, r h","wolcott","r","h",NA,NA,"worcester."
+"wo50260","worcester",1923,"wrede, g f","wrede","g","f",NA,NA,"hannover"
+"wo5573","worcester",1897,"brown, f f","brown","f","f","student","worcester","boston, mass"
+"wo6431","worcester",1923,"burpee, r w","burpee","r","w",NA,NA,"leominster."
+"wo7974","worcester",1923,"chapman, r e","chapman","r","e",NA,NA,"wilkinsburg."
+"wo8154","worcester",1916,"cherry, g g","cherry","g","g","student","worcester","boston, mass"
+"wo8227","worcester",1909,"childs, r r","childs","r","r","student","worcester","boston, mass"
+"wo8585","worcester",1902,"clark, l l","clark","l","l","student","worcester","boston, mass"
+"wv14372","wvu",1920,"everstine, a p","everstine","a","p","student","wvu","morgantown w virginia"
+"wv16826","wvu",1920,"gardner, l r","gardner","l","r","student","wvu","morgantown w virginia"
+"wv18130","wvu",1920,"graham, e w","graham","e","w","student","wvu","morgantown w virginia"
+"wv28420","wvu",1891,"lynch, t d","lynch","t","d","student","wvu","morgantown w virginia"
+"wv40565","wvu",1909,"selby, l b","selby","l","b","student","wvu","morgantown w virginia"
+"wv42688","wvu",1907,"spragg, l w","spragg","l","w","student","wvu","morgantown w virginia"
+"wv43405","wvu",1920,"stickler, m h","stickler","m","h","student","wvu","morgantown w virginia"
+"wv43923","wvu",1920,"stump, w d","stump","w","d","student","wvu","morgantown w virginia"
+"wv46327","wvu",1908,"utt, d","utt","d",NA,"student","wvu","morgantown w virginia"
+"wv49293","wvu",1920,"williams, f j","williams","f","j","student","wvu","morgantown w virginia"

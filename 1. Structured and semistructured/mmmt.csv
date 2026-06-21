@@ -1,0 +1,368 @@
+"","id","year","company","capital","minerals","owns","owned","doutput","technology","incor","loc","text","lastname","firstname","middlename","prof"
+"1","mmm9",1926,"aguascalientes metal co.",NA,NA,NA,NA,NA,NA,NA,"asientos ags","grl mgr, albert doerr, asientos, ags","dodsworth","albert",NA,"grl mgr"
+"2","mmm17",1926,"cia min la fortuna sa",NA,"silver copper",NA,NA,NA,NA,NA,"aguascalientes","silver copper",NA,NA,NA,NA
+"3","mmm24",1926,"compania minera san geronimo sa",NA,"copper silver",NA,NA,NA,NA,NA,"aguascalientes","copper silver",NA,NA,NA,NA
+"4","mmm29",1926,"compania minera san geronimo sa",NA,NA,NA,NA,NA,NA,NA,"mexico df","purch agt, f defosse, mexico, df","deferred","f",NA,"purch agt"
+"5","mmm31",1926,"compania min socorro y an sa",NA,NA,NA,NA,NA,NA,NA,"asientos ags","location& po, asientos, ags, ",NA,NA,NA,NA
+"6","mmm36",1926,"minerva mining co. s. a.",386660.2224,NA,NA,NA,NA,NA,NA,"aguascalientes","800000",NA,NA,NA,NA
+"7","mmm40",1926,"minerva mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"asientos ags","mill location, asientos, · ags., ",NA,NA,NA,NA
+"8","mmm41",1926,"minerva mining co. s. a.",NA,NA,NA,NA,NA,"flotation & concentration.",NA,"aguascalientes","flotation & concentration., ",NA,NA,NA,NA
+"9","mmm65",1926,"compañia del boleo",NA,NA,NA,NA,NA,NA,NA,"sta rosalia bc","grl. Spt, x. gélinier, sta. rosalia, b. c .","geiger","x",NA,"grl. Spt"
+"10","mmm71",1926,"compañia del boleo",NA,NA,NA,NA,NA,NA,NA,"sta rosalia bc","master mech., a. janison, sta. rosalia, b. c.","jamoe","a",NA,"master mech."
+"11","mmm75",1926,"cia y reduccion del golfo s. a.",NA,NA,NA,NA,NA,NA,NA,"st tucson ariz","foreign office, 40 w. congress st. tucson, ariz., ",NA,NA,NA,NA
+"12","mmm106",1926,"cia. Minera astreas y otros",NA,NA,NA,NA,NA,NA,NA,"libertad chihuahua chih","location & p. o., calle libertad 311, chihuahua, chih.",NA,NA,NA,NA
+"13","mmm107",1926,"cia. Minera astreas y otros",NA,"silver lead.",NA,NA,NA,NA,NA,"chihuahua","silver lead.",NA,NA,NA,NA
+"14","mmm111",1926,"cia. Minera cienega sa",NA,NA,NA,NA,NA,NA,NA,"moris chih","location, moris, chih., ",NA,NA,NA,NA
+"15","mmm125",1926,"cia. minera de naica",NA,NA,NA,NA,NA,NA,NA,"naica chih","manager, jose de steffano, naica, chih.","stefano","jose","de","manager"
+"16","mmm131",1926,"cia. minera de plomo s. a.",NA,NA,NA,NA,NA,NA,NA,"los lamentos chih","superintendent, karl i. mohler., los lamentos, chih.",NA,NA,NA,NA
+"17","mmm143",1926,"cia. min. de san patricio s. a.",NA,NA,NA,NA,NA,NA,NA,"parral chih","grl. spt., a. w. morris, parral, chih.","morrell","abraham",NA,"grl. spt."
+"18","mmm149",1926,"cia . min . erupcion y an. s. a.",NA,NA,NA,NA,NA,NA,NA,"warren ariz","president, l. d. ricketts, warren, ariz.","rickardn","l",NA,"president"
+"19","mmm158",1926,"cia. min. mexicana de la cieneguilla",NA,NA,NA,NA,NA,NA,NA,"chihuahua chih","manager, j. c. shepard, chihuahua, chih.","shepard","j",NA,"manager"
+"20","mmm172",1926,"dolores mines co.",NA,NA,"this company owns the alma de maria",NA,NA,NA,NA,"chihuahua","this company owns the alma de maria",NA,NA,NA,NA
+"21","mmm181",1926,"dolores mines co.",NA,NA,NA,NA,NA,NA,NA,"madera chih","spt. of power, r. g. robinette, madera, chih.","robertson","rev",NA,"spt. of power"
+"22","mmm190",1926,"el potosi mining co.",NA,NA,"this company is a subsidiary of Howe Sound Co.",NA,NA,NA,NA,"chihuahua","this company is a subsidiary of Howe Sound Co.",NA,NA,NA,NA
+"23","mmm191",1926,"el potosi mining co.",NA,NA,NA,NA,NA,NA,NA,"n y","Pres., w. j. quigly., n.y., ",NA,NA,NA,NA
+"24","mmm208",1926,"inglaterra mining co.",NA,NA,"This co. is leased to the Cia. Min. de Peñoles S. A. See the Santa Eualia UNIT of the Peñoles Co.",NA,NA,NA,NA,"chihuahua","This co. is leased to the Cia. Min. de Peñoles S. A. See the Santa Eualia UNIT of the Peñoles Co.",NA,NA,NA,NA
+"25","mmm209",1926,"inglaterra mining co.",NA,NA,NA,NA,NA,NA,NA,"chihuahua chih","owners, Dale Brothers,, chihuahua, chih.",NA,NA,NA,NA
+"26","mmm211",1926,"moctezuma lead company",NA,NA,NA,NA,NA,NA,NA,"santa barbara chih","location, santa barbara., chih., ",NA,NA,NA,NA
+"27","mmm215",1926,"palmarejo & mexican gold fields ltd.",NA,NA,NA,NA,NA,NA,NA,"and chinipas chih","location and p. o., chinipas, chih., ",NA,NA,NA,NA
+"28","mmm243",1926,"san francisco mines of mexico ltd",NA,NA,NA,NA,NA,"table & floatation concentration.",NA,"chihuahua","table & floatation concentration., ",NA,NA,NA,NA
+"29","mmm260",1926,"the batopilas mining co.",NA,NA,NA,NA,NA,NA,NA,"chihuahua","$9. 000. 000 u. s. c.",NA,NA,NA,NA
+"30","mmm264",1926,"the batopilas mining co.",NA,NA,NA,NA,NA,NA,NA,"batopilas chih","mill location, batopilas, chih., ",NA,NA,NA,NA
+"31","mmm266",1926,"the batopilas mining co.",NA,NA,NA,NA,NA,NA,NA,"batopilas chih","smelter location, batopilas, chih., ",NA,NA,NA,NA
+"32","mmm267",1926,"the batopilas mining co.",NA,NA,NA,NA,NA,NA,NA,"new york","president, samuel elliot, new york., ","ellerman","samuel",NA,"president"
+"33","mmm269",1926,"the batopilas mining co.",NA,NA,NA,NA,NA,NA,NA,"batopilas chih","grl. mgr., john r. harbottle, batopilas, chih.","hapgood","john",NA,"grl. mgr."
+"34","mmm277",1926,"the buena tierra mining co. ltd",NA,NA,"This company is a subsidiary of the explocation company of mexico & england ltd. 24 lombard st. london, e. c. and was purchased by el oro mining & raiway co. ltd. Who now exploit the mine.",NA,NA,NA,NA,"chihuahua","This company is a subsidiary of the explocation company of mexico & england ltd. 24 lombard st. london, e. c. and was purchased by el oro mining & raiway co. ltd. Who now exploit the mine.",NA,NA,NA,NA
+"35","mmm277",1926,"the buena tierra mining co. ltd",NA,"silver lead",NA,NA,NA,NA,NA,"chihuahua","silver lead",NA,NA,NA,NA
+"36","mmm281",1926,"the buena tierra mining co. ltd",NA,NA,NA,NA,NA,NA,NA,"sta eulalia chih","purch. agt., john thiebes, sta. eulalia, chih.","thibeautbrignolles","john",NA,"purch. agt."
+"37","mmm288",1926,"the concheño mining co.",NA,NA,NA,NA,NA,NA,NA,"chihuahua","grl. mgr., a . p. cortelyou., ",NA,NA,NA,NA
+"38","mmm291",1926,"the concheño mining co.",NA,NA,NA,NA,NA,NA,NA,"concheño chih","master mech., narcizo ruiz. Sr., concheño, chih.",NA,NA,NA,NA
+"39","mmm296",1926,"the cusi mining co.",NA,NA,NA,NA,NA,NA,NA,"cusihuiriachic chih","mill location, cusihuiriachic, chih., ",NA,NA,NA,NA
+"40","mmm308",1926,"the international ore & smelting co.",NA,NA,"the unit exploits the cigarrero mine. the mill for this unit is under construction.",NA,NA,NA,NA,"chihuahua","the unit exploits the cigarrero mine. the mill for this unit is under construction.",NA,NA,NA,NA
+"41","mmm309",1926,"the international ore & smelting co.",NA,NA,NA,NA,NA,NA,NA,"baca chih","local mine spt ., g. chester-master, baca, chih.","massaouti","g",NA,"local mine spt ."
+"42","mmm309",1926,"the international ore & smelting co.",NA,NA,"Same as the Saltillo Coah. Unit.",NA,NA,NA,NA,"chihuahua","Same as the Saltillo Coah. Unit.","massaouti","g",NA,"local mine spt ."
+"43","mmm312",1926,"the nacica mines of mexico s. a.",NA,NA,NA,NA,NA,NA,NA,"estacion concho chih","p. o., estacion concho. chih., ",NA,NA,NA,NA
+"44","mmm317",1926,"cia. combustible agujita",NA,NA,NA,NA,NA,NA,NA,"agujita coah","location, agujita, coah., ",NA,NA,NA,NA
+"45","mmm331",1926,"compañia exploradora y explotadora de minas, s. a.",NA,NA,NA,NA,NA,NA,NA,"y gil velardeña","grl. spt., leonal j. olagaray, c/o campos y gil, velardeña,","ohnesorge","leonal",NA,"grl. spt."
+"46","mmm332",1926,"compañia exploradora y explotadora de minas, s. a.",NA,NA,NA,NA,NA,NA,NA,"monterrey n l","mining eng., alberto p gonzalez, bolivar 35, monterrey, n. l.","gomez","alberto",NA,"mining eng."
+"47","mmm338",1926,"compañia minera de minerales s. a.",NA,NA,NA,NA,NA,NA,NA,"saltillo coah","asst. mgr., george jacques, saltillo, coah.","jacobs","george",NA,"asst. mgr."
+"48","mmm339",1926,"compañia minera de minerales s. a.",NA,NA,NA,NA,NA,NA,NA,"saltillo coah","director, albert delsaunte, saltillo, coah.","delpra","albert",NA,"director"
+"49","mmm348",1926,"cia. Min. la constancia la constancia s. a.",NA,"silver, lead, copper, and zinc.",NA,NA,NA,NA,NA,"coahuila","silver, lead, copper, and zinc.",NA,NA,NA,NA
+"50","mmm348",1926,"cia. Min. la constancia la constancia s. a.",NA,"silver, lead, copper, and zinc.",NA,NA,NA,NA,NA,"coahuila","silver, lead, copper, and zinc.",NA,NA,NA,NA
+"51","mmm351",1926,"cia. minera favorita y a n.s. a.",NA,NA,NA,NA,NA,NA,NA,"monterrey n l","main office, dr. mier 27,, monterrey,, n. l.",NA,NA,NA,NA
+"52","mmm352",1926,"cia. minera favorita y a n.s. a.",NA,"silver lead zinc.",NA,NA,NA,NA,NA,"coahuila","silver lead zinc.",NA,NA,NA,NA
+"53","mmm352",1926,"cia. minera favorita y a n.s. a.",NA,"silver lead zinc.",NA,NA,NA,NA,NA,"coahuila","silver lead zinc.",NA,NA,NA,NA
+"54","mmm352",1926,"cia. minera favorita y a n.s. a.",NA,NA,"This company owns the favorita group of mines.",NA,NA,NA,NA,"coahuila","This company owns the favorita group of mines.",NA,NA,NA,NA
+"55","mmm371",1926,"cia. Min palomas y cabrillas s. a.",NA,NA,"this co. is a subsidiary of the cia. Min. de peñoles, s. a. who operate these mines. See higueras unit of the cia. Min. de peñoles s. a.",NA,NA,NA,NA,"coahuila","this co. is a subsidiary of the cia. Min. de peñoles, s. a. who operate these mines. See higueras unit of the cia. Min. de peñoles s. a.",NA,NA,NA,NA
+"56","mmm376",1926,"great national mexican smelting co.",NA,NA,NA,NA,NA,NA,NA,"new york","president, j. k. macgowan,, new york., ",NA,NA,NA,NA
+"57","mmm376",1926,"great national mexican smelting co.",NA,NA,NA,NA,NA,NA,NA,"new york","president, j. k. macgowan,, new york., ",NA,NA,NA,NA
+"58","mmm380",1926,"mexican coal & coke co.",NA,NA,NA,NA,NA,NA,NA,"st new york","foreign office, 26 cortland st. new york, ",NA,NA,NA,NA
+"59","mmm384",1926,"minas carboniferas de rio escondido",NA,NA,NA,NA,NA,NA,NA,"rio escondido coah","location & p.o., rio escondido, coah., ",NA,NA,NA,NA
+"60","mmm392",1926,"the international ore & smelting co.",NA,"lead silver zinc.",NA,NA,NA,NA,NA,"coahuila","lead silver zinc.",NA,NA,NA,NA
+"61","mmm400",1926,"the international ore & smelting co.",NA,NA,"See also: baca, chih. Unit. Taxco, gue. Unit. El salado, s. l. p. unit.",NA,NA,NA,NA,"coahuila","See also: baca, chih. Unit. Taxco, gue. Unit. El salado, s. l. p. unit.","metzger","england","and","purch. agt."
+"62","mmm402",1926,"the new sabinas co. ltd.",NA,NA,NA,NA,NA,NA,NA,"cloete coah coah","location & p. o., cloete,, coah., coah.",NA,NA,NA,NA
+"63","mmm403",1926,"the new sabinas co. ltd.",NA,NA,NA,NA,NA,NA,NA,"london e c","foreign office, 74 coleman st. london, e. c. 2., ",NA,NA,NA,NA
+"64","mmm403",1926,"the new sabinas co. ltd.",NA,NA,NA,NA,NA,NA,NA,"london e c","foreign office, 74 coleman st. london, e. c. 2., ",NA,NA,NA,NA
+"65","mmm410",1926,"the jimulco mining co.",NA,NA,NA,NA,NA,NA,NA,"san antonio texas","foreign office, p. o. box 788, san antonio, texas",NA,NA,NA,NA
+"66","mmm413",1926,"the jimulco mining co.",NA,NA,NA,NA,NA,NA,NA,"san antonia texas","president, albert steves, p . o . box 1134, san antonia, texas","stevenson","albert",NA,"president"
+"67","mmm413",1926,"the jimulco mining co.",NA,NA,NA,NA,NA,NA,NA,"san antonia texas","president, albert steves, p . o . box 1134, san antonia, texas","stevenson","albert",NA,"president"
+"68","mmm417",1926,"the mazapil copper co. ltd.",NA,NA,NA,NA,NA,NA,NA,"coahuila","l. 600,000",NA,NA,NA,NA
+"69","mmm417",1926,"the mazapil copper co. ltd.",NA,NA,NA,NA,NA,NA,NA,"coahuila","l. 600,000",NA,NA,NA,NA
+"70","mmm418",1926,"the mazapil copper co. ltd.",NA,NA,NA,NA,NA,NA,NA,"apartado saltillo coah","main office in mexico, apartado 64, saltillo, coah.",NA,NA,NA,NA
+"71","mmm419",1926,"the mazapil copper co. ltd.",NA,NA,NA,NA,NA,NA,NA,"st manchester england","foreign office, 47 peter st. manchester, england., ",NA,NA,NA,NA
+"72","mmm422",1926,"the mazapil copper co. ltd.",NA,NA,NA,NA,NA,NA,NA,"manchester england","chairman, joseph ramsden, manchester, england","ramirez","joseph",NA,"chairman"
+"73","mmm427",1926,"the mazapil copper co. ltd.",NA,NA,"see also state of zacatecas",NA,NA,NA,NA,"coahuila","see also state of zacatecas","cavers","t",NA,"smelter spt ."
+"74","mmm442",1926,"bacis gold & silver mining co. ltd.",NA,NA,NA,NA,NA,NA,"organized, on june 7th 1904., ","durango","organized, on june 7th 1904., ",NA,NA,NA,NA
+"75","mmm452",1926,"bacis gold & silver mining co. ltd.",NA,NA,NA,NA,NA,NA,NA,"london","secretary, wm. mcneill, london., ","mcneill","wm",NA,"secretary"
+"76","mmm452",1926,"bacis gold & silver mining co. ltd.",NA,NA,NA,NA,NA,NA,NA,"london","secretary, wm. mcneill, london., ","mcneill","wm",NA,"secretary"
+"77","mmm460",1926,"minas san agustin y anexas",NA,NA,NA,NA,NA,NA,NA,"de guadalupe dgo","location & p. o., san juan de guadalupe, dgo., ",NA,NA,NA,NA
+"78","mmm462",1926,"minas san agustin y anexas",NA,"silver lead.",NA,NA,NA,NA,NA,"durango","silver lead.",NA,NA,NA,NA
+"79","mmm462",1926,"minas san agustin y anexas",NA,"silver lead.",NA,NA,NA,NA,NA,"durango","silver lead.",NA,NA,NA,NA
+"80","mmm479",1926,"cia. min. san andres de la sierra s. a.",NA,NA,NA,NA,NA,NA,NA,"patoni durango dgo","treas., tomas fragoso, patoni 23, durango, dgo.","fox","tomas",NA,"treas."
+"81","mmm489",1926,"compañia minera y beneficiadora mexicana s. a.",NA,NA,NA,NA,NA,NA,NA,"san rafael dgo","location, san rafael, dgo., ",NA,NA,NA,NA
+"82","mmm492",1926,"compañia minera y beneficiadora mexicana s. a.",NA,"gold.",NA,NA,NA,NA,NA,"durango","gold.",NA,NA,NA,NA
+"83","mmm492",1926,"compañia minera y beneficiadora mexicana s. a.",NA,"gold.",NA,NA,NA,NA,NA,"durango","gold.",NA,NA,NA,NA
+"84","mmm495",1926,"compañia minera y beneficiadora mexicana s. a.",NA,NA,NA,NA,"20 metric tons .",NA,NA,"durango","daily output, 20 metric tons ., ",NA,NA,NA,NA
+"85","mmm500",1926,"alberto genty y cia.",NA,NA,"this company was formed on october 8th 1925 to exploit all the properties belonging to alberto genty and f. manuel y cia. sucs. en c.",NA,NA,NA,NA,"durango","this company was formed on october 8th 1925 to exploit all the properties belonging to alberto genty and f. manuel y cia. sucs. en c.",NA,NA,NA,NA
+"86","mmm500",1926,"alberto genty y cia.",NA,NA,"this company was formed on october 8th 1925 to exploit all the properties belonging to alberto genty and f. manuel y cia. sucs. en c.",NA,NA,NA,NA,"durango","this company was formed on october 8th 1925 to exploit all the properties belonging to alberto genty and f. manuel y cia. sucs. en c.",NA,NA,NA,NA
+"87","mmm502",1926,"anita custom mill",NA,NA,NA,NA,NA,NA,NA,"el paso texas","foreign office, 314 two republics bdg., el paso, texas",NA,NA,NA,NA
+"88","mmm502",1926,"anita custom mill",NA,NA,NA,NA,NA,NA,NA,"el paso texas","foreign office, 314 two republics bdg., el paso, texas",NA,NA,NA,NA
+"89","mmm505",1926,"anita custom mill",NA,NA,NA,NA,NA,NA,NA,"name anita","mill name, anita., ",NA,NA,NA,NA
+"90","mmm506",1926,"anita custom mill",NA,NA,NA,NA,NA,NA,NA,"guanacevi dgo","mill location, guanacevi, dgo., ",NA,NA,NA,NA
+"91","mmm507",1926,"anita custom mill",NA,NA,NA,NA,NA,"table & flotation concentration & cyanidation.",NA,"durango","table & flotation concentration & cyanidation., ",NA,NA,NA,NA
+"92","mmm508",1926,"anita custom mill",NA,NA,NA,NA,NA,NA,NA,"el paso texas","owner, e . f . knotts, el paso, texas.","knnis","e","f","owner"
+"93","mmm521",1926,"main office in mexico",NA,NA,NA,NA,NA,NA,NA,"for complete information","main office in mexico, contra estaca, sin., see sinaloa for complete information.",NA,NA,NA,NA
+"94","mmm521",1926,"main office in mexico",NA,NA,"see sinaloa for complete information.",NA,NA,NA,NA,"durango","see sinaloa for complete information.",NA,NA,NA,NA
+"95","mmm526",1926,"foreman",NA,NA,NA,NA,NA,NA,NA,"san dimas dgo","foreman, alejandro gonzalez, san dimas, dgo.","golynos","alejandro",NA,"foreman"
+"96","mmm534",1926,"san luis mining co.",NA,NA,NA,NA,NA,NA,NA,"estacion dimas sinaloa","p. o., c. o cordova y cia. estacion dimas, sinaloa ., ",NA,NA,NA,NA
+"97","mmm535",1926,"san luis mining co.",NA,NA,"this company owns the san luis, arana, & camachin mines, all located at tayoltita, dgo.",NA,NA,NA,NA,"durango","this company owns the san luis, arana, & camachin mines, all located at tayoltita, dgo.",NA,NA,NA,NA
+"98","mmm535",1926,"san luis mining co.",NA,NA,"this company owns the san luis, arana, & camachin mines, all located at tayoltita, dgo.",NA,NA,NA,NA,"durango","this company owns the san luis, arana, & camachin mines, all located at tayoltita, dgo.",NA,NA,NA,NA
+"99","mmm537",1926,"san luis mining co.",NA,NA,NA,NA,NA,"cyanidation.",NA,"durango","cyanidation., ",NA,NA,NA,NA
+"100","mmm543",1926,"san luis mining co.",NA,NA,NA,NA,NA,NA,NA,"estacion dimas sin","chief eng., theo. dickel, estacion dimas, sin.","dick","theo",NA,"chief eng."
+"101","mmm548",1926,"the soto mines co. s. a.",NA,NA,NA,NA,NA,NA,NA,"guanacevi dgo","location & p. o., guanacevi, dgo., ",NA,NA,NA,NA
+"102","mmm551",1926,"the soto mines co. s. a.",NA,NA,NA,NA,NA,NA,NA,"near guanacevi dgo","mill location, san pedro, near guanacevi, dgo.",NA,NA,NA,NA
+"103","mmm555",1926,"the soto mines co. s. a.",NA,NA,NA,NA,NA,NA,NA,"guanacevi dgo","grl. mgr., h. mcleod cobb, guanacevi, dgo.","cobb","herbert",NA,"grl. mgr."
+"104","mmm563",1926,"cia. minera aurora y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"allende mexico df","president, victoriano gomez, allende, mexico, d. f.","goldthwait","victoriano",NA,"president"
+"105","mmm564",1926,"cia. minera aurora y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","vice-pres., jose de caso, mexico, d. f.","caso","jose","de","vice-pres."
+"106","mmm567",1926,"cia. minera cristo rey y anexas s. a.",NA,NA,NA,NA,NA,NA,"organized, in mexico on august 9, 1924, ","guanajuato","organized, in mexico on august 9, 1924, ",NA,NA,NA,NA
+"107","mmm568",1926,"cia. minera cristo rey y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"guanajuato","$150,000 oro nac.",NA,NA,NA,NA
+"108","mmm569",1926,"cia. minera cristo rey y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"escalera guanajuato gto","location & p. o., calle escalera 1, guanajuato, gto.",NA,NA,NA,NA
+"109","mmm570",1926,"cia. minera cristo rey y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"avenida capuchinas room","mexico city office, avenida capuchinas 69, room 414 ., ",NA,NA,NA,NA
+"110","mmm572",1926,"cia. minera cristo rey y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","president, ing. o. h. harrison, mexico, d. f.","harrison","ing",NA,"president"
+"111","mmm575",1926,"compañia del boleo",NA,NA,"the providencia, purgatorio, soledad and other mines",NA,NA,NA,NA,"baja california.","owns, the providencia, purgatorio, soledad and other mines, rosalia, b . c .","chapa","diego","flores","purch. agt."
+"112","mmm585",1926,"cia. minera de angustias dolores y anexas s. a.",NA,NA,NA,NA,"200 metric tons.",NA,NA,"guanajuato","daily output, 200 metric tons., ",NA,NA,NA,NA
+"113","mmm591",1926,"cia. minera de angustias dolores y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"pozos gto","mine spt., j. welsh, pozos, gto.","welsh","james",NA,"mine spt."
+"114","mmm596",1926,"cia. minera del cubo s. a.",NA,NA,NA,NA,NA,NA,NA,"guanajuato","$350, 000 oro nac",NA,NA,NA,NA
+"115","mmm598",1926,"cia. minera del cubo s. a.",NA,NA,NA,NA,NA,NA,NA,"apartado guanajuato gto","p. o., apartado 49, guanajuato, gto.",NA,NA,NA,NA
+"116","mmm601",1926,"cia. minera del cubo s. a.",NA,NA,NA,NA,NA,NA,NA,"name tajo","mill name, tajo., ",NA,NA,NA,NA
+"117","mmm603",1926,"cia. minera del cubo s. a.",NA,NA,NA,NA,NA,NA,NA,"apartado guanajuato gto","mill p. o, apartado 49, guanajuato, gto.",NA,NA,NA,NA
+"118","mmm606",1926,"cia. minera del cubo s. a.",NA,NA,NA,NA,NA,NA,NA,"chicago ill","president, h. l. hollis, chicago, ill.","hollingworth","h",NA,"president"
+"119","mmm610",1926,"cia. minera del cubo s. a.",NA,NA,NA,NA,NA,NA,NA,"guanajuato gto","mine spt., s. c. buchanan, guanajuato, gto.","buchanan","s",NA,"mine spt."
+"120","mmm613",1926,"cia. minera explotadora y benificiado ra de guanajuato s. a.",NA,NA,NA,NA,NA,NA,NA,"apartado guanajuato gto","p. o., apartado 78, guanajuato, gto.",NA,NA,NA,NA
+"121","mmm617",1926,"cia. minera explotadora y benificiado ra de guanajuato s. a.",NA,NA,NA,NA,NA,"table concentration & cyanidation.",NA,"guanajuato","table concentration & cyanidation., ",NA,NA,NA,NA
+"122","mmm620",1926,"cia. minera explotadora y benificiado ra de guanajuato s. a.",NA,NA,NA,NA,NA,NA,NA,"guanajuato gto","grl. mgr., f. e. cabrero, guanajuato, gto.","cacere","f",NA,"grl. mgr."
+"123","mmm639",1926,"guanajuato consolidated mining & milling co.",NA,NA,NA,NA,NA,NA,NA,"guanajuato gto","chief electr., pancho garcía, guanajuato, gto.","garber","pancho",NA,"chief electr."
+"124","mmm645",1926,"guanajuato reduction & mines co.",NA,NA,NA,NA,NA,NA,NA,"apartado guanajuato gto","p. o., apartado 55, guanajuato, gto.",NA,NA,NA,NA
+"125","mmm647",1926,"guanajuato reduction & mines co.",NA,"silver gold.",NA,NA,NA,NA,NA,"guanajuato","silver gold.",NA,NA,NA,NA
+"126","mmm651",1926,"guanajuato reduction & mines co.",NA,NA,NA,NA,NA,NA,NA,"guanajuato gto","purch. agt., henry p. smith, guanajuato, gto.","smith","henry","p","purch. agt."
+"127","mmm653",1926,"guanajuato reduction & mines co.",NA,NA,NA,NA,NA,NA,NA,"guanajuato gto","master mech., victor osterman, guanajuato, gto.","osgood","victor",NA,"master mech."
+"128","mmm657",1926,"guanajuato reduction & mines co.",NA,NA,NA,NA,NA,NA,NA,"guanajuato","spt, J. c. archibald, ","archibald","j",NA,"spt"
+"129","mmm657",1926,"guanajuato reduction & mines co.",NA,NA,NA,NA,NA,NA,NA,"guanajuato","spt, J. c. archibald, ","ralph","p",NA,"spt"
+"130","mmm661",1926,"natural products producing corp.",NA,NA,NA,NA,NA,NA,"organized, in 1925 in new york., ","guanajuato","organized, in 1925 in new york., ",NA,NA,NA,NA
+"131","mmm665",1926,"natural products producing corp.",NA,NA,NA,NA,NA,"mill in construction",NA,"guanajuato","mill in construction, ",NA,NA,NA,NA
+"132","mmm665",1926,"natural products producing corp.",NA,NA,NA,NA,NA,"mill in construction",NA,"guanajuato","mill in construction, ",NA,NA,NA,NA
+"133","mmm667",1926,"natural products producing corp.",NA,NA,NA,NA,NA,NA,NA,"san felipe gto","vice-pres., i. m. hirshfeld, san felipe, gto.","hirschel","i",NA,"vice-pres."
+"134","mmm668",1926,"natural products producing corp.",NA,NA,NA,NA,NA,NA,NA,"new york","asst. treas., g. j. mcelwee, new york., ","mcdowell","g",NA,"asst. treas."
+"135","mmm670",1926,"natural products producing corp.",NA,NA,NA,NA,NA,NA,NA,"san felipe gto","superintendent, joaquin galvan, san felipe, gto.","galloway","joaquin",NA,"superintendent"
+"136","mmm679",1926,"united mines co.",NA,NA,NA,NA,NA,NA,NA,"o apartado guanajuato","p. o., apartado 33, guanajuato, ",NA,NA,NA,NA
+"137","mmm680",1926,"united mines co.",NA,"silver gold",NA,NA,NA,NA,NA,"guanajuato","silver gold",NA,NA,NA,NA
+"138","mmm697",1926,"cia. minera chontalpan y anexas s. a.",NA,NA,NA,NA,"50 metric tons.",NA,NA,"guerrero","daily output., 50 metric tons., ",NA,NA,NA,NA
+"139","mmm702",1926,"cia. minera chontalpan y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"zacualpan mex","grl. spt., j. cleveland jones, zacualpan, mex.","jones","j","m","grl. spt."
+"140","mmm707",1926,"suriana mining & smelting co.",NA,NA,NA,NA,NA,NA,NA,"achotla gro","location, achotla, gro., ",NA,NA,NA,NA
+"141","mmm708",1926,"suriana mining & smelting co.",NA,NA,NA,NA,NA,NA,NA,"campo morado gro","p. o., c/o general development co., campo morado, gro.",NA,NA,NA,NA
+"142","mmm720",1926,"the international ore & smelting co.",NA,"silver lead zinc",NA,NA,NA,NA,NA,"guerrero","silver lead zinc",NA,NA,NA,NA
+"143","mmm724",1926,"the international ore & smelting co.",NA,NA,NA,NA,NA,NA,NA,"taxco gro","ming. eng., santiago soto, taxco, gro.","sorensen","santiago",NA,"ming. eng."
+"144","mmm727",1926,"los membrillos s. a.",NA,NA,NA,NA,NA,NA,NA,"guerrero","30,000 oro nac.",NA,NA,NA,NA
+"145","mmm730",1926,"los membrillos s. a.",NA,"silver lead zinc.",NA,NA,NA,NA,NA,"guerrero","silver lead zinc.",NA,NA,NA,NA
+"146","mmm730",1926,"los membrillos s. a.",NA,"silver lead zinc.",NA,NA,NA,NA,NA,"guerrero","silver lead zinc.",NA,NA,NA,NA
+"147","mmm731",1926,"los membrillos s. a.",NA,NA,NA,NA,NA,NA,NA,"taxco gro","president, j. j enson, taxco, gro.","ennis","j",NA,"president"
+"148","mmm735",1926,"blaisdell coscotitlan syndicate",NA,NA,NA,NA,NA,NA,"organized, in california in 1907., gro.","hidalgo","organized, in california in 1907., gro.",NA,NA,NA,NA
+"149","mmm745",1926,"blaisdell coscotitlan syndicate",NA,NA,NA,NA,NA,NA,NA,"pachuca hgo","mill spt., e. hernandez, pachuca, hgo.","heritage","e",NA,"mill spt."
+"150","mmm749",1926,"cia. beneficiadora de pachoca s. a.",NA,NA,"this co. is the milling co. of cia. de santa gertrudis s. a. and is subsidiary of cia. de santa gertrudis, s. a., pachuca, hgo.",NA,NA,NA,NA,"hidalgo","this co. is the milling co. of cia. de santa gertrudis s. a. and is subsidiary of cia. de santa gertrudis, s. a., pachuca, hgo.",NA,NA,NA,NA
+"151","mmm768",1926,"cia. de real del monte y pachuca",NA,NA,NA,NA,NA,NA,NA,"cajas pachuca hgo","location, las cajas, pachuca, hgo.",NA,NA,NA,NA
+"152","mmm785",1926,"cia. de real del monte y pachuca",NA,NA,NA,NA,NA,NA,NA,"pachuca hgo","geologist, geo. o. scarfe, pachuca, hgo.","scallon","geo",NA,"geologist"
+"153","mmm788",1926,"cia. de real del monte y pachuca",NA,NA,"see also: cia. Metalurgica de atotonilco el chico, pachua, hgo. Cia. Exploradora de hildalgo, s. a., pachuca, hgo. Cia. Exploradora, s. a., tepic, nay.",NA,NA,NA,NA,"hidalgo","see also: cia. Metalurgica de atotonilco el chico, pachua, hgo. Cia. Exploradora de hildalgo, s. a., pachuca, hgo. Cia. Exploradora, s. a., tepic, nay.","coutts","n",NA,"master mech."
+"154","mmm790",1926,"cia. min. de guadalupe hidalgo y an. s. a.",NA,NA,NA,NA,NA,NA,"organized, in mexico ., ","hidalgo","organized, in mexico ., ",NA,NA,NA,NA
+"155","mmm793",1926,"cia. min. de guadalupe hidalgo y an. s. a.",NA,NA,"this company is leased to the cía. Explorado de hidalgo, s. a.",NA,NA,NA,NA,"hidalgo","this company is leased to the cía. Explorado de hidalgo, s. a.",NA,NA,NA,NA
+"156","mmm812",1926,"cia. de santa gertrudis s. a.",NA,NA,NA,NA,NA,NA,NA,"pachuca hgo","asst. grl. Mgr., f. h. walsh, pachuca, hgo.","walsh","f",NA,"asst. grl. Mgr."
+"157","mmm822",1926,"cia. Dos carlos s. a.",NA,NA,"this co. is a subsidiary of cia. De santa gertrudis, s. a.",NA,NA,NA,NA,"hidalgo","this co. is a subsidiary of cia. De santa gertrudis, s. a.",NA,NA,NA,NA
+"158","mmm832",1926,"cia. Metalurgica de atotonilco el chico",NA,NA,NA,NA,NA,NA,NA,"pachuca hgo","director, m. h. kuryla, pachuca, hgo.","kunze","michael",NA,"director"
+"159","mmm836",1926,"cia. minera y fundidora de zimapan s. a",NA,NA,NA,NA,NA,NA,NA,"zimapan hgo","location & p. o., zimapan,, hgo., ",NA,NA,NA,NA
+"160","mmm846",1926,"el chico gold-silver mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"el chico hgo","location, el chico, hgo., ",NA,NA,NA,NA
+"161","mmm853",1926,"negociacion minera de san rafael y anexas s. a.",NA,NA,NA,NA,NA,NA,"organized, in mexico in 187 4 ., ","hidalgo","organized, in mexico in 187 4 ., ",NA,NA,NA,NA
+"162","mmm862",1926,"negociacion minera de san rafael y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","secr., lic. alfonso septien, mexico, d. f.","september","lic",NA,"secr."
+"163","mmm871",1926,"negociacion minera de san rafael y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"pachuca hgo","grl. storekeeper, j. ramila, pachuca, hgo.","raleigh","j","local","grl. storekeeper"
+"164","mmm871",1926,"negociacion minera de san rafael y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"pachuca hgo","grl. storekeeper, j. ramila, pachuca, hgo.","raleigh","j","local","grl. storekeeper"
+"165","mmm874",1926,"negociacion minera hacienda purisma grande y minas guadalupe y anexas",NA,NA,NA,NA,NA,NA,NA,"grande pachuca hgo","location, hda. Purisima grande,, pachuca, hgo",NA,NA,NA,NA
+"166","mmm882",1926,"negociacion minera hacienda purisma grande y minas guadalupe y anexas",NA,NA,NA,NA,NA,NA,NA,"mexico df","secr., m. serralde, mexico, d. f.","serjeant","m",NA,"secr."
+"167","mmm887",1926,"amparo mining co.",NA,NA,NA,NA,NA,NA,"organized, in 1902 in New Jersey, ","jalisco","organized, in 1902 in New Jersey, ",NA,NA,NA,NA
+"168","mmm891",1926,"amparo mining co.",NA,NA,NA,NA,NA,NA,NA,"city office gante","mexico city office, gante 8., ",NA,NA,NA,NA
+"169","mmm905",1926,"amparo mining co.",NA,NA,"See also: nueva cia. Min. la mazata y an., s. a. cia. Minera la piedra bola, s. a.",NA,NA,NA,NA,"jalisco","See also: nueva cia. Min. la mazata y an., s. a. cia. Minera la piedra bola, s. a.",NA,NA,NA,NA
+"170","mmm905",1926,"amparo mining co.",NA,NA,"See also: nueva cia. Min. la mazata y an., s. a. cia. Minera la piedra bola, s. a.",NA,NA,NA,NA,"jalisco","See also: nueva cia. Min. la mazata y an., s. a. cia. Minera la piedra bola, s. a.",NA,NA,NA,NA
+"171","mmm907",1926,"cinco minas co.",NA,NA,NA,NA,NA,NA,NA,"cinco minas jal","location, cinco minas, jal., ",NA,NA,NA,NA
+"172","mmm936",1926,"cia. Minera de jalisco s. a.",NA,NA,NA,NA,NA,NA,NA,"office capuchinas room","mexico city office, capuchinas 69 room 414, ",NA,NA,NA,NA
+"173","mmm954",1926,"cia. minera de zacatongo s. a.",NA,"silver gold.",NA,NA,NA,NA,NA,"jalisco","silver gold.",NA,NA,NA,NA
+"174","mmm959",1926,"cia. minera de zacatongo s. a.",NA,NA,NA,NA,NA,NA,NA,"mascota jal","mech. eng., j. w. mcalister, mascota, jal.","mayo","james",NA,"mech. eng."
+"175","mmm961",1926,"cia. minera del aguila s. a.",NA,NA,NA,NA,NA,NA,NA,"cinco minas jal","location, cinco minas, jal., ",NA,NA,NA,NA
+"176","mmm961",1926,"cia. minera del aguila s. a.",NA,NA,NA,NA,NA,NA,NA,"cinco minas jal","location, cinco minas, jal., ",NA,NA,NA,NA
+"177","mmm970",1926,"cia. Minera la loteria",NA,NA,NA,NA,NA,NA,NA,"huachinango jal","location, huachinango,, jal., ",NA,NA,NA,NA
+"178","mmm972",1926,"cia. Min. la piedra bola s. a.",NA,NA,NA,NA,NA,NA,"organized, on october 15th 1921 in mexico, d. f., ","jalisco","organized, on october 15th 1921 in mexico, d. f., ",NA,NA,NA,NA
+"179","mmm973",1926,"cia. Min. la piedra bola s. a.",NA,NA,NA,NA,NA,NA,NA,"jalisco","$1. 000,000 oro nac.",NA,NA,NA,NA
+"180","mmm978",1926,"cia. Min. la piedra bola s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","president, alfred main, mexico, d. f.","mahony","alfred",NA,"president"
+"181","mmm992",1926,"el favor mining co.",NA,NA,NA,NA,NA,NA,NA,"la quemada jal","cons. eng., a. a. hohander, la quemada, jal.","hogg","a",NA,"cons. eng."
+"182","mmm997",1926,"espada mines co.",NA,"silver gold.",NA,NA,NA,NA,NA,"jalisco","silver gold.",NA,NA,NA,NA
+"183","mmm997",1926,"espada mines co.",NA,"silver gold.",NA,NA,NA,NA,NA,"jalisco","silver gold.",NA,NA,NA,NA
+"184","mmm1001",1926,"espada mines co.",NA,NA,NA,NA,NA,NA,NA,"la quemada jal","master mech., ernest bandisch, la quemada, jal.","bandies","ernest",NA,"master mech."
+"185","mmm1017",1926,"negociacion minera de san rafael y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"magdalena jal","mine spt., p. l. stockdale, magdalena, jal.","stockbridge","percy",NA,"mine spt."
+"186","mmm1027",1926,"nueva cia. mjn. la mazata y an. s. a.",NA,NA,NA,NA,NA,NA,NA,"etzatlan jal","asst. mine spt, f. g. willson, etzatlan, jal.","willson","f",NA,"asst. mine spt"
+"187","mmm1047",1926,"compañia esperanza s. a.",NA,NA,NA,NA,NA,NA,NA,"pachuca hgo","cons. eng., c.a. lantz, pachuca, hgo.","lanigan","c",NA,"cons. eng."
+"188","mmm1051",1926,"cia. minera la quimica y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico","$500,000 oro nac.",NA,NA,NA,NA
+"189","mmm1055",1926,"cia. minera la quimica y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"name guadalupe","mill name, guadalupe., ",NA,NA,NA,NA
+"190","mmm1071",1926,"cia. min. san miguel y an. s. a.",NA,NA,NA,NA,NA,NA,NA,"tenango mex","location & p. o., tenango, mex., ",NA,NA,NA,NA
+"191","mmm1074",1926,"cia. min. san miguel y an. s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","president, h. j. carrasco, mexico, d. f.","carrasco","h",NA,"president"
+"192","mmm1079",1926,"el oro mining railway co. ltd.",NA,NA,NA,NA,NA,NA,NA,"mexico","l. 1.150,000.",NA,NA,NA,NA
+"193","mmm1080",1926,"el oro mining railway co. ltd.",NA,NA,NA,NA,NA,NA,NA,"london e c","foreign office, 24 lombard st. london, e. c., ",NA,NA,NA,NA
+"194","mmm1082",1926,"el oro mining railway co. ltd.",NA,NA,NA,NA,NA,NA,NA,"office avenida juarez","mexico city office, avenida juarez 83 ., ",NA,NA,NA,NA
+"195","mmm1085",1926,"el oro mining railway co. ltd.",NA,NA,NA,NA,NA,"table concentration & cyanidation.",NA,"mexico","table concentration & cyanidation., ",NA,NA,NA,NA
+"196","mmm1090",1926,"el oro mining railway co. ltd.",NA,NA,NA,NA,NA,NA,NA,"df","business mgr., e. r. atchison, d. f., ","atchison","e",NA,"business mgr."
+"197","mmm1091",1926,"el oro mining railway co. ltd.",NA,NA,NA,NA,NA,NA,NA,"el oro mex","asst. grl. mgr., herbert c. enos, el oro, mex.","english","herbert","conultini","asst. grl. mgr."
+"198","mmm1097",1926,"el toro mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"zacualpan mex","location & p. o., zacualpan, mex., ",NA,NA,NA,NA
+"199","mmm1104",1926,"negociacion minera el alacran y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico","$120,000 oro nac",NA,NA,NA,NA
+"200","mmm1107",1926,"negociacion minera el alacran y anexas s. a.",NA,NA,"this company owns several mines in the district of sultepec, mex.",NA,NA,NA,NA,"mexico","this company owns several mines in the district of sultepec, mex.",NA,NA,NA,NA
+"201","mmm1108",1926,"negociacion minera el alacran y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","president, agustin legorreta, mexico, d. f.","leeso","agustin",NA,"president"
+"202","mmm1116",1926,"negociacion minera san juan bautista y anexas",NA,"silver gold.",NA,NA,NA,NA,NA,"mexico","silver gold.",NA,NA,NA,NA
+"203","mmm1117",1926,"negociacion minera san juan bautista y anexas",NA,NA,NA,NA,NA,NA,NA,"sultepec mexico","mill location, sultepec, mexico, ",NA,NA,NA,NA
+"204","mmm1137",1926,"the mexican mines of el oro, ltd.",NA,NA,NA,NA,NA,NA,NA,"el oro mex","purch. agt., m. d. steta, el oro, mex.","sterne","m",NA,"purch. agt."
+"205","mmm1142",1926,"the mexican mines of el oro, ltd.",NA,NA,NA,NA,NA,NA,NA,"el oro mex","eiectr. eng., j. l. crostwait, el oro, mex.","crossley","john","william","eiectr. eng."
+"206","mmm1142",1926,"the mexican mines of el oro, ltd.",NA,NA,NA,NA,NA,NA,NA,"el oro mex","eiectr. eng., j. l. crostwait, el oro, mex.","crossley","john","william","eiectr. eng."
+"207","mmm1147",1926,"cia. minera borda antigua y anexas s. a.",NA,NA,NA,NA,NA,NA,"organized, in mexico in 1887., ","michoacan","organized, in mexico in 1887., ",NA,NA,NA,NA
+"208","mmm1152",1926,"cia. minera borda antigua y anexas s. a.",NA,NA,"this co. owns the borda antigua, refugio, josefina, sta. rosa, tesoro, de borda, maravillas, azteca, sta. rita, coloradillas, la luz de la sirena, s. antonio comargo. Requeña, st. luis, carmen de los virgenes mines of which the borda antigua is the best producing property.",NA,NA,NA,NA,"michoacan","this co. owns the borda antigua, refugio, josefina, sta. rosa, tesoro, de borda, maravillas, azteca, sta. rita, coloradillas, la luz de la sirena, s. antonio comargo. Requeña, st. luis, carmen de los virgenes mines of which the borda antigua is the best producing property.",NA,NA,NA,NA
+"209","mmm1153",1926,"cia. minera borda antigua y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"officers personnel","officers personnel, ",NA,NA,NA,NA
+"210","mmm1156",1926,"cia. minera borda antigua y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","grl. mgr., h. e. nyberg, mexico, d. f.","nutt","harry","hol","grl. mgr."
+"211","mmm1160",1926,"cia. minera borda antigua y anexas s. a.",NA,NA,NA,NA,NA,NA,NA,"dos estrellas mich","geologist, r. p. jarvis, mineral de dos estrellas, mich.","jarrett","royal",NA,"geologist"
+"212","mmm1173",1926,"cia. minera de lais dos estrellas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","secr. & treas., arturo heymann, mexico, d. f.","hewlett","arturo",NA,"secr. & treas."
+"213","mmm1175",1926,"cia. minera de lais dos estrellas s. a.",NA,NA,NA,NA,NA,NA,NA,"dos estrellas mich","gr. mgr, h. e. nyberg mineral de dos estrellas, mineral de dos estrellas, mich.","estates","h",NA,"gr. mgr"
+"214","mmm1176",1926,"cia. minera de lais dos estrellas s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","purch. agt., manuel b. chavez, mexico, d. f.","chavez","manuel",NA,"purch. agt."
+"215","mmm1186",1926,"amajac mines co.",NA,"silver gold.",NA,NA,NA,NA,NA,"nayarit","silver gold.",NA,NA,NA,NA
+"216","mmm1189",1926,"amajac mines co.",NA,NA,NA,NA,"35 metric tons.",NA,NA,"nayarit","daily output, 35 metric tons., ",NA,NA,NA,NA
+"217","mmm1189",1926,"amajac mines co.",NA,NA,NA,NA,"35 metric tons.",NA,NA,"nayarit","daily output, 35 metric tons., ",NA,NA,NA,NA
+"218","mmm1194",1926,"cia. exploradora de hidalgo s. a.",NA,NA,"this company is subsidiary of cia. de real del monte y pachuca, pachuca, hgo.",NA,NA,NA,NA,"nayarit","this company is subsidiary of cia. de real del monte y pachuca, pachuca, hgo.",NA,NA,NA,NA
+"219","mmm1196",1926,"cia. exploradora de hidalgo s. a.",NA,NA,NA,NA,NA,NA,NA,"tepic nay","local spt, maurice breen, tepic, nay.","breen","maurice",NA,"local spt"
+"220","mmm1198",1926,"humboldt mining co.",NA,NA,NA,NA,NA,NA,NA,"del rio nay","location, 6 miles south of ixtlan del rio, nay., ",NA,NA,NA,NA
+"221","mmm1203",1926,"humboldt mining co.",NA,NA,NA,NA,"50 metric tons",NA,NA,"nayarit","daily output, 50 metric tons, ",NA,NA,NA,NA
+"222","mmm1204",1926,"humboldt mining co.",NA,NA,NA,NA,NA,NA,NA,"bdg Philadelphia pa","president, t. f. taylor, drexel bdg. Philadelphia, pa.","taylor","thomas",NA,"president"
+"223","mmm1210",1926,"la corona mining milling co.",NA,NA,"this company owns the magnolia, capitana and tejon mines.",NA,NA,NA,NA,"nayarit","this company owns the magnolia, capitana and tejon mines.",NA,NA,NA,NA
+"224","mmm1211",1926,"la corona mining milling co.",NA,NA,NA,NA,NA,NA,NA,"yago nay","mill location, yago, nay., ",NA,NA,NA,NA
+"225","mmm1220",1926,"negociacion minera de huicicila",NA,NA,NA,NA,NA,NA,NA,"stoneboro pa","owner, george h. mclntire, stoneboro, pa.","mcleod","george",NA,"owner"
+"226","mmm1226",1926,"san miguel mining co.",NA,NA,NA,NA,NA,NA,NA,"calle madero guadalajara","purch. agt., w. l. smart, calle madero 218, guadalajara","smart","william","frederick","purch. agt."
+"227","mmm1235",1926,"cia. exploradora de minas viejas s. a.",NA,NA,NA,NA,NA,NA,NA,"viejas n l","location, minas viejas, n. l., ",NA,NA,NA,NA
+"228","mmm1243",1926,"cia. fundidora de fierro y acero de monterrey.",NA,NA,NA,NA,NA,NA,NA,"sts new york","foreign office, 5th & beekman sts . new york, ",NA,NA,NA,NA
+"229","mmm1245",1926,"cia. fundidora de fierro y acero de monterrey.",NA,NA,NA,NA,NA,NA,NA,"mexico df","president, adolfo prieto, mexico, d. f.","pridgecn","adolfo",NA,"president"
+"230","mmm1255",1926,"cia. fundidora de fierro y acero de monterrey.",NA,NA,NA,NA,NA,NA,NA,"monterrey n l","ming. eng., w. davisson, monterrey, n. l.","davison","william","bell","ming. eng."
+"231","mmm1261",1926,"cia. minera la soledad s. a.",NA,NA,NA,NA,NA,NA,NA,"hildalgo n l","location, sierra . de minas viejas district, sabinas hildalgo, n. l.",NA,NA,NA,NA
+"232","mmm1262",1926,"cia. minera la soledad s. a.",NA,NA,NA,NA,NA,NA,NA,"sabinas n l","local p. o, sabinas, n. l., ",NA,NA,NA,NA
+"233","mmm1264",1926,"cia. minera la soledad s. a.",NA,NA,"this company owns the la soledad mine.",NA,NA,NA,NA,"nuevo leon","this company owns the la soledad mine.",NA,NA,NA,NA
+"234","mmm1271",1926,"cia. min. santa eugenia de monterrey y anexas",NA,NA,"this company owns the santa eugenia mine.",NA,NA,NA,NA,"nuevo leon","this company owns the santa eugenia mine.",NA,NA,NA,NA
+"235","mmm1272",1926,"cia. min. santa eugenia de monterrey y anexas",NA,NA,NA,NA,NA,NA,NA,"monterrey n l","manager, a. r. bushnell, monterrey, n. l.","bushnell","a",NA,"manager"
+"236","mmm1272",1926,"cia. min. santa eugenia de monterrey y anexas",NA,NA,NA,NA,NA,NA,NA,"monterrey n l","manager, a. r. bushnell, monterrey, n. l.","bushnell","a",NA,"manager"
+"237","mmm1274",1926,"hijos de a. carnavali",NA,NA,NA,NA,NA,NA,NA,"mitra n l","location, sierra de la mitra, n. l., ",NA,NA,NA,NA
+"238","mmm1278",1926,"inspiration mining co.",NA,NA,NA,NA,NA,NA,NA,"vallecillo n l","location & p. o., vallecillo, n. l., ",NA,NA,NA,NA
+"239","mmm1280",1926,"la paz mine",NA,NA,NA,NA,NA,NA,NA,"la paz mine","la paz mine, ",NA,NA,NA,NA
+"240","mmm1286",1926,"sindicato minero fundidor cerralvo bustamante s. a.",NA,NA,NA,NA,NA,NA,NA,"picachos n l","location, sierra picachos, n. l., ",NA,NA,NA,NA
+"241","mmm1286",1926,"sindicato minero fundidor cerralvo bustamante s. a.",NA,NA,NA,NA,NA,NA,NA,"picachos n l","location, sierra picachos, n. l., ",NA,NA,NA,NA
+"242","mmm1286",1926,"sindicato minero fundidor cerralvo bustamante s. a.",NA,NA,NA,NA,NA,NA,NA,"picachos n l","location, sierra picachos, n. l., ",NA,NA,NA,NA
+"243","mmm1288",1926,"sindicato minero fundidor cerralvo bustamante s. a.",NA,NA,NA,NA,NA,NA,NA,"monterrey n l","main office in mexico, apartado 102,, monterrey, n. l.",NA,NA,NA,NA
+"244","mmm1289",1926,"sindicato minero fundidor cerralvo bustamante s. a.",NA,"lead silver.",NA,NA,NA,NA,NA,"nuevo leon","lead silver.",NA,NA,NA,NA
+"245","mmm1296",1926,"cia. min. natividad y an. s. a.",NA,NA,NA,NA,NA,NA,"organized, in oaxaca ., ","oaxaca","organized, in oaxaca ., ",NA,NA,NA,NA
+"246","mmm1299",1926,"cia. min. natividad y an. s. a.",NA,NA,NA,NA,NA,NA,NA,"de juarez oax","p. o., ixtlan de juarez, oax., ",NA,NA,NA,NA
+"247","mmm1315",1926,"minas la leona y jucamaya",NA,NA,NA,NA,NA,NA,NA,"o oaxaca oax","p. o., oaxaca, oax., ",NA,NA,NA,NA
+"248","mmm1364",1926,"cia. minera sucesora nueva paz y anexas s. a.",NA,NA,"this company owns the santa maria, esmeralda & santa fe mines all located at la paz, s. l. p. see also: minera sucesora nueva paz y an., s. a. at matehuala, s. l. p.",NA,NA,NA,NA,"san luis potosi","this company owns the santa maria, esmeralda & santa fe mines all located at la paz, s. l. p. see also: minera sucesora nueva paz y an., s. a. at matehuala, s. l. p.",NA,NA,NA,NA
+"249","mmm1372",1926,"potosi rio verde railway co.",NA,NA,"c/o a. s. & r. co. see special information (end of mining list.)",NA,NA,NA,NA,"san luis potosi","c/o a. s. & r. co. see special information (end of mining list.)",NA,NA,NA,NA
+"250","mmm1374",1926,"the international ore smelting co.",NA,NA,NA,NA,NA,NA,NA,"s l p","local office, el salado, s. l. p., ",NA,NA,NA,NA
+"251","mmm1376",1926,"the international ore smelting co.",NA,NA,NA,NA,NA,NA,NA,"officers personnel","officers personnel, ",NA,NA,NA,NA
+"252","mmm1385",1926,"the republican mining metal co.",NA,NA,"this co. is subsidiary of cookson co. ltd. London, england",NA,NA,NA,NA,"san luis potosi","this co. is subsidiary of cookson co. ltd. London, england",NA,NA,NA,NA
+"253","mmm1388",1926,"the republican mining metal co.",NA,NA,NA,NA,NA,NA,NA,"s l p","purch. agt., r. g. winship, wadley, s. l. p.","winship","r",NA,"purch. agt."
+"254","mmm1397",1926,"cia. minera de panuco",NA,NA,NA,NA,NA,NA,NA,"mazatlan sin","manager, cesario puente, mazatlan, sin.","przybylski","cesario",NA,"manager"
+"255","mmm1409",1926,"mexican candelaria co. s. a.",NA,"silver gold.",NA,NA,NA,NA,NA,"sinaloa","silver gold.",NA,NA,NA,NA
+"256","mmm1417",1926,"mexican candelaria co. s. a.",NA,NA,NA,NA,NA,NA,NA,"munro grl foreman","rosario mine, d. m. munro, grl foreman, ",NA,NA,NA,NA
+"257","mmm1420",1926,"mexican candelaria co. s. a.",NA,NA,NA,NA,"200 metric tons.",NA,NA,"sinaloa","daily output, 200 metric tons., ",NA,NA,NA,NA
+"258","mmm1422",1926,"mexican candelaria co. s. a.",NA,NA,"see also san dimas, dgo. Unit",NA,NA,NA,NA,"sinaloa","see also san dimas, dgo. Unit","cenedella","inocente",NA,"master mech."
+"259","mmm1426",1926,"minas el tajo s. a.",NA,NA,NA,NA,NA,NA,NA,"rosario sin","mill location, rosario, sin., ",NA,NA,NA,NA
+"260","mmm1456",1926,"nueva compañia de san vicente",NA,NA,NA,NA,NA,NA,NA,"san vicente sin","mech. eng., jesus anaya, san vicente, sin.","anaon","jesus",NA,"mech. eng."
+"261","mmm1459",1926,"the potrero co.",NA,NA,NA,NA,NA,NA,NA,"magistral sin","location, magistral, sin., ",NA,NA,NA,NA
+"262","mmm1466",1926,"the potrero co.",NA,NA,NA,NA,NA,NA,NA,"los angeles calif","president, lyttleton price, los angeles, calif.","price","lyttleton","atest","president"
+"263","mmm1476",1926,"calumet sonora co. s. a.",NA,NA,NA,NA,NA,NA,NA,"cananea son","mill location, cananea, son., ",NA,NA,NA,NA
+"264","mmm1479",1926,"calumet sonora co. s. a.",NA,NA,NA,NA,NA,NA,NA,"sonora","president, j. h. sanford, ","sandy","j",NA,"president"
+"265","mmm1479",1926,"calumet sonora co. s. a.",NA,NA,NA,NA,NA,NA,NA,"sonora","president, j. h. sanford, ","sandy","j",NA,"president"
+"266","mmm1482",1926,"calumet sonora co. s. a.",NA,NA,NA,NA,NA,NA,NA,"sonora","attorney, g. young., ",NA,NA,NA,NA
+"267","mmm1483",1926,"calumet sonora co. s. a.",NA,NA,NA,NA,NA,NA,NA,"zacatecas zac","grl. mgr., henry wyman, zacatecas, zac.","wyman","henry",NA,"grl. mgr."
+"268","mmm1485",1926,"creston colorada co.",NA,NA,NA,NA,NA,NA,NA,"la colorada son","local office, la colorada, son., ",NA,NA,NA,NA
+"269","mmm1490",1926,"dolores esperanza corp.",NA,NA,NA,NA,NA,NA,NA,"la dura son","location, la dura, son., ",NA,NA,NA,NA
+"270","mmm1492",1926,"dolores esperanza corp.",NA,NA,NA,NA,NA,NA,NA,"black new york","president, h. s. black, black, new york","black","h","crawfjrd","president"
+"271","mmm1494",1926,"dolores esperanza corp.",NA,NA,NA,NA,NA,NA,NA,"la dura son","gr. mgr, f.m. estes, la dura, son.","estates","francis",NA,"gr. mgr"
+"272","mmm1499",1926,"el canario consolidated copper co. s. a.",NA,NA,NA,NA,NA,NA,NA,"new york","president, j. edward michel, new york, ","mice","j",NA,"president"
+"273","mmm1506",1926,"la dura mill & mining co.",NA,NA,"this company is subsidiary of dolores esperanza corp. new york.",NA,NA,NA,NA,"sonora","this company is subsidiary of dolores esperanza corp. new york.",NA,NA,NA,NA
+"274","mmm1521",1926,"pedrazzini gold silver mining co.",NA,NA,NA,NA,NA,NA,NA,"las chispas son","location, las chispas, son., ",NA,NA,NA,NA
+"275","mmm1524",1926,"pedrazzini gold silver mining co.",NA,NA,"this company owns the san gotardo & el carmen mines",NA,NA,NA,NA,"sonora","this company owns the san gotardo & el carmen mines",NA,NA,NA,NA
+"276","mmm1537",1926,"the cananea consolidated copper co. s. a.",NA,NA,"this company is subsidiary of green consolidated copper co., s. a. 42 broadway, new york.",NA,NA,NA,NA,"sonora","this company is subsidiary of green consolidated copper co., s. a. 42 broadway, new york.",NA,NA,NA,NA
+"277","mmm1538",1926,"the cananea consolidated copper co. s. a.",NA,"copper.",NA,NA,NA,NA,NA,"sonora","copper.",NA,NA,NA,NA
+"278","mmm1540",1926,"the cananea consolidated copper co. s. a.",NA,NA,NA,NA,NA,"flotation",NA,"sonora","flotation, concentration, ",NA,NA,NA,NA
+"279","mmm1542",1926,"the cananea consolidated copper co. s. a.",NA,NA,NA,NA,NA,NA,NA,"cananea son","smelter location, cananea, son., ",NA,NA,NA,NA
+"280","mmm1555",1926,"the moctezuma co.",NA,NA,NA,NA,NA,NA,NA,"de nacozari son","location, pilares de nacozari, son., ",NA,NA,NA,NA
+"281","mmm1555",1926,"the moctezuma co.",NA,NA,NA,NA,NA,NA,NA,"de nacozari son","location, pilares de nacozari, son., ",NA,NA,NA,NA
+"282","mmm1563",1926,"the moctezuma co.",NA,NA,NA,NA,NA,NA,NA,"de nacozari son","mine spt., e . leland, pilares de nacozari, son.","leisenring","everard",NA,"mine spt."
+"283","mmm1567",1926,"the moctezuma co.",NA,NA,NA,NA,NA,NA,NA,"nacozari son","mech. eng., a. j. houle, nacozari, son.","houghton","arthur",NA,"mech. eng."
+"284","mmm1576",1926,"the tigre mining co. s. a.",NA,"silver, gold, copper, and lead",NA,NA,NA,NA,NA,"sonora","silver, gold, copper, and lead",NA,NA,NA,NA
+"285","mmm1576",1926,"the tigre mining co. s. a.",NA,NA,"this company owns the tigre, suertudo & espuela mines.",NA,NA,NA,NA,"sonora","this company owns the tigre, suertudo & espuela mines.",NA,NA,NA,NA
+"286","mmm1576",1926,"the tigre mining co. s. a.",NA,"silver, gold, copper, and lead",NA,NA,NA,NA,NA,"sonora","silver, gold, copper, and lead",NA,NA,NA,NA
+"287","mmm1577",1926,"the tigre mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"el tigre son","mill location, el tigre, son., ",NA,NA,NA,NA
+"288","mmm1580",1926,"the tigre mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"Kansas city mo","president, h. vanderslice, 761-764 board of trade., bdg. Kansas city, mo., ","vanderhoof","h",NA,"president"
+"289","mmm1584",1926,"the tigre mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"el tigre son","warehouse spt, r. d. james, el tigre, son.","james","robert",NA,"warehouse spt"
+"290","mmm1584",1926,"the tigre mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"el tigre son","warehouse spt, r. d. james, el tigre, son.","james","robert",NA,"warehouse spt"
+"291","mmm1603",1926,"carnegie metals co.",NA,NA,NA,NA,NA,NA,NA,"zacatecas","$2.000,000 u. s. c.",NA,NA,NA,NA
+"292","mmm1611",1926,"carnegie metals co.",NA,NA,NA,NA,NA,NA,NA,"zacatecas zac","business mgr., g. f. kinney, zacatecas, zac.","kingswell","g",NA,"business mgr."
+"293","mmm1617",1926,"cia. de inversiones del oro s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico df","grl. mgr., a. f. main, mexico, d. f.","mahony","alfred",NA,"grl. mgr."
+"294","mmm1639",1926,"cia. Mnera la parroquia y an",NA,NA,NA,NA,NA,NA,NA,"zacatecas zac","location p. o., zacatecas, zac., ",NA,NA,NA,NA
+"295","mmm1649",1926,"cia. minera la providencia s. a.",NA,NA,NA,NA,NA,NA,NA,"in construction","mill, in construction, ",NA,NA,NA,NA
+"296","mmm1650",1926,"cia. minera la providencia s. a.",NA,NA,NA,NA,NA,"flotation",NA,"zacatecas","flotation, ",NA,NA,NA,NA
+"297","mmm1659",1926,"cia. minera y beneficiadora del notre s. a.",NA,NA,NA,NA,NA,NA,NA,"vetagrande zac","location, vetagrande, zac., ",NA,NA,NA,NA
+"298","mmm1673",1926,"palenque mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"edifitio cidosa room","mexico city office, edifitio cidosa room 305 & 306, ",NA,NA,NA,NA
+"299","mmm1682",1926,"palenque mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"zacatecas zac","foreman, s. moya gomez, zacatecas, zac.","goldsworthy","s",NA,"foreman"
+"300","mmm1685",1926,"pittsburg bote mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"el bote zac","location, el bote, zac, ",NA,NA,NA,NA
+"301","mmm1687",1926,"pittsburg bote mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"bdg pittsburgh pa","foreign office, 702 oliver bdg. pittsburgh, pa., ",NA,NA,NA,NA
+"302","mmm1697",1926,"pittsburg bote mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"zacatecas zac","grl. mgr., henry wyman, zacatecas, zac.","wyman","henry",NA,"grl. mgr."
+"303","mmm1700",1926,"pittsburg bote mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"zacatecas","mine spt., gilbert luna, ","lukashenko","gilbert",NA,"mine spt."
+"304","mmm1710",1926,"pittsburgh veta grande mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"vetagrande zac","mill location, vetagrande, zac., ",NA,NA,NA,NA
+"305","mmm1711",1926,"pittsburgh veta grande mining co. s. a.",NA,NA,NA,NA,NA,"cyanide plant and crushing.",NA,"zacatecas","cyanide plant and crushing., ",NA,NA,NA,NA
+"306","mmm1712",1926,"pittsburgh veta grande mining co. s. a.",NA,NA,NA,NA,"750 metric tons.",NA,NA,"zacatecas","daily output, 750 metric tons., ",NA,NA,NA,NA
+"307","mmm1721",1926,"pittsburgh veta grande mining co. s. a.",NA,NA,NA,NA,NA,NA,NA,"zacatecas zac","grl. spt., e. l. shera, zacatecas, zac.","sheppard","edward",NA,"grl. spt."
+"308","mmm1733",1926,"santa rosa mining co. ltd.",NA,NA,NA,NA,NA,NA,NA,"santa rosa","mill location, santa rosa, ",NA,NA,NA,NA
+"309","mmm1744",1926,"santa rosa mining co. ltd.",NA,NA,NA,NA,NA,NA,NA,"del oro zac","grl. spt., w. g. wasteneys, concepcion del oro, zac.","wastcoat","w",NA,"grl. spt."
+"310","mmm1748",1926,"shannon coppe r co. of mexico s. a.",NA,NA,NA,NA,NA,NA,NA,"mining co zac","grl. mgr., j. w. bennie, c/o sombrerete mining co.,, zac.","bennie","john",NA,"grl. mgr."
+"311","mmm1763",1926,"the mexican corporation s. a.",NA,NA,NA,NA,NA,NA,"organized, on october 7th 1919, ","zacatecas","organized, on october 7th 1919, ",NA,NA,NA,NA
+"312","mmm1765",1926,"the mexican corporation s. a.",NA,NA,NA,NA,NA,NA,NA,"office fresnillo zac","main office, fresnillo, zac., ",NA,NA,NA,NA
+"313","mmm1768",1926,"the mexican corporation s. a.",NA,NA,NA,NA,NA,NA,NA,"london e c","foreign office, 1 london wall bdgs, london, e. c. 2",NA,NA,NA,NA
+"314","mmm1775",1926,"the mexican corporation s. a.",NA,NA,NA,NA,NA,NA,NA,"london","chairman, f. w. baker, london, ","baker","francis",NA,"chairman"
+"315","mmm1785",1926,"the mexican corporation s. a.",NA,NA,NA,NA,NA,NA,NA,"fresnillo zac","spt. of power, c. e. colson, fresnillo, zac.","colquhonn","c",NA,"spt. of power"
+"316","mmm1790",1926,"the sombrerete mining co.",NA,NA,"c/o a. s. & r. co. see special information (end of mining list.)",NA,NA,NA,NA,"zacatecas","c/o a. s. & r. co. see special information (end of mining list.)",NA,NA,NA,NA
+"317","mmm1793",1926,"zacatecas mining corp.",NA,NA,NA,NA,NA,NA,NA,"zacatecas zac","location & p. o., zacatecas, zac., ",NA,NA,NA,NA
+"318","mmm1807",1926,"american smelting refining co.",NA,NA,"sombrerete mining co .",NA,NA,NA,NA,"zacatecas","sombrerete mining co .",NA,NA,NA,NA
+"319","mmm1810",1926,"american smelting refining co.",NA,NA,"alvarez land & timber co.",NA,NA,NA,NA,"zacatecas","alvarez land & timber co.",NA,NA,NA,NA
+"320","mmm1820",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"zacatecas","asst. counsel, lic. fausto miranda, ","minns","lic",NA,"asst. counsel"
+"321","mmm1826",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"zacatecas","mexican income tax accoutant, l. a. fruit, ","frost","l","marks","mexican income tax accoutant"
+"322","mmm1827",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"zacatecas","representative, safety & welfare, e. n. hobart, ","hoag","edward",NA,"representative, safety & welfare"
+"323","mmm1834",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"ave juarez mexico","telegraphic address, edificio iturbe ave, juarez 83, mexico",NA,NA,NA,NA
+"324","mmm1841",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"mexicana apartado mexico","mail address, cia. metalurgica mexicana, apartado 307, mexico",NA,NA,NA,NA
+"325","mmm1844",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"zacatecas","management, ",NA,NA,NA,NA
+"326","mmm1847",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"zacatecas","mgr. acctg. Dept, j. w. christie, ","christie","john",NA,"mgr. acctg. Dept"
+"327","mmm1859",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"ave juarez mexico","telegraphic address, edificio iturbe ave, juarez 83, mexico",NA,NA,NA,NA
+"328","mmm1865",1926,"american smelting refining co.",NA,NA,NA,NA,NA,NA,NA,"aguascalientes","cashier, d. r. salazar, ","saine","domingo",NA,"cashier"
+"329","mmm1882",1926,"chihuahua plant",NA,NA,NA,NA,NA,NA,NA,"chihuahua","supt., j. r. enlow, ","english","j",NA,"supt."
+"330","mmm1887",1926,"chihuahua plant",NA,NA,NA,NA,NA,NA,NA,"co chihuahua chih","tel. address, american smelting refining co, chihuahua, chih",NA,NA,NA,NA
+"331","mmm1902",1926,"parral consolidated",NA,NA,NA,NA,NA,NA,NA,"parral apartado parral","mail address, consolidacion minera de parral, apartado 85, parral",NA,NA,NA,NA
+"332","mmm1902",1926,"parral consolidated",NA,NA,NA,NA,NA,NA,NA,"parral apartado parral","mail address, consolidacion minera de parral, apartado 85, parral",NA,NA,NA,NA
+"333","mmm1907",1926,"parral consolidated",NA,NA,NA,NA,NA,NA,NA,"chihuahua","supt., s. e. reed, ","reed","samuel",NA,"supt."
+"334","mmm1919",1926,"santa barbara",NA,NA,"cia. minera asarco",NA,NA,NA,NA,"chihuahua","cia. minera asarco",NA,NA,NA,NA
+"335","mmm1927",1926,"santa eulalia",NA,NA,NA,NA,NA,NA,NA,"santa eulalia chih","mines at santa eulalia, chih., ",NA,NA,NA,NA
+"336","mmm1934",1926,"veta grande",NA,NA,NA,NA,NA,NA,NA,"minas nuevas chih","mines and mills at minas nuevas, chih., ",NA,NA,NA,NA
+"337","mmm1942",1926,"veta grande",NA,NA,NA,NA,NA,NA,NA,"coahuila","grl. Mgr. rosita coah., j. w. kniffin, ","knauth","j",NA,"grl. Mgr. rosita coah."
+"338","mmm1950",1926,"veta grande",NA,NA,NA,NA,NA,NA,NA,"sierra mojada coah","mail address, american smelting refining co., sierra mojada, coah., ",NA,NA,NA,NA
+"339","mmm1958",1926,"compañía carbonifera de sabinas, s. a.",NA,NA,NA,NA,NA,NA,"reorganized dec. 28 1907, ","coahuila","reorganized dec. 28 1907, ",NA,NA,NA,NA
+"340","mmm1959",1926,"compañía carbonifera de sabinas, s. a.",NA,NA,NA,NA,NA,NA,NA,"mexico rosita coah","main office in mexico, rosita, coah., ",NA,NA,NA,NA
+"341","mmm1961",1926,"compañía carbonifera de sabinas, s. a.",NA,NA,NA,NA,NA,NA,NA,"rosita coah","pur. Agt., daniel reyes m., rosita, coah",NA,NA,NA,NA
+"342","mmm1971",1926,"asarco plant",NA,NA,NA,NA,NA,NA,NA,"smelting at asarco","smelting plant, at asarco, ",NA,NA,NA,NA
+"343","mmm1978",1926,"velardeña",NA,NA,NA,NA,NA,NA,NA,"durango","supt., r. e. adams, ","adams","r",NA,"supt."
+"344","mmm1985",1926,"velardeña",NA,NA,"cia. minera la loteria",NA,NA,NA,NA,"jalisco","cia. minera la loteria",NA,NA,NA,NA
+"345","mmm1989",1926,"velardeña",NA,NA,NA,NA,NA,NA,NA,"apartado num ameca","mail address, cia. minera la loteria, apartado num. 1, ameca",NA,NA,NA,NA
+"346","mmm1995",1926,"velardeña",NA,NA,NA,NA,NA,NA,NA,"michoacan","supt., a. w. edelen, ","ecretary","a","w","supt."
+"347","mmm1996",1926,"velardeña",NA,NA,NA,NA,NA,NA,NA,"at agangueo mich","mines and mill at agangueo, mich., ",NA,NA,NA,NA
+"348","mmm2002",1926,"mexican lead co.",NA,NA,NA,NA,NA,NA,NA,"monterrey n l","mines near monterrey, n. l., ",NA,NA,NA,NA
+"349","mmm2030",1926,"matehuala plant",NA,NA,NA,NA,NA,NA,NA,"s l p","smelting plant at matehuala, s. l. p., ",NA,NA,NA,NA
+"350","mmm2031",1926,"matehuala plant",NA,NA,NA,NA,NA,NA,NA,"a avalos zac","mail and telegraphic address, cia. minera asarco, s. a., avalos, zac",NA,NA,NA,NA
+"351","mmm2035",1926,"matehuala plant",NA,NA,NA,NA,NA,NA,NA,"san luis potosi","supt., r. g. dufourcq, ","duff","r",NA,"supt."
+"352","mmm2035",1926,"matehuala plant",NA,NA,NA,NA,NA,NA,NA,"san luis potosi","supt., r. g. dufourcq, ","duff","r",NA,"supt."
+"353","mmm2044",1926,"sombrerete mining co.",NA,NA,NA,NA,NA,NA,NA,"co apartado sombrerete","mail address, sombrerete mining co., apartado 18, sombrerete",NA,NA,NA,NA
+"354","mmm2061",1926,"cia. minera de penoles s. a.",NA,NA,NA,NA,NA,NA,NA,"san luis potosi","assistant, andres vizcaya, ","viviaorecs","andres",NA,"assistant"
+"355","mmm2062",1926,"cia. minera de penoles s. a.",NA,NA,NA,NA,NA,NA,NA,"san luis potosi","travelling auditor, e. m. gutierrez, ","guskell","e",NA,"travelling auditor"
+"356","mmm2066",1926,"cia. minera de penoles s. a.",NA,NA,NA,NA,NA,NA,NA,"san luis potosi","accoutant shops, j. b. hoyt, ","howwl","j","c","accoutant shops"
+"357","mmm2076",1926,"santa eulalia",NA,NA,NA,NA,NA,NA,NA,"santa eulalia","santa eulalia, ",NA,NA,NA,NA
+"358","mmm2098",1926,"santa eulalia",NA,NA,NA,NA,NA,NA,NA,"coahuila","supt., h. h. hughes jr, ","huebner","h",NA,"supt."
+"359","mmm2107",1926,"santa eulalia",NA,NA,NA,NA,NA,NA,NA,"coahuila","foreman, m. major, ","mainwaring","m",NA,"foreman"
+"360","mmm2139",1926,"experimental ore testing dept.",NA,NA,NA,NA,NA,NA,NA,"nuevo leon","assayer, e . r . richards ., ",NA,NA,NA,NA
+"361","mmm2146",1926,"monterrey smelter & refinery",NA,NA,NA,NA,NA,NA,NA,"monterrey refinery","monterrey smelter & refinery, ",NA,NA,NA,NA
+"362","mmm2152",1926,"monterrey smelter & refinery",NA,NA,NA,NA,NA,NA,NA,"nuevo leon","refinery foreman, h. w. scates, ","scanavino","h",NA,"refinery foreman"
+"363","mmm2153",1926,"monterrey smelter & refinery",NA,NA,NA,NA,NA,NA,NA,"nuevo leon","refinery foreman, g . a . beeton, ","beesley","george",NA,"refinery foreman"
+"364","mmm2771",1926,"the buena tierra mining co. ltd",NA,NA,"this company owns the buena tierra mine located at sto. Domingo. Chih.",NA,NA,NA,NA,"chihuahua","this company owns the buena tierra mine located at sto. Domingo. Chih.",NA,NA,NA,NA
+"365","mmm2771",1926,"the buena tierra mining co. ltd",NA,"silver lead",NA,NA,NA,NA,NA,"chihuahua","silver lead",NA,NA,NA,NA
+"366","mmm4352",1926,"a vino mines ltd.",NA,NA,NA,NA,NA,NA,NA,"london","directors,  -e. hooper, london., ",NA,NA,NA,NA
+"367","mmm10731",1926,"cia. min. san miguel y an. s. a.",NA,"silver lead.",NA,NA,NA,NA,NA,"mexico","silver lead.",NA,NA,NA,NA

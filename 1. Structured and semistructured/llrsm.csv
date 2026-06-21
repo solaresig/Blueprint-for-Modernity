@@ -1,0 +1,2095 @@
+"","loc","lon","lat"
+"1","london",-0.1277583,51.5073509
+"3","larence",-95.2352501,38.9716689
+"5","oxford",-1.2577263,51.7520209
+"6","organ",-95.826134,36.053795
+"7","germany",10.451526,51.165691
+"9","captain",-95.846091,36.26481
+"10","temple",-95.6273972,37.0421218
+"14","kensington",-75.1179823,39.9934039
+"18","chester",-75.3557457,39.849557
+"19","central",-95.7480448,37.1530589
+"21","cambridge",0.121817,52.205337
+"23","spain",-3.74922,40.463667
+"26","plymouth",-70.6672621,41.9584457
+"27","woolwich",0.0675883,51.4894752
+"28","glasgow",-4.251806,55.864237
+"31","bessemer",-86.954437,33.4017766
+"34","villa",-95.7002339,37.2169135
+"36","welling",0.109744,51.4622529
+"38","italy",12.56738,41.87194
+"42","manchester",-2.2426305,53.4807593
+"45","japan",138.252924,36.204824
+"47","hunter",-73.9645291,40.7678398
+"49","caylloma",-71.601445,-15.6378116
+"51","lancaster",-76.3055144,40.0378755
+"52","birmingham",-86.8103567,33.5185892
+"58","university",-95.9766122,36.7494938
+"59","sheffield",-1.470085,53.381129
+"63","cornwall",-5.0527125,50.2660471
+"64","somerset",-2.9262307,51.105097
+"66","freiberg",13.341727,50.9128283
+"68","chicago",-87.6297982,41.8781136
+"69","wales",-3.7837117,52.1306607
+"70","ireland",-7.6920536,53.1423672
+"75","cripple",-105.178103,38.746501
+"78","cumberland",-78.7625185,39.6528654
+"79","kimberley",24.7499112,-28.7282384
+"80","johannesburg",28.0473051,-26.2041028
+"83","england",-1.1743197,52.3555177
+"86","essex",0.4856781,51.5742447
+"92","bullion",-96.8056264,32.7763787
+"94","america",-95.712891,37.09024
+"95","sweden",18.643501,60.128161
+"96","missouri",-91.8318334,37.9642529
+"97","portugal",-8.224454,39.399872
+"98","paris",2.3522219,48.856614
+"106","berkeley",-122.273042,37.8715226
+"108","china",104.195397,35.86166
+"109","korea",127.9784585,37.6639976
+"111","queensland",142.7027956,-20.9175738
+"112","calif",-119.4179324,36.778261
+"119","spencer",-94.1499569,36.1282435
+"122","stockton",-121.2907796,37.9577016
+"126","midland",-102.0779146,31.9973456
+"127","newcastle",-1.61778,54.978252
+"128","falmouth",-70.6085886,41.5532208
+"129","huntingdon",-78.0102813,40.4847959
+"130","camborne",-5.2947749,50.21277
+"133","charles",-95.7162345,37.2255965
+"135","new zealand",174.885971,-40.900557
+"136","hampton",-76.3452218,37.0298687
+"139","australia",133.775136,-25.274398
+"145","bengal",87.8549755,22.9867569
+"146","india",78.96288,20.593684
+"147","madras",80.2707184,13.0826802
+"149","france",2.213749,46.227638
+"150","valley",-94.6474474,36.835068
+"154","illinois",-89.3985283,40.6331249
+"155","denver",-104.990251,39.7392358
+"157","harrison",-93.1076765,36.2297936
+"162","victoria",-97.0035982,28.8052674
+"165","clifton",-74.1637553,40.8584328
+"168","mysore",76.6393805,12.2958104
+"169","surrey",-0.5599501,51.3147593
+"171","sydney",151.2092955,-33.8688197
+"172","worcester",-71.8022934,42.2625932
+"180","marshall",-95.774913,36.0674332
+"193","salisbury",-75.5993692,38.3606736
+"200","reading",-0.9781303,51.4542645
+"201","crystal",-93.3602286,45.0327425
+"202","bombay",72.8776559,19.0759837
+"203","rhodesia",29.154857,-19.015438
+"210","cleveland",-81.6943605,41.49932
+"211","liverpool",-76.2177046,43.106456
+"214","yorkshire",-95.9250798,36.0333234
+"219","transvaal",-81.1830974,43.2325617
+"220","canada",-106.346771,56.130366
+"226","minas",-74.0089361,40.7056988
+"229","boston",-71.0588801,42.3600825
+"230","heidelberg",8.6724335,49.3987524
+"232","nevada",-116.419389,38.8026097
+"233","new york",-74.0059728,40.7127753
+"234","charters",-95.9174015,36.735155
+"235","boulder",-105.2705456,40.0149856
+"243","dublin",-6.2603097,53.3498053
+"244","sussex",-88.2220372,43.1338972
+"248","zacatecas",-102.5832426,22.7708555
+"250","phila",-75.1652215,39.9525839
+"255","wallaroo",-111.6593073,40.23403
+"262","bedford",-97.1430671,32.844017
+"263","huelva",-6.9447224,37.261421
+"264","torreon",-103.4067861,25.5428443
+"265","potosi",-65.7550063,-19.5722805
+"270","bristol",-82.1887444,36.5951059
+"273","gloucester",-70.6619888,42.6159285
+"281","venezuela",-66.58973,6.42375
+"282","roodepoort",27.9014654,-26.1201355
+"290","republic",-95.5772066,37.2141258
+"295","united states",-95.712891,37.09024
+"306","eureka",-96.2891703,37.8239167
+"307","vancouver",-123.1207375,49.2827291
+"308","british columbia",-127.6476205,53.7266683
+"311","panama",-80.782127,8.537981
+"317","brazil",-51.92528,-14.235004
+"318","austria",14.550072,47.516231
+"319","austin",-97.7430608,30.267153
+"324","tasmania",145.9706647,-41.4545196
+"332","norway",8.468946,60.472024
+"335","lawrence",-95.2352501,38.9716689
+"337","jamaica",-77.297508,18.109581
+"349","hamilton",-95.7175467,37.1929578
+"353","vulcan",-86.795537,33.4917
+"354","bradford",-1.759398,53.795984
+"362","alabama",-86.902298,32.3182314
+"367","ontario",-85.323214,51.253775
+"371","robinson",-95.61584,37.01284
+"388","sidney",-84.1554987,40.2842164
+"404","tyrone",-79.8586696,39.6395253
+"416","sudbury",-80.993029,46.4917317
+"417","western",-95.7127622,37.0937489
+"418","homestead",-80.4775569,25.4687224
+"424","russia",105.318756,61.52401
+"436","granite",-95.6236882,37.0371458
+"443","berlin",13.404954,52.5200066
+"444","cardiff",-3.17909,51.481581
+"445","transylvania",25.2223974,46.1840561
+"447","columbia",-81.0348144,34.0007104
+"454","parral",-105.6666166,26.9317835
+"461","broadway",-94.7053013,37.3961631
+"474","florida",-81.5157535,27.6648274
+"499","nottingham",-1.1581086,52.9547832
+"502","sulphur",-93.3773783,30.2365943
+"506","natal",30.8958242,-28.5305539
+"511","richmond",-77.4360481,37.5407246
+"513","franklin",-71.396725,42.0834313
+"518","superior",-95.6163665,37.0373005
+"519","florence",11.2558136,43.7695604
+"526","smelter",-87.2063652,35.5273265
+"532","vienna",16.3738189,48.2081743
+"538","johnson",-95.5938233,37.0375241
+"547","jordan",-97.3342624,37.9973704
+"551","westmoreland",-96.8720215,32.7197562
+"561","bonanza",-97.2271863,37.7489413
+"563","linares",-3.6369803,38.0969098
+"582","brisbane",153.0251235,-27.4697707
+"591","australasia",145.491477,-29.5328037
+"606","tokio",139.7690174,35.6803997
+"609","congo",21.758664,-4.038333
+"617","essen",-73.9801918,40.7518143
+"636","princeton",-74.6550739,40.3430942
+"637","continental",-75.1704529,39.9519308
+"638","costa",-81.0922603,29.2079654
+"644","randfontein",27.6786847,-26.1991505
+"650","moscow",37.6172999,55.755826
+"654","adelaide",138.6007456,-34.9284989
+"668","swansea",-3.943646,51.62144
+"676","puerto",-66.590149,18.220833
+"680","hanover",-72.2895526,43.7022451
+"689","chile",-71.542969,-35.675147
+"690","darlington",-79.8761741,34.2998762
+"691","argentine",-63.616672,-38.416097
+"698","bingham",-111.9464736,40.5637801
+"702","crawford",-94.8105955,37.455799
+"707","barberton",-81.6051221,41.012833
+"711","staffordshire",-2.0571868,52.8792745
+"715","francisco",-122.4194155,37.7749295
+"726","jackson",-110.7624282,43.4799291
+"732","washington",-120.7401385,47.7510741
+"749","guadalupe",-118.2760503,29.0525203
+"750","bolivia",-63.588653,-16.290154
+"760","armstrong",-95.8712461,36.0911292
+"764","manitoba",-98.8138762,53.7608608
+"775","goldfield",-117.2357131,37.7084481
+"783","new jersey",-74.4056612,40.0583238
+"786","tuolumne",-119.9740534,38.029655
+"798","hungary",19.5033041,47.162494
+"804","gregory",-95.9410531,36.7524131
+"805","rutherford",-74.1068091,40.826489
+"827","clausthal",10.3407069,51.8080063
+"828","spanish",-80.8412207,35.0687221
+"842","jersey",-2.13125,49.214439
+"845","antofagasta",-70.3975022,-23.6509279
+"860","kalgoorlie",121.466,-30.749
+"865","stirling",-3.9369029,56.1165227
+"866","trinity",-95.6305148,37.0361559
+"877","devonshire",-3.530875,50.7155591
+"880","zeehan",145.3379509,-41.8875165
+"892","kilburn",-0.1985291,51.539813
+"911","stanley",-95.156223,36.6359913
+"930","perth",115.8604572,-31.9505269
+"940","greenwood",-95.9872763,36.1618563
+"941","jefferson",-83.5723876,34.1170537
+"951","trinidad",-61.222503,10.691803
+"965","belgium",4.469936,50.503887
+"972","cherokee",-83.3205859,35.4770574
+"973","douglas",-109.5453447,31.3445471
+"974","sumatra",101.3431058,-0.589724
+"976","montgomery",-86.3077368,32.3792233
+"977","windsor",-95.883066,36.063109
+"981","siberia",99.1966559,61.0137097
+"983","montreal",-73.567256,45.5016889
+"984","toronto",-79.3831843,43.653226
+"985","congress",-95.712891,37.09024
+"986","haileybury",-0.034171,51.77868
+"992","newfoundland",-57.6604364,53.1355091
+"1019","otago",170.1547567,-45.4790671
+"1041","rossland",-117.8000037,49.0781415
+"1049","morro",-120.8676799,35.3694186
+"1054","antelope",-111.3743302,36.8619103
+"1060","ladysmith",-123.8161,48.99534
+"1073","oakland",-122.2711639,37.8043514
+"1085","porcupine",-111.7909417,40.6189514
+"1094","moctezuma",-122.2568903,47.4579901
+"1120","idaho",-114.7420408,44.0682019
+"1121","rico colorado",-108.03154,37.69264
+"1126","yukon",-135,64.2823274
+"1130","orange",-117.8531007,33.7879139
+"1134","ferguson",-95.9031419,36.1024998
+"1135","knights",-95.936159,36.7536564
+"1150","osaka",-95.8522669,36.0458512
+"1156","nicaragua",-85.207229,12.865416
+"1161","diamond",-95.62863,37.0366031
+"1163","aurora",-88.3200715,41.7605849
+"1186","province",-94.1362701,36.3548872
+"1188","celebes",120.5279,-1.8479
+"1198","hickman",-92.3314112,38.9633417
+"1206","kingston",-73.9973608,41.9270367
+"1210","middlesboro",-83.7142848,36.6072567
+"1215","gopeng",101.1654029,4.471721
+"1310","macdonald",-95.6194559,37.0332889
+"1315","liberia",-9.429499,6.428055
+"1317","ottawa",-75.6971931,45.4215296
+"1327","contra",-73.98916,40.719907
+"1376","alaska",-149.4936733,64.2008413
+"1379","alberta",-116.5765035,53.9332706
+"1385","wallace",-85.465817,31.314414
+"1403","limited",-82.8974814,40.0512775
+"1408","silverton",-107.6645057,37.811941
+"1426","cerro",-117.667777,35.5674569
+"1427","new mexico",-105.8700901,34.5199402
+"1439","phoenix",-112.0740373,33.4483771
+"1448","montana",-110.3625658,46.8796822
+"1482","alamo",-95.6182205,37.0362271
+"1488","mingo",-95.867135,36.1666811
+"1511","panuco",-98.1820596,22.0535642
+"1513","virginia",-78.6568942,37.4315734
+"1550","champion",-94.675738,37.433721
+"1562","smuggler",-118.3333977,34.0860564
+"1563","lorraine",6.2080932,48.8744233
+"1568","newport",-71.3128285,41.4901024
+"1575","copiapo",-70.3321587,-27.3665763
+"1605","commonwealth",-95.712891,37.09024
+"1629","lebong",88.2765304,27.0615484
+"1633","portland",-122.6750261,45.5051064
+"1646","independence",-95.7083131,37.2242358
+"1680","furness",-3.2362276,54.1142585
+"1684","kaslo",-116.9154503,49.9142499
+"1727","bilbao",-2.9349852,43.2630126
+"1731","kansas",-98.4842465,39.011902
+"1791","honduras",-86.241905,15.199999
+"1804","orient",-94.5122846,37.0697212
+"1876","santiago",-70.6692655,-33.4488897
+"1877","valparaiso",-87.0611412,41.4730948
+"1888","durango",-107.8800667,37.27528
+"1891","butte",-112.5347775,46.0038232
+"1906","milford",-83.6003703,42.5916684
+"1929","keystone",-96.3252658,36.2288968
+"1964","orizaba",-97.1036396,18.8504744
+"2032","davenport",-90.5776367,41.5236437
+"2033","livingston",-74.3300842,40.7862871
+"2050","sonora",-110.3308814,29.2972247
+"2074","hematite",-90.4809569,38.201999
+"2094","seoul",126.9779692,37.566535
+"4","cheltenham",-75.1370254,40.0812601
+"8","urmeueta and co tongoy near coquimbo died in",-71.4997935,-30.2521009
+"11","w u s house w r sy place lonoorr sw and athenieum",-87.6970563,41.7209317
+"12","derbyshire",-1.5623885,53.1046782
+"13","colour manufacturer",-87.888037,41.594072
+"15","w s r r i louse eccleshill bradford",-1.7281512,53.8126755
+"16","hm patent office southampton",-1.4043509,50.9097004
+"17","chancery lane lonnon wc",-0.1153734,51.5169531
+"20","oxford street tr r orn manchester",-2.2332616,53.4657029
+"22","richmond ronn cambridge",-84.8902382,39.8289369
+"24","fabrica de hierros alava araya spain",-2.3136118,42.8745619
+"25","civil engineer",-95.6163664,37.0373074
+"29","of science",-87.5830659,41.7905726
+"30","ravenswoo road vvalthamstow essex",-0.0090852,51.5832884
+"32","clyde street dunedin new zealand",170.5164112,-45.8662005
+"33","in the indian telegraph department director general s oflice",NA,NA
+"35","mining engineer in united states of columbia",-110.9531671,32.2333222
+"37","great cnrzrzrr n street w st bnouonron manchester",-74.40836,40.9135622
+"39","the coal miners safety indicator",NA,NA
+"40","stratford gaovrz putney loxnon sw and royal college or",-0.0081304,51.5471806
+"41","science lonpon sw",-0.1745235,51.4978095
+"43","s arm",NA,NA
+"44","granvu e park lew si am london se",-0.1657303,51.5072682
+"46","long s rree r lower bnouci r on lvlanchi ister",NA,NA
+"48","fewsron otley yorkshire",-1.7250824,53.9989324
+"50","c c wagner esq caylloma snver mining co l rd peru",-71.7707989,-15.1895112
+"53","sussi zx roan sou ri or r lancashire",-71.4306524,41.8499704
+"54","assistant in geology at the royal college of science",-0.1748772,51.4987997
+"55","tower house strawberry hill twickenham",-0.334353,51.438794
+"56","lichfield street ham y staffordshire",-1.831672,52.681602
+"57","sometime on mineral surveys in north america",-105.2551187,54.5259614
+"60","change alley sheffield",-1.470085,53.381129
+"61","cqbham park gravesend",0.3670718,51.4404179
+"62","steel lnst p",NA,NA
+"65","inspector s office scienc and art department south",NA,NA
+"67","reds aw street derby",-1.4907551,52.9315995
+"71","govern v ent board w te all london sw",-0.1277583,51.5073509
+"72","manufacturing chemist",-93.5758611,41.8860344
+"73","westm nster chambers v ctor a street london sw",-0.1595389,51.5145337
+"74","metallurgist and mining engineer",-105.221172,39.752439
+"76","n cel transvaal sar",NA,NA
+"77","sometime chemist to messrs whites gunpowder works",NA,NA
+"81","po box johannesburg sar",28.0473051,-26.2041028
+"82","formerly secretary royal institution",-0.1423075,51.5095842
+"84","permanent address c o messrs barn and austen sor c",NA,NA
+"85","tors wat no street lonoon ec",-0.1277583,51.5073509
+"87","qua x s gardens surr y",-122.8490125,49.1913466
+"88","published in the pharmaceutical journal",NA,NA
+"89","b j l i",NA,NA
+"90","formerly at the hodbarrow iron mines died before",-3.2654532,54.1999859
+"91","belmont kelso nb",-73.7224765,40.7150336
+"93","royal mint melbourne victoria",144.9568638,-37.8122632
+"99","i bax",NA,NA
+"100","i ma sis road keigi iley yorkshire",-1.9163366,53.8604172
+"101","malsxs road keighley yorkshire",-1.9163366,53.8604172
+"102","royal college or science london sw",-0.1748772,51.4987997
+"103","whites view manningham bradford",-1.7737834,53.8015597
+"104","royal mint london e",-0.0732134,51.5093513
+"105","appointed to the geological survey of egypt",NA,NA
+"107","indian civil service retired",NA,NA
+"110","the gold quartz deposits of pahang",101.7855496,4.2587668
+"113","field sourn rocx ferry cheshire",-2.991614,48.043505
+"114","souru rock ferry cheshire",NA,NA
+"115","university club suffolk street pall mall lounou sw",-0.1506942,51.5072137
+"116","silver street manningland",NA,NA
+"117","c o c f broad iead esq north feat ierstone near pontefract",-1.308648,53.691688
+"118","see addendum at end of letter b",NA,NA
+"120","sometime analytical chemist and manager of chemical works",NA,NA
+"121","park village east london nw",-0.1437761,51.5339284
+"123","parkfield wonxs stockton on tees",-1.3139008,54.5585363
+"124","consulting metallurgist and mining engineer sydney the laboratory i o connell street sydney new squtii wales",151.2092955,-33.8688197
+"125","po box sydney",151.2041138,-33.8739373
+"131","the laboratory mining school cameorne and basse r road",NA,NA
+"132","camborne cornwa i",-5.2947749,50.21277
+"134","physician died previous to",NA,NA
+"137","canterbury co teoe curusr church new zealand",171.1637245,-43.7542275
+"138","wes rbury lodge brenrwood essex",0.3071749,51.620475
+"140","harrington gardens south",-0.1843942,51.492978
+"141","findhorn foam",-3.6075877,57.659165
+"142","c mxzssas isaac brandon br s panama republic columbia",NA,NA
+"143","scholarship at oxford",-1.2621561,51.7581102
+"144","marlborough villa mill housi s sheffield",-71.5522874,42.3459271
+"148","on the geography of india he died on january rd",NA,NA
+"151","sw and axrs club lonoou w",NA,NA
+"152","chemistry",-95.2548705,38.9553776
+"153","blyt i h g assoc rsm",NA,NA
+"156","at port pirie",138.0088567,-33.1708294
+"158","hereford",-2.715974,52.056398
+"159","liverpool college upper school loose lane liverpool",-2.9222504,53.3827607
+"160","a f nseury square lonoon ec",-0.1277583,51.5073509
+"161","died",NA,NA
+"163","or science london sw",-0.1277583,51.5073509
+"164","pharmaceutical chemist",-95.2621999,38.9471443
+"166","goli",-95.3838943,29.8527308
+"167","terrace dennistoun glascow nb",-4.2154146,55.8634543
+"170","late manager in allsopp s brewery died in germany",NA,NA
+"173","mas n colieoe birmxngham",-1.9259047,52.4594373
+"174","geology assoc rsm",NA,NA
+"175","pr esidency coileoe madras",80.2817948,13.0588109
+"176","sometime chemist to government jamaica",NA,NA
+"177","physician late indian service",NA,NA
+"178","c zernlstry",NA,NA
+"179","th aged sixty four",NA,NA
+"181","the laboratory citadei hill plymouth permanent address",-70.6672621,41.9584457
+"182","ii carden place aberdeen",-2.1158837,57.1458487
+"183","and smelting co ltd estado de mexico mexico",-99.6424592,19.2924468
+"184","fiume huncary",14.442176,45.3270631
+"185","executive engineer pwd india",77.2351905,28.579636
+"186","coal wynd bannockburn stirlingshire",-3.9167787,56.0892625
+"187","beech ronn reigate h ll surrey",-0.2068034,51.2482927
+"188","indian telegraph service superintendent ist grade rajputana",74.2179326,27.0238036
+"189","po box klerksdorp sar",26.6317514,-26.8598225
+"190","manure manufacturer plymouth",NA,NA
+"191","college or surgeons lincoin s inn fieins london wc",-0.1156012,51.5155335
+"192","clifton unci on near manchester",-2.3453529,53.529922
+"194","po box io annesburc sar",NA,NA
+"195","c o s butcher and sons durban natal",31.0218404,-29.8586804
+"196","c o c wilberth esq pirie street adela de sourii ausrral a",138.604324,-34.925435
+"197","cemetery road sheffield",-1.4834475,53.3699285
+"198","roya colleoe or sc ence london sw permanent address",-0.1453701,51.525795
+"199","i cemetery road sheffield",-1.4834475,53.3699285
+"204","keynsham somerset",-2.502526,51.415059
+"205","addendum",-122.3583705,38.3992253
+"206","nqrmaney house sour",0.1712529,48.8798704
+"207","cabenar h mechantks assoc rcs",NA,NA
+"208","cawdor grove park cameerwell london",-0.272505,51.481631
+"209","edward forbes medal",NA,NA
+"212","struan v llas pqrtland road",-122.6750261,45.5051064
+"213","marnock",NA,NA
+"215","sheen park richmond surrey",-0.2945674,51.4633797
+"216","researches on graphitic acid",NA,NA
+"217","baker street nottingham",-1.1555386,52.9637928
+"218","portman terrace taunton",-3.1038347,51.0266685
+"221","observatory cottage upper hellesden norwich",1.2561246,52.658728
+"222","passaic street newark nj usa",-74.1661784,40.755739
+"223","correi era jerez de ia frontera spain",-6.1260744,36.6850064
+"224","po box joi iannesburo sar",NA,NA
+"225","assistant engineer under p w stuart menteath esq assoc",-80.2528257,27.197548
+"227","bloomsbury place loni on vvc",-117.2611356,34.4737999
+"228","prince s gate lonn n sw",-0.1714409,51.5017907
+"231","royal col et e or sc ence london sw",-81.1637245,33.836081
+"236","middlesbrough",-83.7142848,36.6072567
+"237","guisborough yorkshire",-1.049544,54.536241
+"238","cannon street london",-0.091962,51.5119949
+"239","holywell lodce oxrord",-1.2524304,51.7550889
+"240","sometime on the geological survey of india",NA,NA
+"241","brewer",-95.9335764,36.7992892
+"242","si ielsley kew gardens surrey",-0.295573,51.4787438
+"245","rusrin road crewe",-2.4466072,53.090734
+"246","ti ie residencrs souti i kensinoton museum london sw",-0.1745235,51.4978095
+"247","grove villa carshalton grove sutton surrey",-0.1791725,51.3647298
+"249","assay offices and coleman street london ec",-0.0897947,51.5160612
+"251","c o messrs brown si iipley and co founder s court loth",NA,NA
+"252","bury london ec",-0.0796968,51.5143663
+"253","sometime manager to silver mining co sierra nevada",NA,NA
+"254","gladstone rdad london",-0.2020264,51.4175233
+"256","wallaroo smelting works wallaroo squth australia",137.6333342,-33.9310843
+"257","waterlo crescent nottingham",-1.1669373,52.9606003
+"258","ohannesburo sar",NA,NA
+"259","h m patent office southampton buildings chancery lane",-0.1128084,51.517028
+"260","windsor street",-71.0948836,42.3684946
+"261","wolverton buckinchamshire",-0.816221,52.062458
+"266","broar street avenue lonr on ec",-0.0834757,51.5172845
+"267","chemical manufacturer",-94.6739333,37.1180016
+"268","c o buffelsdoorn gou mining co ltd johannesburg sar",28.0473051,-26.2041028
+"269","royal coiieoi or science london sw",-0.1766254,51.498814
+"271","sometime manager of silk dye works",NA,NA
+"272","commission liverpool went to america",NA,NA
+"274","municipal technical co le e birmingham",-86.8103567,33.5185892
+"275","cloister ramp gibraltar",-5.3544811,36.141505
+"276","society died may th aged thirty",NA,NA
+"277","demonstrator in mechanics royal college of science london",-0.1748772,51.4987997
+"278","gamersal leeds",-1.682883,53.729406
+"279","appointed secretary of the society of chemical industry",-95.712891,37.09024
+"280","ermyngarth ashtead surrey",-0.296968,51.310684
+"283","british museum natural history cromwell road london sw",-0.1763672,51.496715
+"284","c o messrs d waldie and co konnac ar calcutta",88.363895,22.572646
+"285","kensington park gardens",-0.2041808,51.5111104
+"286","london sw",-0.1277583,51.5073509
+"287","entered the leeds medical school",-1.5561998,53.8035495
+"288","i whetley hill bradrord yorkshire",-1.7734688,53.8020156
+"289","wyke lane bailiffe bridge near brighouse yorkshire",-1.7553449,53.7414087
+"291","prize for mechanics whitworth exhibitioner",NA,NA
+"292","i shrewsbury street trafford manchester",-2.2622879,53.4609319
+"293","royal college or scnzncr lounou sw",14.258241,-3.3487754
+"294","boli ii iall manor house tmuwonrn",-122.9093063,47.0073187
+"296","tiie laboratory i i ti",NA,NA
+"297","liveri ool",-115.4763241,32.6564981
+"298","c o educat on department whitehall london sw and",-0.1265712,51.5049822
+"299","seaford sussex",0.101108,50.7734669
+"300","black park ruabon",-3.0405682,52.9546223
+"301","svnmzv university new sout wa es",121.6283098,-27.6728168
+"302","inverness terrace hyde park lonnow w",-0.186955,51.513196
+"303","gondar mansions mill lane west hampstead lonoou nw",-0.2014209,51.5512708
+"304","murchison medal",NA,NA
+"305","minden road anerley london se",-0.0649882,51.4116027
+"309","geological survey or canada ottawa",-75.7056182,45.4018939
+"310","c o mr l gaibrois agent for ti ie darien gold mining co ltd",NA,NA
+"312","norwood road herne",-0.1051136,51.4431235
+"313","ledsham street wolverton and broken hill assay",-2.9649658,53.2634793
+"314","office mark lane london ec",-0.0801384,51.5108688
+"315","de muller walter joseph edward",NA,NA
+"316","to the lomatic explorati n co south africa",NA,NA
+"320","address c o messrs h s king and co pall mall",NA,NA
+"321","marmora rqad houon oak london se and h m patent",-0.1277583,51.5073509
+"322","jermyn street london sw",-0.1364788,51.5085039
+"323","ferns aw roma w s r broivi i n london sw",-0.1277583,51.5073509
+"325","posr office mathinna tasiv an a permanent address warham",147.7884863,-41.5270171
+"326","road cr ynon",-3.7469176,51.729519
+"327","o dil",NA,NA
+"328","c o f dillon esq i upper pi iilimore gardens london w",-0.1277583,51.5073509
+"329","tracey devonshire",NA,NA
+"330","teciinicai college harris street sydney",151.2088226,-33.862716
+"331","halryn mines holywell north wales",-3.1845501,53.2322408
+"333","i vauxhall",NA,NA
+"334","belvedere brsnop auckland durham and the grammar",-1.678788,54.663822
+"336","which post he occupied until his death on october th",NA,NA
+"338","tl ie museum kingston jamaxca west inmes",-76.7896807,17.9664714
+"339","cornbrook street old",-2.2609099,53.4631406
+"340","formerly proprietor of lead works near sheflield",-1.470085,53.381129
+"341","his forty fifth year",NA,NA
+"342","menai bridge anglesea",-4.165577,53.222607
+"343","appointed inspector of mines malay peninsula",99.5450974,8.7158321
+"344","sloane",-96.841163,33.0250996
+"345","gardens london sw",-0.179165,51.506987
+"346","buckley wells bury lancashire",-2.3055041,53.5889798
+"347","millaquin refinery bundaberg queensland",152.3509714,-24.8669736
+"348","souti i wes r london polytechnic chelsea london sw",-0.1308206,51.5229378
+"350","royai college or science south kensinoton london sw",-0.1748772,51.4987997
+"351","indian army retired",NA,NA
+"352","hodgkinson prize",NA,NA
+"355","vulcan iron wori s bradford",124.8955195,1.6228606
+"356","w dmore brom ley kent",0.013156,51.406025
+"357","address c o the geoiogical society london sw",-0.1277583,51.5073509
+"358","cro viwell houses souru",NA,NA
+"359","kensington london sw",-0.1938253,51.4990805
+"360","and afterwards an oflicer of the geological survey of india",NA,NA
+"361","buluwayo british sour africa",28.626479,-20.1325066
+"363","hun rsvnle alabama usa permanent address c o arthur",-86.902298,32.3182314
+"364","west aerica and c o h m colonial office downmc",NA,NA
+"365","street lonnon sw",-123.3631355,42.3960796
+"366","havelock terrace paisley roan glasgow",-4.440114,55.847258
+"368","consulting engineer to the seine river gold mines ontario",-85.323214,51.253775
+"369","great win",-77.5635599,43.2031446
+"370","chester street london ec",-0.1501239,51.4992766
+"372","and the sub nigel gold mining co ltd",NA,NA
+"373","po box",-95.9339154,36.7403393
+"374","oi iam iesi urc sar",NA,NA
+"375","member of the firm of messrs j c and j field",NA,NA
+"376","sometime at the blanavon iron works died about",-3.0885811,51.7772327
+"377","c o langlaagte royal gold mining co j iannesburo sar",NA,NA
+"378","donegal place belfast",-5.9302922,54.5981086
+"379","newington colleoe stanmore new sout i wales",151.1631472,-33.8980016
+"380","east grinstead sussex forsyth",-0.014468,51.128742
+"381","university college dundee",-2.981146,56.4568018
+"382","chemistry and metallurgy at the intermediate technical school swansea",-3.943646,51.62144
+"383","halewood l verpool",-2.8209749,53.370573
+"384","ditton near widnes",-2.7560109,53.372024
+"385","escote kew gardens surrey",-0.295573,51.4787438
+"386","assistant science master central science school sheffield",-1.493283,53.3815448
+"387","orchard lane sheffield",-1.4717697,53.3813413
+"389","frocnal bank finchley road london nw",-0.1754146,51.5434789
+"390","sometime with the mineral exploring company cape of good hope",18.4739882,-34.3568425
+"391","n cara ua central america permanent address w odeni",-85.6023643,12.7690126
+"392","hurlford ayrshire",-4.451739,55.598058
+"393","station street burton on trent",-1.6361509,52.8048518
+"394","todric greenlaw berwickshire nb",-2.463809,55.706534
+"395","veterinary collece buccleuch street glasoow",-4.2623132,55.8688458
+"396","queen anni s mansions london sw",-0.1277583,51.5073509
+"397","video south america april th",-55.491477,-8.783195
+"398","sandywood keighley yorkshire",-1.9089018,53.8701557
+"399","york road i",-81.0738893,34.9479457
+"400","pentyla aberavon soutii wales",-3.7896281,51.6001422
+"401","hm patent office southampton buildincs london wc",-1.4043509,50.9097004
+"402","lessness park belvedere kent",0.1453431,51.4857504
+"403","t ie greshaivi club st swith n s lane london ec",-0.1277583,51.5073509
+"405","bergi iolt house park road jarrow durham",-1.4956158,54.9770456
+"406","church road urmston near manchester",-2.3672532,53.4429895
+"407","ashville cqllege harrqgate yorkshire permanent address",-1.5520919,53.9737935
+"408","i cleaver street burnley lancashire",-2.2302012,53.8015088
+"409","j iannesburg sar",28.0473051,-26.2041028
+"410","de la beche medal",NA,NA
+"411","carr mount ruswarp whitey yorrshire",-0.6318278,54.4696562
+"412","hardwick house carpenter road edgeaston birmingham",-1.916011,52.4649504
+"413","balmuir gardens upper",-0.2255183,51.4619451
+"414","putney",-72.5217237,42.975268
+"415","late partner in messrs bass and co s brewery burton",NA,NA
+"419","at dover",-88.153156,42.743043
+"420","plasnewyd ruaeon north wales oflices westiviinster",-3.1673024,51.4907401
+"421","chambers wrexi iam",NA,NA
+"422","f tzjo in s avenue i iaivipstead london nw",-0.1277583,51.5073509
+"423","london road manchester",-2.2312653,53.4764458
+"425","c o water supply department brisbane queensland",153.0257857,-27.4752151
+"426","moray place elgin n b",-3.3183409,57.644271
+"427","church roan chorlton cum hardy manchester",-2.2836706,53.4407134
+"428","calcutta",88.363895,22.572646
+"429","papers on chemical science died june llth",NA,NA
+"430","medical school caxton street london sw",-0.1350874,51.5235146
+"431","i aurruzo p xcn wes london sw",-0.1277583,51.5073509
+"432","ki innington roan lounon se",-0.1741905,51.5783386
+"433","in mashonaland",30.8958242,-17.6379366
+"434","clarence laou and steel wonxs huusu t leeds",NA,NA
+"435","sometime hm assistant inspector of mines manchester now in india",-2.2426305,53.4807593
+"437","baveno north italy",8.5055814,45.9089803
+"438","baveno laco maggiore north italy permanent address",8.5055814,45.9089803
+"439","marionville restalrig near enmavacn",-93.6374213,37.0031121
+"440","svnmzv new soum wales",-3.7837117,52.1306607
+"441","sometime assistant engineer to the late c siemens esq frs",NA,NA
+"442","wooo battenhall worcester",-2.2058158,52.1799525
+"446","harefield c",-0.4822173,51.6033524
+"448","clarendqn",-100.8881993,34.9378289
+"449","road norring hill london",-0.2028104,51.5126947
+"450","c o r t nto co l rd huelva spain",-6.9447224,37.261421
+"451","manufacturer of aniline colours and silk dyer of coventry",-1.519693,52.406822
+"452","egham surrey",-0.547876,51.428825
+"453","formerly in the indian telegraph department",NA,NA
+"455","c o messrs chapman and co i henrietta street cavendish",NA,NA
+"456","warwick",-74.3822058,41.2638494
+"457","gardens kensington london w",-0.179165,51.506987
+"458","c o e harris esq claremdnt mundanea road honor",-0.0576498,51.4531817
+"459","oak se",-122.5683529,45.5197527
+"460","i broadway si ieerness",0.7662686,51.4407554
+"462","claremont road",-74.5848407,40.7298408
+"463","battersea polytechnic institute",NA,NA
+"464","hooo street norti iami ton",-80.1917902,25.7616798
+"465","claremont roan handsworth birmingham",-1.9193193,52.497077
+"466","maddox street london w",-0.1423726,51.5128477
+"467","i blackb urn roan bolton",-2.4317805,53.6109468
+"468","ciiesterton rom north kensington london w",-0.2130538,51.5197897
+"469","hunting march th",NA,NA
+"470","mp australia",153.0959392,-27.5771257
+"471","co ltd",-97.3245265,37.7164015
+"472","hilicroet sanderstead surrey",-0.0907513,51.2869038
+"473","i lea",NA,NA
+"475","academy or natural sc ences philadelphia usa",-75.1710701,39.9571169
+"476","county analyst s laboratory w iitehaven",NA,NA
+"477","palace technical schools mile end london e",-0.0406775,51.5229998
+"478","ii venner road sydenham lounon se",-0.0539721,51.4258699
+"479","manual training exercises etc",NA,NA
+"480","i clarence road birkenhead",-3.0317827,53.3774744
+"481","denman street nottingham",-1.1794998,52.9574183
+"482","varnish manufadturer",NA,NA
+"483","s r egister hig",-95.7099791,37.2279485
+"484","sydney university new sovrn wales",151.2092955,-33.8688197
+"485","engineer",-95.6596186,37.4822258
+"486","late professor at lahore college",74.3587473,31.5203696
+"487","the chemical woaxs dept ord london se",-87.9073214,41.9741625
+"488","baggeholme road lincoln",-0.530383,53.2294055
+"489","bnownswoon roan green lanes lounon n",-0.1033789,51.5904981
+"490","bronzing and other text books published by messrs macmillan and co",NA,NA
+"491","ivydene chester rom",NA,NA
+"492","hog s",-115.1420139,36.1719056
+"493","formerly assistant chemist woolwich arsenal",0.0734841,51.4924894
+"494","association died october th aged sixty one",NA,NA
+"495","hnmzwoon grove darlington and c o science and am",-1.559458,54.52361
+"496","department sourn kzznsmorou london sw",-2.991614,48.043505
+"497","appointed district inspector of national schools ireland",-7.6920536,53.1423672
+"498","s regis i er h",-111.477191,40.6380669
+"500","palmi r s e xdowed school grays essex permanent address",0.3230151,51.4784037
+"501","moon edge mankinholes todmorden",-2.0987969,53.716344
+"503","staffs institute of iron and steel works managers",-75.4288228,41.5196983
+"504","i blackburn roan darwen",-2.480578,53.7090061
+"505","hugh isoffka government or ekaterinoslav soutii russia",35.046183,48.464717
+"507","fgs berkeley fellow of owens college murchison medal",-122.2585399,37.8718992
+"508","geological survey or india calcutta",88.3521822,22.5574213
+"509","chancery lane london wc",-0.1153734,51.5169531
+"510","biological association owing to ill health",NA,NA
+"512","esq india store dep bi ivedere road lambeth",-0.1178424,51.4935082
+"514","the franklin suoar refinery co front street phila",-75.1448014,39.9507635
+"515","delphia usa",NA,NA
+"516","harringtqn gardens london sw",-0.1843942,51.492978
+"517","sometime naval attaché at paris",2.3199844,48.8676523
+"520","formerly professor of chemistry in the nova scotia university",-63.5916555,44.6365812
+"521","assistant manager to p w stuart menteath esq assoc",NA,NA
+"522","c o borneo mining co ltn sarawak straits settlements",110.3592127,1.5532783
+"523","southwark street london s e",-0.0973004,51.5051617
+"524","wolvernampt n street dudley worcestershlre",-2.0866437,52.5085485
+"525","geolo ical survey office calcutta",88.363895,22.572646
+"527","paradis street birmingham",-1.890401,52.486243
+"528","ella road cnoucn hill lonnou n",-0.1212981,51.5742323
+"529","the elms alleyn",-94.2259483,39.3370105
+"530","louoou se",NA,NA
+"531","sc enc dublin ireland",-6.2603097,53.3498053
+"533","college died july th",NA,NA
+"534","rand club j",28.041293,-26.2058915
+"535","queen",-95.7065612,37.2372279
+"536","london nw",-0.1277583,51.5073509
+"537","died october izth aged thirty five",NA,NA
+"539","royal coilege or science",-75.6853063,45.3985599
+"540","ins ritut fur k inisci ie analyse dav s platz switzerland",98.6928631,3.5691152
+"541","the oaks",-97.335381,37.6393953
+"542","newfort monmouthshxre",-2.997664,51.584151
+"543","beaumont house llanelly south wales",-4.160248,51.680886
+"544","north wales",-3.8080783,53.0711149
+"545","frqndeg nantern s new quay rso card ans re",-4.359081,52.215536
+"546","justice engaged in research upon the mind in animals",NA,NA
+"548","late member of the firm of joynson and son paper makers",NA,NA
+"549","kamensky georoe",NA,NA
+"550","kay shuttleworth the right hon sir ughtred ames",-93.6319131,42.0307812
+"552","of london and manchester",-2.2413155,53.4965182
+"553","c o g w kekewich esq cb enucation department white",NA,NA
+"554","hall london sw",-0.177366,51.5009088
+"555","park view sydenham place",144.7740855,-37.7073053
+"556","woonland terrace stainbeck lane chapel allertqn lei ds",-1.5534516,53.8305586
+"557","c o wolhuter gold mining co ohannesburg sar",28.0687372,-26.2085773
+"558","po box ohannesbiirg sar permanentaddress gourdie",NA,NA
+"559","abbey road st oiin s wood london nw",-0.1780759,51.5320754
+"560","ofa paper on thiosul phuric acid in the journ chem soc",NA,NA
+"562","waiiii ivio grange dunback otago new zealand",170.6290892,-45.384536
+"564","foxedale isle or man",-4.6384835,54.1692615
+"565","mining co ltd",-81.0971976,46.4411481
+"566","central avenue clarendon park leicester",-1.1148368,52.619228
+"567","ti ie johnstone foundry onns rone nb",NA,NA
+"568","i law",-95.631747,37.0359925
+"569","f nc ey lodce north",-80.8422396,35.2273405
+"570","finchley london nw",-0.1979547,51.5971434
+"571","london wc",0.0171226,51.6345198
+"572","sw nden road dewsbury",-1.6330378,53.693633
+"573","durham collece or sc ence newcastle on tyne",-1.627714,54.9667014
+"574","chief surveyor at perak",101.090109,4.5921126
+"575","taiping perak straits settlements",100.7416339,4.851932
+"576","john street paisley nb",-4.440114,55.847258
+"577","sometime practising as metallurgist in australia",NA,NA
+"578","cyn glas bridgend souti",-3.576945,51.504286
+"579","c o messrs lezard and co johannesburg sar",28.0473051,-26.2041028
+"580","bu ldincs tithebarn street liverpool",-2.9897654,53.4096408
+"581","permanent",-95.9036401,36.0162402
+"583","i lis",NA,NA
+"584","science teacher science school bradford",-1.7880447,53.7911388
+"585","i beivoir terrace bradford",-73.2852198,42.3651896
+"586","london ec",-0.1319797,51.5287743
+"587","harwood road fulham london sw",-0.1937229,51.4785257
+"588","london w",-0.1277583,51.5073509
+"589","professor of chemistry fellow of st john s college cambridge",0.114865,52.2087167
+"590","newnham cambridge",0.107853,52.199688
+"592","mellor road birkenhead permanent address science",-3.0382407,53.3733316
+"593","manufacturing and metallurgical chemist",NA,NA
+"594","o lot",-87.8833397,41.9881965
+"595","leeds and birmingham editor of rsm magazine in",-1.5490774,53.8007554
+"596","trent i",NA,NA
+"597","shirland gardens london w",-0.0724479,51.4795398
+"598","y houcn green i",-76.6729945,39.2056849
+"599","born july th died at edinburgh january th",-3.188267,55.953252
+"600","dresden road i lornsey rise",-0.131631,51.571483
+"601","monti iolme road wandswortii common london svv",-0.1277583,51.5073509
+"602","mining engineer etc oruro bolivia",-67.0931378,-17.9716723
+"603","formerly lessee and worker of collieries in south staffordshire",-2.1727483,52.6615371
+"604","author of metallurgy and other works",NA,NA
+"605","monte catini mines tuscany",10.7755253,43.8808528
+"607","bengal educational",-71.1249976,41.6999703
+"608","service calcutta bengal",88.4117366,22.5022303
+"610","i mod",NA,NA
+"611","bath road bzm",NA,NA
+"612","sometime engaged at staflbrdshire firebrick works",-2.0571868,52.8792745
+"613","t appointed to the coipa gold and silver mine copiapa chili",-70.3321587,-27.3665763
+"614","cqpiapa cn",NA,NA
+"615","barony street glascow",-3.190703,55.9582135
+"616","forbes medal",NA,NA
+"618","royal gardens kew surrey",-0.295573,51.4787438
+"619","address c b a mouinen esq adelaide south australia",138.6031632,-34.9243933
+"620","many years agricultural chemist and analyst",NA,NA
+"621","tm laboratory mmcmc lane lonoon ec",-0.1277583,51.5073509
+"622","burnett av znuiz manchester road bradford",-1.7620892,53.7769721
+"623","minging",NA,NA
+"624","lane london ec",-0.1077491,51.5140138
+"625","wolverly house wardle road sale manchester",-2.258183,52.410518
+"626","assayer and surveyor to the mesquital del oro gold mining co ltd",-103.3630608,21.2151204
+"627","moor view tavisroc",-4.119235,50.5944147
+"628","sourn devon",-3.530875,50.7155591
+"629","his sixty fourth year",NA,NA
+"630","oi anneseurg sar permanent address c o standard",NA,NA
+"631","nun i",NA,NA
+"632","and physics at the royal military academy woolwich died",0.0675883,51.4894752
+"633","december th",NA,NA
+"634","cavendish square london",-0.1457041,51.5164839
+"635","sometime manager of mines in new granada",NA,NA
+"639","c messrs bass and co the brewery bur ron n trent and",-1.6371359,52.8140281
+"640","i high street burton n trent",-1.6287466,52.8039091
+"641","london hospital turner street london e and sutherland",-0.0585176,51.5182221
+"642","street london sw",-0.1300651,51.5198859
+"643","sullington rectory pulborough sussex",-0.510671,50.957304
+"645","haverstock i l louoou nw",-89.3985283,40.6331249
+"646","mining co kimberley",24.7499112,-28.7282384
+"647","par i",NA,NA
+"648","las minas de rio tinto huelva spain permanent address",-6.5962863,37.6927452
+"649","denholme near bradford yorkshire",-1.895669,53.803435
+"651","o rago un versi ry muselnvi dunedin new zealand",170.5027976,-45.8787605
+"652","physician",-95.6390841,37.0402338
+"653","prestbury road cl",-2.0585213,51.9089365
+"655","queen s chambers pirie street adelaide sovru australia",138.6057769,-34.9254826
+"656","school leeds",-86.5612215,33.5451121
+"657","i highfield terrace kmcsrou road leeds",-1.6779793,53.7974753
+"658","camden road soutiiviiie bristol permanent address",-2.6058841,51.4456609
+"659","boldroyd fartown huddersrield",-1.7719738,53.6635241
+"660","c o the borneo co ltd kuc ng sarawak permanent address",110.3592127,1.5532783
+"661","northcote reigate surrey england",-0.205883,51.237276
+"662","w c c house l ew surrey",174.7315563,-41.2809024
+"663","burgii and findhorn place edinburgh",-3.1800994,55.9337628
+"664","po box oi anneseurg sar permanent address",NA,NA
+"665","oakfield sr niciiolas road upper tooting london sw",-0.1636795,51.4328137
+"666","sherman avenue denver colorado usa",-104.9848593,39.732052
+"667","ci emical worrs bow co vimon london e",-0.0308201,51.5320893
+"669","sherman avenue denver colorad usa",-104.9848593,39.732052
+"670","the cm viicai wori s bow common london e",124.8955195,1.6228606
+"671","chemist to the agricultural department melbourne victoria",144.9844614,-37.8119289
+"672","melbourne vic oria australia",144.9630576,-37.8136276
+"673","presidency c ieoe calcutta india",88.3623245,22.5763122
+"674","c the arrican city properties co ltd loiianneseurc sar",34.508523,-8.783195
+"675","lawrence street northampton",-0.8918295,52.2437546
+"677","pet i",-95.7111771,37.2032612
+"678","ti ii chi istnuts sunauav hmuzow",NA,NA
+"679","frs fcs",NA,NA
+"681","speedwell roan enoaasron",NA,NA
+"682","cadeby main collieries ltd of the south yorkshire junction railway",-1.2218979,53.4992531
+"683","crucible co battersea",NA,NA
+"684","i high street yeovil somerset",-2.6328264,50.9413892
+"685","onslow road rici iiviond surrey",-0.4171505,51.3632714
+"686","barrister at law",-81.355821,28.545607
+"687","ashgrovi",152.991944,-27.445278
+"688","bradford yorkshire",-1.759398,53.795984
+"692","cornwall district died december rd",-74.0417628,41.4216127
+"693","department or mines sydney new souti i wales",151.2080726,-33.8798982
+"694","low royd st olave s road yorx permanent address tiie",-1.0899587,53.9674852
+"695","museum yorx",-73.9776216,40.7614327
+"696","i poo",NA,NA
+"697","new barnet",-0.176187,51.649276
+"699","nova scotia managing agent of the acadia coal co",-62.6734156,45.5664631
+"700","stellartdn nova scotia",-62.6603903,45.5567766
+"701","old lodge salisbury",NA,NA
+"703","moanarone bandon co cork",-8.7176448,51.7458423
+"704","assoc rsm",-84.4694178,42.2544698
+"705","georcetown british guiana",-58.1551255,6.8012793
+"706","tiie roval mint melbourne",144.9568638,-37.8122632
+"708","a great cumberland",-0.1597244,51.515018
+"709","sometime managing partner allsopp s brewery",NA,NA
+"710","i calle general de la fuente lima peru",-77.055615,-12.1030439
+"712","abingdon street manningham",-1.7782877,53.8053665
+"713","mechanical and electrical engineers bedford",NA,NA
+"714","i pri",NA,NA
+"716","sacramento street san francisco california usa",-122.4275657,37.790669
+"717","joan price barry near cardiff",-3.17909,51.481581
+"718","sacraiviento street san francisco calii ornia usa",-122.4275657,37.790669
+"719","permanent address rutland street edinburgh",-3.209565,55.9486229
+"720","sw and fairley villa oxford road putney london sw",-0.2126084,51.4613903
+"721","formerly agent to messrs williams and co copper smelters",NA,NA
+"722","united college or st salvator and st leqnard st andrews",-2.7942207,56.3416917
+"723","macnus lodoe newark on trent not rs",-0.8029368,53.0684204
+"724","head science master at lanley statfordshire",-2.1775307,53.0271687
+"725","po box j ianneseurg sar",NA,NA
+"727","tierney road streatham hill london sw",-0.1277938,51.4459368
+"728","i rey",NA,NA
+"729","attained the rank of major general died at coblentz july th",NA,NA
+"730","leeds steel worrs leeds",-1.5440257,53.8151049
+"731","bessemer medal",NA,NA
+"733","hovse arnold notts",-1.1321909,52.9969635
+"734","former student of the ecole centrale paris",2.1640062,48.7087594
+"735","formerly commissioner of the province of taranaki new zealand",174.4382721,-39.3538149
+"736","manager of the pontgibaud silver lead smelting works",2.852928,45.831664
+"737","rickard bros queen victoria street lonnon ec",-0.0967289,51.5119281
+"738","mcpi iee building denver colorado",-104.990251,39.7392358
+"739","milton villa",16.443338,43.170046
+"740","alcernon road birmingham",-1.9452292,52.4862805
+"741","bowlhead tiiursley gonaliviino",NA,NA
+"742","oakley street ci ielsea london sw",-0.1685344,51.4847831
+"743","hyde park gate london sw permanent address ro rino",-0.1814724,51.5004649
+"744","dean sussex",-0.7989198,50.9157812
+"745","hyde park gate london sw and rqttingdean sussex",-0.1806221,51.5011914
+"746","city road finsbury square london ec",-0.0869967,51.521845
+"747","coniston epping",-3.07587,54.369071
+"748","rod i",NA,NA
+"751","athenieum and arts clubs",-117.2742767,32.8469048
+"752","formerly science teacher atthe carmarthen county school",-4.3115959,51.8572309
+"753","sometime engaged at haematite works cumberland",NA,NA
+"754","i rog",NA,NA
+"755","wallaroo smelting wori",137.6333342,-33.9310843
+"756","south australia",136.2091547,-30.0002315
+"757","havelock",-76.9013301,34.8790492
+"758","terrace southampton",-1.3980013,50.8976389
+"759","rowan r student in lllining",-75.1182734,39.7089194
+"761","rlld i",NA,NA
+"762","lenzie near glasgow",-4.1556413,55.9235791
+"763","remained until his death",NA,NA
+"765","c o regina gold mining co ltd lake the woons manitqba",-98.8138762,53.7608608
+"766","i rut",NA,NA
+"767","editi i road west kensington lonnon sw",-0.2105926,51.4916163
+"768","c o langlaagte united gold mining co johannesburg sar",27.986768,-26.2048765
+"769","cedars road clapham common london sw",-0.1496897,51.4637225
+"770","of the igneous rocks of the giridih coalfield",86.2995571,24.1914471
+"771","giridih east indian railway bengal india",86.3143373,24.1818195
+"772","i sal",NA,NA
+"773","west mount upton macclesfield",-75.3832319,42.4264662
+"774","cullum street fenchurch street london ec",-0.0820977,51.5116253
+"776","brompton square london sw",-0.1681798,51.4977963
+"777","the cementation process in",NA,NA
+"778","naya las mums de r tmro huelva spain",-6.9447224,37.261421
+"779","peninsula",-87.6249824,41.8961442
+"780","crescent norwich",1.2875542,52.6259479
+"781","oxnzo sumuzv",NA,NA
+"782","inou worms leeds",-1.5490774,53.8007554
+"784","scudamore william agriculture assoc rcs ba camb lnt bsc lond held clothworkel s scholarship cambridge appointed science lecturer in dr sachs schools i west th street new york died january st senier harold student royal college of c zemistry fic fcs braybrooke loose harrow on the hill bevern walter dalrymple c zemistry assoc rcs ln practice as bacteriologist ennis court square london sw sha i seward g e studenl in c zemisz r md surgeon major indian civil service retired d tm mansions ear s court road lennon sw seymour george jllining assoc rsm aminstce mem inst min and met past pres murchison medal x consulting mining engineer member of the firm of bainbridge seymour and co st helen s place lonoon ec shackleton w luam p zysirs assoc rcs fras computer to solar physics committee in astronomical laboratory at the royal college of science london i octavia street y battersea lonnon i sw pzrmanenl address en u n street k n zv yonxsnnzz",-74.0059728,40.7127753
+"785","sometime engineer to the borneo co ltd kuching sarawak",110.3592927,1.553504
+"787","appointed instructor in chemistry at the university of califomia",-122.2585399,37.8718992
+"788","soulsbyville tuolumne co cauronnm",-120.2638005,37.9846467
+"789","vn nt sour kensington lonoon sw",-79.4025768,43.6565029
+"790","inventor of improvements in coal cutting machines",NA,NA
+"791","st bantao onew s hospital west smithfield lonnou ec",-0.1000463,51.517496
+"792","heaton moor houss heaton moor stockport",-2.1883171,53.4185341
+"793","cro viweii rom lonnou",NA,NA
+"794","simpson maule and nicholson",NA,NA
+"795","engaged in gold mining died in british guiana on february th",NA,NA
+"796","levtonstone",0.0088141,51.5649624
+"797","permanent address c o messrs watson esam and barber",NA,NA
+"799","matabeleland in",28.299435,-19.7992141
+"800","assaying at the royal college of science london",-0.1748772,51.4987997
+"801","i oval rdad gloucester gate recen r s park london nw",-0.1475983,51.5348427
+"802","po box i j iannesbvrg sar",NA,NA
+"803","geological survey office calcutta",88.3521822,22.5574213
+"806","the rectory sheriff mount gates ll iad",NA,NA
+"807","i tipping street anpwrcx manchester",-2.1152226,52.8060348
+"808","i otterburn terrace j",-1.6070883,54.9875671
+"809","souruwow",NA,NA
+"810","frtzjo ln s avenue hampstead london nw",-0.1761749,51.5556461
+"811","brook green london",-0.2188279,51.4955965
+"812","pall mall london w",-0.1340046,51.5066838
+"813","royal mint london e permanent address bro k s lane",-3.3887484,51.5542917
+"814","whalley near blackburn",-2.407684,53.822643
+"815","address brook s lane whalley near blackburn",-2.4045961,53.8236159
+"816","cotham vale",-2.6037553,51.464463
+"817","clirton br stol",-2.6200362,51.4661551
+"818","cromart e road hornsey r london n",-0.125954,51.5725909
+"819","o ste",9.2583798,53.6291848
+"820","acomn near yori",NA,NA
+"821","kennington road london se",-0.1110123,51.4917986
+"822","late physician at middlesex hospital",-72.6472698,41.5543067
+"823","ry iope i iaii ryhope sunderland",-1.3653906,54.8682155
+"824","grand junction coiorano",-108.5506486,39.0638705
+"825","strawberry hill mii",NA,NA
+"826","fordwyck roao lonnon",-0.2067361,51.5515109
+"829","water worrs office si ierr el",NA,NA
+"830","merchant",-95.2357061,38.9695759
+"831","physician formerly in practice in london",-0.1312039,51.5204468
+"832","the grammar school ilkley yorkshire",-1.8142202,53.9220038
+"833","capiieaton newcastle",-1.945721,55.117868
+"834","berland",-88.0440976,42.157073
+"835","east road wooistone southampton",-1.3557515,50.9013982
+"836","norfolk road essex",-88.1793482,41.1819612
+"837","university college cardiff",-3.1848738,51.4885141
+"838","sandwell park west end lane hampstead london nw",-0.1914742,51.5495001
+"839","the university ane ame sovrn austua a",NA,NA
+"840","i ay",NA,NA
+"841","rusxm road tqttenram london",-0.1277583,51.5073509
+"843","david p ace st helier iersey",-2.1031278,49.1891328
+"844","portland vil as bath street dewsbury",-122.6750261,45.5051064
+"846","jessel mansions qiieen",NA,NA
+"847","royal col e e or sc ence south kensington lonnon sw",-0.177366,51.5009088
+"848","leeds mqdern school h lls ne tancaster",-1.5490774,53.8007554
+"849","h m patent orrxcx",NA,NA
+"850","southam ton buildings london wc",-0.1153734,51.5169531
+"851","portland ho rel great portland street london w",-0.1439184,51.5237421
+"852","he died at croydon in september",-0.098234,51.376165
+"853","po box port",-97.0699032,27.8240813
+"854","i o tre",NA,NA
+"855","c o h anderson esq newcastle natal",30.8958242,-28.5305539
+"856","jonanneseuro sar",NA,NA
+"857","market square wolverton",-0.8071691,52.0631722
+"858","mining",-95.3056854,36.7788655
+"859","ravi nnurst rowley park stafford",-2.124952,52.798346
+"861","tyr i",NA,NA
+"862","bardwell road oxford and c o sc ence and art depart",-1.2537837,51.7696747
+"863","ment sourn l ens noton london sw",-0.1164513,51.5144388
+"864","worrsop nottinghamshire",-1.122745,53.309302
+"867","member of council of the chemical society died may ist",NA,NA
+"868","stag srom",NA,NA
+"869","hows orrxcs london sw",-0.1277583,51.5073509
+"870","briarfield west bromwich",-3.5443841,50.4686648
+"871","lbme lane bradford yorrsi iire",-1.759398,53.795984
+"872","irvine place aberdeen nb",-2.1194161,57.1361228
+"873","address magnetd worrs sheffield",-1.4239697,53.3936233
+"874","h m patent orrice southampton buildings london wc",-0.1124545,51.5175271
+"875","st cuti ieer i s terrace ben ieldside co duriiam",NA,NA
+"876","tientsin north china",117.3616476,39.3433574
+"878","gnvmmounna s ram r cnnmrr",NA,NA
+"879","s rm r r cape town soon x africa",18.4240553,-33.9248685
+"881","permanent address c o geological socnsrv lonnon",NA,NA
+"882","sometime teacher of chemistry at chester college",-75.5978255,39.9521856
+"883","hillside cornea hawick nb",-2.780914,55.42706
+"884","or science south kensin ton london sw",-0.1745235,51.4978095
+"885","sydney university",151.1873494,-33.8885748
+"886","piace london ec",-0.1277583,51.5073509
+"887","oxford gardens north kensincton london w",-0.2153731,51.5178875
+"888","went to mashonaland",30.8958242,-17.6379366
+"889","po box i",-122.3913467,37.7209819
+"890","s we",-120.9738295,37.6531424
+"891","draughtsman to messrs welton and co thames ditton",-0.339189,51.389686
+"893","lynton maybury road woking",-0.5591634,51.3164859
+"894","works on medical subjects v",-95.712891,37.09024
+"895","st george",-113.5684164,37.0965278
+"896","william west esq fls assoc rcs",NA,NA
+"897","i woodville terrace i",-71.0599188,42.4294301
+"898","liver",NA,NA
+"899","biological subjects",NA,NA
+"900","wo dville terrace i iorton lane brad ord",-87.9073214,41.9741625
+"901","nursery mount hamlet carr leeds",-1.5287791,53.7694373
+"902","chemical laboratory hm dockyard portsmouth",-1.1094659,50.800531
+"903","stratford place london w",-0.1492505,51.51489
+"904","wi ialley w p zysies assoc rcs",-88.7878678,43.7844397
+"905","st oi in s square wareeield",NA,NA
+"906","tyndall prize",NA,NA
+"907","mine manager michigan united states of america",-85.6023643,44.3148443
+"908","gegrge street birmingham permanent address harborne",-1.961668,52.4597094
+"909","park near birmingi iaivi and reform club",-0.1334814,51.506551
+"910","i st pau s square preston lnnc xsumx",-93.0899578,44.9537029
+"912","appointed head master at bacup higher grade school",-2.201259,53.707167
+"913","bacup near manchester",-2.2036813,53.6939422
+"914","sometime agent at silverdale collieries staffs",-2.272667,53.014861
+"915","april",-73.7126967,45.5758197
+"916","ampton bu ld ncs london wc",-0.1080134,51.5008599
+"917","plymouth hovse near merthyr tydfil glamorganshire",-3.3711495,51.7380184
+"918","b rcnincton road london nw",-0.1277583,51.5073509
+"919","rydal mount coti",-2.9820077,54.448841
+"920","hofmann of investigafions on london sewage",-0.1277583,51.5073509
+"921","harley street london",-0.1475268,51.5202352
+"922","asm on roma wssr failsworth manchester",-2.1644439,53.508131
+"923","native of china",NA,NA
+"924","seven s s",-110.772891,32.154625
+"925","louoon n",NA,NA
+"926","sometime teacher at bristol died in new zealand previous to",NA,NA
+"927","lounou ec",14.258241,-3.3487754
+"928","assoc rcs",-87.8926497,41.8689158
+"929","consulting geologist and mining engineer",NA,NA
+"931","demonstrator in zoology at the royal college of science",NA,NA
+"932","i beaufort street chelsea",-0.1758684,51.4846097
+"933","hellingley dingwall croynon",0.2468259,50.8886569
+"934","some points in the morphology of the wings of birds he died in",NA,NA
+"935","victoria road cotham bristol",-2.5940674,51.4653646
+"936","mining in south america",-123.1180511,49.2819176
+"937","formerly colliery viewer north staffordshire",-2.0571868,52.8792745
+"938","c o mcarthur fomuzsr co johannesburg sar",28.0473051,-26.2041028
+"939","young lamont h g jlliuing assoc rsm",NA,NA
+"942","southampton buildings wc",-0.1153734,51.5169531
+"943","nelson place newcastle staffs",-2.2173237,53.0311773
+"944","cavendish grove southampton",-1.4049561,50.9202638
+"945","fernbank forfar nb",-84.3279985,33.7739247
+"946","spains hall finchingfield essex",0.450053,51.9674805
+"947","sampler may consolidated",NA,NA
+"948","siamese tin syndicate",NA,NA
+"949","hayshott green midhurst sussex",-0.7215382,50.9547662
+"950","west heath avenue",-78.3661051,35.4884654
+"952","trinidad leaseholds ltd trinidad",NA,NA
+"953","penhalonga prop mines",32.6708329,-18.8833888
+"954","consulting metallurgists etc",NA,NA
+"955","of aluminium alloys",NA,NA
+"956","crown chemical works",-87.7352682,41.6445663
+"957","claro terrace earl",NA,NA
+"958","mining co fms",NA,NA
+"959","and assistant manager",NA,NA
+"960","tin mines ltd",145.757888,-16.898277
+"961","surveyor s nigeria",3.426785,6.4329725
+"962","mineral surveyor nigeria",NA,NA
+"963","putney hill london",-0.2195225,51.4554112
+"964","prop mines ltd",NA,NA
+"966","st leonard",-76.5063419,38.4742898
+"967","uehonmachi chome",135.5207379,34.6655536
+"968","fed malay states",NA,NA
+"969","pulau brani fms",103.8346685,1.2599015
+"970","albert terrace leeds",-1.5758173,53.826662
+"971","ltd s africa",28.106138,-26.0119244
+"975","inverleith row edinburgh",-3.2046676,55.9666959
+"978","reporting in usa",-96.8462285,32.9580456
+"979","surveying at rsm",NA,NA
+"980","dutch w borneo",114.5548495,0.9618834
+"982","planet arcturus mines",NA,NA
+"987","mining instructor haileybury ontario",-79.6398466,47.4530162
+"988","ltd cobar nsw",145.8388597,-31.495761
+"989","doradilla dwyers nsw",146.921099,-31.2532183
+"990","rietfontein estates ltd",28.2204987,-25.7090736
+"991","ltd ohwaz persia",NA,NA
+"993","pahang consolidated fms",103.3256204,3.8126318
+"994","college of science",-89.2194324,37.7115516
+"995","hamilton road golders",-0.2120016,51.5744656
+"996","royal college of science",-75.6853063,45.3985599
+"997","electric furnaces etc",NA,NA
+"998","waite consulting engineers",-73.2140655,44.4706731
+"999","victoria street london",-0.1369785,51.4972967
+"1000","nsw chief assayer",146.921099,-31.2532183
+"1001","sulphide corporation ltd cockle",NA,NA
+"1002","hanworth house harrow weald",-0.3380395,51.6052581
+"1003","cranbrook road ilford",0.0661136,51.5739573
+"1004","fabrica de hierros alava",-3.0827799,43.307598
+"1005","burma corporation burma",-78.8699807,40.9336161
+"1006","london wall london",-0.0900038,51.5174971
+"1007","bury st edmunds",0.7104932,52.2429228
+"1008","formerly whitworth scholar",-117.4178623,47.7548728
+"1009","austen at rsm",NA,NA
+"1010","rsm metallurgical division",NA,NA
+"1011","de sihanaka madagascar",NA,NA
+"1012","in sarawak borneo",110.3592127,1.5532783
+"1013","works in sarawak",110.3669962,1.5513548
+"1014","in dutch borneo",114.5548495,0.9618834
+"1015","to various companies",NA,NA
+"1016","batavia netherlands indies and",NA,NA
+"1017","los angeles cal",-118.2436849,34.0522342
+"1018","as consulting engineer",-112.113167,33.582797
+"1020","mines and estates",NA,NA
+"1021","co johannes burg",28.01685,-26.1363999
+"1022","lead smelting",NA,NA
+"1023","palewell park east",-0.2639902,51.4623253
+"1024","waterside liphook hants",-0.8250596,51.0962871
+"1025","empress mine victoria s",-123.3668247,48.4216314
+"1026","competency for nsw",151.2073361,-33.869908
+"1027","h p co",-75.9097606,45.3474837
+"1028","explosive factory gretna",NA,NA
+"1029","harbord arsm fic",NA,NA
+"1030","co near wrexham",-2.9712643,53.0596973
+"1031","smelting co brimsdown",NA,NA
+"1032","montrose road sheffield",-1.4981448,53.3528031
+"1033","rock house highgate london",-0.0381415,51.5908081
+"1034","flint ida usa",-83.6874562,43.0125274
+"1035","oil fields ltd",-96.9282519,30.1886738
+"1036","lobitos oilfields ltd lobitos",-81.2821647,-4.4564351
+"1037","woolwich road east",0.0269115,51.4873907
+"1038","mines exploration co",-84.4938939,38.0923573
+"1039","mine upper egypt",NA,NA
+"1040","co riandel bc",-116.8574817,49.7605462
+"1042","the avenue ealing",-0.3194424,51.5166491
+"1043","mines gold coast",153.3810308,-28.0767266
+"1044","dept of scientific",NA,NA
+"1045","mines to",NA,NA
+"1046","jos tin areas",-84.4927292,39.1237416
+"1047","sellons avenue harlesden",-0.243213,51.538382
+"1048","mines selangor fms",101.7186151,3.028268
+"1050","rey mining co",-110.9790344,33.130104
+"1051","the abosso gold mining",NA,NA
+"1052","kempsford gardens earls",-0.1947315,51.4887517
+"1053","no ltd",-95.677068,37.0625
+"1055","po box bulawayo",28.5822369,-20.15465
+"1056","plaza alfonzo xii linares",-3.6319761,38.0920598
+"1057","union club trafalgar square",-0.128069,51.508039
+"1058","po box johannesburg",-117.6325298,35.3716084
+"1059","minor mining co",NA,NA
+"1061","rand club johannesburg transvaal",28.041293,-26.2058915
+"1062","the university sydney nsw",151.2312675,-33.917347
+"1063","aldermanbury london ec",-0.1319797,51.5287743
+"1064","mines burmah",NA,NA
+"1065","colston hall east bridgford",-0.973172,52.979014
+"1066","school of mines",-105.2225708,39.7510475
+"1067","f w harbord",NA,NA
+"1068","royal mint ec",-3.3887484,51.5542917
+"1069","the royal mint london",-0.0732134,51.5093513
+"1070","illipparambil house pulincunnu travancore",76.4349254,9.4572566
+"1071","albert palace mansions",-0.1497862,51.4769597
+"1072","in north nigeria",8.675277,9.081999
+"1074","to dr thudichum",NA,NA
+"1075","sanderson md frs",NA,NA
+"1076","surveyor bantjes consolidated",NA,NA
+"1077","rest trans vaal",-87.7845252,42.7481071
+"1078","for health reasons",NA,NA
+"1079","hm dockyard portsmouth",-1.1094659,50.800531
+"1080","admiralty chemist",-118.4418824,33.9827329
+"1081","assistant demonstrator rsm",NA,NA
+"1082","sons ltd",-83.3083214,39.7610366
+"1083","ashanti w africa",34.508523,-8.783195
+"1084","surveyor and assistant",NA,NA
+"1086","rua visconde de inhauma",-43.1787417,-22.8995928
+"1087","private survey practice",NA,NA
+"1088","lochaber street cardiff",-3.1670859,51.4961941
+"1089","and art dept",-94.577364,39.0355698
+"1090","and steel inst",-77.0104605,38.898431
+"1091","patent office council",NA,NA
+"1092","government assayer zululand",31.4456179,-27.8872252
+"1093","nondweni zululand",NA,NA
+"1095","dalmeny barclay road",NA,NA
+"1096","elm croft tottenham lane",-0.1161202,51.5841174
+"1097","highfield road luton",-0.4381555,51.8873955
+"1098","th º",NA,NA
+"1099","church street chelsea",-84.0203637,42.3199346
+"1100","kensington place clifton",-2.615825,51.4566731
+"1101","and art department",-97.7329957,30.2862557
+"1102","charterhouse science school",-0.6219691,51.1966247
+"1103","at the polytechnic",NA,NA
+"1104","chelsea brompton and",NA,NA
+"1105","assayer and analyst",NA,NA
+"1106","gold mining co",-116.5951343,33.0818426
+"1107","editor financial record",NA,NA
+"1108","mines regulation acts",NA,NA
+"1109","south african companies",30.9579517,-29.9434654
+"1110","consulting mining engineer",-79.3773704,43.65048
+"1111","range",-95.7715873,37.1501885
+"1112","to technical societies",-77.2763485,38.8622744
+"1113","salisbury house london",-0.0874677,51.5174303
+"1114","north street westminster",-0.127115,51.4966101
+"1115","tung wen kuan",NA,NA
+"1116","assistant chemist",NA,NA
+"1117","s manager",NA,NA
+"1118","elswick works newcastle",-1.647687,54.9676013
+"1119","of his death",NA,NA
+"1122","the mining magazine",-87.3973197,46.5436564
+"1123","press of mining",-81.326627,41.709993
+"1124","in a mine",NA,NA
+"1125","of observation",NA,NA
+"1127","of steel works",-96.7103417,40.8119879
+"1128","links end ashford middlesex",-0.4552643,51.4274516
+"1129","to chinese government",-77.0663637,38.9428097
+"1131","mining co bechuanaland",NA,NA
+"1132","kingsley hoard mine bindura",31.3198491,-17.3013059
+"1133","presidency college calcutta",88.3623245,22.5763122
+"1136","o cadet unit",NA,NA
+"1137","demobilised march",NA,NA
+"1138","engineering co hounslow",-0.3745401,51.4849357
+"1139","metallurgist and analyst",NA,NA
+"1140","ltd putney",-70.2583003,43.6576977
+"1141","boundary com mission",-90.3406778,38.6467169
+"1142","minière de guinée",-13.661126,9.564687
+"1143","la haute guinée",-9.696645,9.945587
+"1144","of africa ltd",32.5986669,0.3157639
+"1145","po box brakpan",28.36268,-26.23717
+"1146","died about",NA,NA
+"1147","naval architecture",-71.9757648,41.3431697
+"1148","chemistry camb",0.1262649,52.1976223
+"1149","researches etc upon",NA,NA
+"1151","of gwalia waus",121.333554,-28.9194201
+"1152","ltd gold coast",-73.324468,40.8409102
+"1153","general manager the société",NA,NA
+"1154","manager in usa",NA,NA
+"1155","clanricarde gardens london",-0.1932963,51.5104539
+"1157","syndicate lithgow nsw",150.1570173,-33.4827345
+"1158","co nelson nz",173.2499661,-41.2806843
+"1159","metallurgy arsm",NA,NA
+"1160","po box gpo",NA,NA
+"1162","manager hutti",76.647047,16.1977046
+"1164","box langlaagte transvaal",NA,NA
+"1165","niger co ltd",NA,NA
+"1166","sunderland terrace bayswater",-0.1907345,51.5169344
+"1167","managing director of the",-75.1644061,39.9540978
+"1168","manager kabin syndicate",NA,NA
+"1169","general manager climax rock",NA,NA
+"1170","st michael",-94.8513428,37.5112316
+"1171","mines in alsace",7.1359929,48.2135919
+"1172","hill gold mine",-80.343718,35.5129693
+"1173","agency west africa",-87.793129,41.9088489
+"1174","manor farm claverton near",-2.3112296,51.3800452
+"1175","h l sulman",NA,NA
+"1176","tin dredging ltd",NA,NA
+"1177","borneo co ltd ipoh",114.5548495,0.9618834
+"1178","in assaying rsm",NA,NA
+"1179","honours associateship",NA,NA
+"1180","steel inst",-77.0104605,38.898431
+"1181","in metallurgy rsm",NA,NA
+"1182","inst of chemistry",-89.4046745,43.0728277
+"1183","of ores etc",NA,NA
+"1184","solidated mines ltd",-79.3833984,43.6498994
+"1185","mining co serbia",20.4763894,44.8117076
+"1187","london wall buildings",-0.0861347,51.5171938
+"1189","rand club johannesburg",28.041293,-26.2058915
+"1190","second street san",-122.3951604,37.7843099
+"1191","hampstead way golders",-0.1837712,51.5676345
+"1192","general consulting engineer",-78.8566555,38.444259
+"1193","provincial assayer",NA,NA
+"1194","in mining",-80.9986545,46.4928985
+"1195","vancouver bc canada",-123.1207375,49.2827291
+"1196","finsbury pavement house",-0.0859309,51.5186148
+"1197","cremorne road chelsea",-0.1791997,51.4802118
+"1199","on the continent",NA,NA
+"1200","zinc mines",-85.936684,36.192152
+"1201","claremont heaton road withington",-2.224935,53.4325963
+"1202","mining machinery co",-84.5830392,39.214497
+"1203","co ltd swaziland",31.291482,-26.516058
+"1204","parkfield road liverpool",-2.9495274,53.3821563
+"1205","katha upper burma",96.3305831,24.1821187
+"1207","mines in corsica",9.360534,42.7397606
+"1208","mining engineer worcester house",-71.8022934,42.2625932
+"1209","iron works leeds",-1.5620953,53.7892862
+"1211","hollyhurst shooters hill woolwich",0.0622551,51.46967
+"1212","and the sudan",30.217636,12.862807
+"1213","mines sarawak assistant",110.359751,1.54348
+"1214","mill super intendent",-93.5321587,43.4154009
+"1216","kepong selangor fms",101.6355931,3.213966
+"1217","south bank terrace",-0.300738,51.3917313
+"1218","bluebell cottage weston road",NA,NA
+"1219","hm factory gretna",NA,NA
+"1220","sylvan mount upper norwood",-0.0804351,51.4191198
+"1221","royal school of mines",-0.1756911,51.4997627
+"1222","clarence terrace regent",-0.1592691,51.5251227
+"1223","yayoi cho hongo",NA,NA
+"1224","solar physics commission",NA,NA
+"1225","palace schools",-89.971095,30.03101
+"1226","sussex road southport",-2.9845777,53.6446955
+"1227","park avenue endcliffe",-1.5117022,53.3695425
+"1228","champion reef mysore state",78.2594562,12.9404737
+"1229","the rs mines",NA,NA
+"1230","inspector of schools",-73.5508135,41.0376425
+"1231","pembroke road clifton",-2.6164415,51.4619985
+"1232","co nigel sar",NA,NA
+"1233","nigel transvaal sar",NA,NA
+"1234","port sudan",37.1901616,19.5903471
+"1235","in cyprus",33.429859,35.126413
+"1236","fairfield house maesteg glam",-3.6595001,51.6020078
+"1237","and ramrama mines",NA,NA
+"1238","mount nod road",-0.1201974,51.4355369
+"1239","assayer",NA,NA
+"1240","mint retired",NA,NA
+"1241","exploration co ltd",-96.7752494,32.8386211
+"1242","portuguese e africa",34.508523,-8.783195
+"1243","burton court londonysw",-0.1594707,51.4885984
+"1244","consd mines ltd",NA,NA
+"1245","don bros buist",NA,NA
+"1246","portuguese west africa",34.508523,-8.783195
+"1247","direccao das obras publicas",NA,NA
+"1248","isle of man",-4.548056,54.236107
+"1249","co cal usa",-116.419389,34.9592083
+"1250","mundoo island goolwa s",138.7783094,-35.4980286
+"1251","oorgaum kolar gold field",78.2671922,12.952626
+"1252","perak straits settlements",101.090109,4.5921126
+"1253","at the rsm",NA,NA
+"1254","march th",-117.2483703,33.9012637
+"1255","and chemical industry",-89.6586533,39.7994549
+"1256","of chemical works",-87.667621,41.889213
+"1257","van ryn deep gold",NA,NA
+"1258","southbrook road lee",0.009083,51.4510386
+"1259","silver mine nsw",151.2120429,-33.8640311
+"1260","bullen colliery nsw",150.056934,-33.272565
+"1261","tin mines nsw",147.4774045,-35.8597068
+"1262","a bensusan",NA,NA
+"1263","coast of africa",-5.54708,7.539989
+"1264","bessborough gardens westminster",-0.1304533,51.4890243
+"1265","littleheath cobham surrey",-0.3746691,51.3314788
+"1266","public analyst nz",NA,NA
+"1267","pembridge mansions moscow",-0.190765,51.5123514
+"1268","died in siam",NA,NA
+"1269","m of m",-95.6163664,37.0373074
+"1270","felhampton upton bishop herefordshire",-2.818753,52.481304
+"1271","barkston gardens london",-0.1904211,51.4920169
+"1272","and coal mines",-75.7151989,41.4166832
+"1273","burma mines ltd",NA,NA
+"1274","burma mines ltd namtu",97.3975845,23.0929613
+"1275","under professor maskelyne",NA,NA
+"1276","of several mines",NA,NA
+"1277","silver mining co",-76.3572491,39.5230837
+"1278","hill proprietary co",-104.880226,39.582507
+"1279","oorgaum po mysore state",78.2671922,12.952626
+"1280","partner in firm",NA,NA
+"1281","muirlees harpenden herts",-0.358953,51.81846
+"1282","west end haslemere surrey",-0.6604811,51.101261
+"1283","engineers in wigan",-2.6861802,53.536715
+"1284","sharpcliffe hall ipstones north",-1.9868865,53.0659338
+"1285","ryan inyo county california",-116.669892,36.3226129
+"1286","metropolitan gas referee",NA,NA
+"1287","ltd w africa",3.8741258,7.3063478
+"1288","co s africa",22.937506,-30.559482
+"1289","and de crano",NA,NA
+"1290","mining at rsm",NA,NA
+"1291","and under ground",-96.25169,41.136822
+"1292","mina santa rosa calafias",-122.7140548,38.440429
+"1293","kingsbury lodge wilton wiltshire",-1.8625223,51.0795757
+"1294","was carried on",NA,NA
+"1295","ward street north",-72.0712163,42.2599162
+"1296","s certificate",NA,NA
+"1297","lime street london",-0.0823905,51.5124719
+"1298","stoneleigh near bath",NA,NA
+"1299","and quarry engineer",-122.2836561,37.5642538
+"1300","salt co etc",NA,NA
+"1301","mount park crescent",-0.3048054,51.5180643
+"1302","africa died",34.508523,-8.783195
+"1303","broadhurst gardens nw",-0.1854735,51.5465537
+"1304","the same group",NA,NA
+"1305","united university club pall",NA,NA
+"1306","in umtali mashonaland",32.650351,-18.9757714
+"1307","lombard street ec",-122.4018618,37.7903775
+"1308","eastleigh mines klerksdorp",-1.374688,50.967182
+"1309","bourke of pretoria",28.207466,-25.757807
+"1311","metallurgy and explosives",NA,NA
+"1312","especially complex ores",NA,NA
+"1313","and obuassi mines",-1.6921037,6.172193
+"1314","and fanti mines",-1.959178,5.353055
+"1316","zambezia east africa",36.6093926,-16.5638987
+"1318","w pearl street",-97.7972793,32.4421917
+"1319","mining museum george street",-74.6052254,41.0832272
+"1320","citizen building ottawa canada",-75.6899788,45.4212721
+"1321","murray road wimbledon",-0.2199344,51.4222626
+"1322","rio tinto huelva spain",-6.5962863,37.6927452
+"1323","mill superintendent ditto",NA,NA
+"1324","of matabeleland ltd",NA,NA
+"1325","manager eldorado mine",-114.8036309,35.7099442
+"1326","simoona mines",NA,NA
+"1328","po box krugersdorp",27.7462838,-26.0982379
+"1329","july th",-95.712891,37.09024
+"1330","avonmore road west",-0.2063633,51.4945377
+"1331","tongshan road shanghai",121.6537272,31.2782178
+"1332","lidsey lodge bognor sussex",-0.6700211,50.8134962
+"1333","of munitions",NA,NA
+"1334","abbotsford malden surrey",-122.3044697,49.0504377
+"1335","the crossways cranes park",-1.7736408,52.4573394
+"1336","manor ranch windermere bc",-115.9886462,50.462525
+"1337","maldonado madrid spain",-3.6794912,40.43372
+"1338","collins house melbourne",144.9588057,-37.8175806
+"1339","gold fields ltd",-79.3813893,43.6517287
+"1340","co gold coast",-117.8482192,33.7185624
+"1341","richmond villas swansea",-3.9631812,51.6197064
+"1342","bruntsfield crescent edinburgh",-3.2035426,55.9362299
+"1343","colliery durham",-1.331571,54.788061
+"1344","cons gold fields",NA,NA
+"1345","corporation works vereeniging",27.9014654,-26.5969312
+"1346","tredegar iron works",-77.445781,37.535554
+"1347","naval college greenwich",-0.0059154,51.4832059
+"1348","erlscote ewell surrey",-0.2533376,51.3506319
+"1349","to professor hofmann",NA,NA
+"1350","journal of science",-87.5984632,41.7958154
+"1351","bakerian lecture",NA,NA
+"1352","died april",NA,NA
+"1353","valverde del camino provincia",-6.753414,37.5746343
+"1354","incandescent lamp factory",NA,NA
+"1355","ladbroke grove london",-0.210156,51.5176239
+"1356","cia exploradora de minas",-44.5550308,-18.512178
+"1357","college in",-96.0219357,41.2399719
+"1358","the following year",NA,NA
+"1359","retired",-74.1980381,40.0903627
+"1360","the croft coleraine road",0.0124538,51.4814981
+"1361","ltd chirk denbighshire",-3.0567818,52.9322792
+"1362","black park chirk denbighshire",-3.0405682,52.9546223
+"1363","of engineering poona",-71.09416,42.360091
+"1364","the assay office star",NA,NA
+"1365","heath lodge hemel hempstead",-0.469772,51.756472
+"1366","the parade barry",-3.288429,51.3919666
+"1367","at pontardawe glam",-3.853215,51.720435
+"1368","e riley esq",-74.117976,40.954303
+"1369","minden boad anerley",-0.0649882,51.4116027
+"1370","a robertson street hastings",0.5779519,50.8553155
+"1371","mark lane deceased",NA,NA
+"1372","surprise mine bc",-127.6476205,53.7266683
+"1373","alpha street los",-118.1602846,34.0986017
+"1374","wrekin house seven sisters",-0.0961361,51.5705191
+"1375","pahang consolidated sungli lembing",103.0327402,3.914618
+"1377","arizona state bureau of",-112.0732068,33.4486628
+"1378","bhavnagar kathiawar india",70.9978713,20.749258
+"1380","colman dsc phd",NA,NA
+"1381","regent square london",-0.121173,51.5267044
+"1382","scientific research fellow",NA,NA
+"1383","northcote road bristol",-2.5454132,51.4587421
+"1384","junior army and navy",-84.568126,42.700456
+"1386","mayford road london",-0.1587986,51.4467676
+"1387","palace court bayswater",-0.1919914,51.5110097
+"1388","co mining dept",-104.985456,39.737099
+"1389","the department of metallurgy",-111.8475978,40.766242
+"1390","mundic synd collington",NA,NA
+"1391","hillbrow billingshurst sussex",-0.8748151,51.0321238
+"1392","syndicate s africa",NA,NA
+"1393","kingsley clarence road teddington",-0.3329307,51.4230115
+"1394","mining arsm aimm",NA,NA
+"1395","wilton crescent sw",-0.1551186,51.5006472
+"1396","little hawke",115.7619553,-32.0729683
+"1397","trator mine surveying",NA,NA
+"1398","creffield road ealing",-0.2846198,51.5124778
+"1399","bartholomew terrace exeter",-3.536417,50.7212727
+"1400","prize of books",-122.2442548,37.8798243
+"1401","maharajah of kashmir",76.5761714,33.778175
+"1402","afterwards of ladak",NA,NA
+"1404","po box salisbury",-75.5849206,38.3691838
+"1405","mount hope copper mine",145.8819289,-32.8312105
+"1406","assistant superintendent",NA,NA
+"1407","bulawayo rhodesia",28.626479,-20.1325066
+"1409","cockle creek nsw",151.6235135,-32.9426653
+"1410","richmond hill langley",-79.4402808,43.8828401
+"1411","rand mines ltd",NA,NA
+"1412","the th regiment",-95.712891,37.09024
+"1413","macgregor in",-95.3563212,29.7102924
+"1414","s hospital",-94.589457,39.048309
+"1415","doornach marriott kop",-75.410805,40.0817193
+"1416","hants county council",-1.3191911,51.06382
+"1417","in engineering periodicals",NA,NA
+"1418","university college southampton",-1.3957679,50.9037234
+"1419","managing director john cochrane",NA,NA
+"1420","works st petersburg",-82.655041,27.754827
+"1421","steel co ltd",-98.4570312,29.3465172
+"1422","adderley park rolling mills",-1.8560145,52.4832599
+"1423","assistant inspector of mines",NA,NA
+"1424","broad street place",-70.94167,42.21858
+"1425","warrenton virginia usa",-77.7952712,38.7134516
+"1428","ltd n nigeria",3.5570356,6.7774301
+"1429","consolidated co fms",NA,NA
+"1430","board of education",-95.635678,37.037666
+"1431","kwahu and atabubu",-0.9844567,7.7541209
+"1432","german boundary commission",NA,NA
+"1433","public works department",-95.6157228,37.0372183
+"1434","the roads department",-95.9363159,36.6840012
+"1435","duluth minnesota usa",-92.1004852,46.7866719
+"1436","nigel heidelberg sar",28.3841777,-26.4910013
+"1437","melvill street booysens",28.0234662,-26.2377119
+"1438","terminus chambers",NA,NA
+"1440","cowles aluminium syndicate",NA,NA
+"1441","metallurgist and assayer",NA,NA
+"1442","victoria villa lorne",143.9715484,-38.5366556
+"1443","ltd in sarawak",110.3592127,1.5532783
+"1444","geology of siam",NA,NA
+"1445","in jermyn street",-0.1364788,51.5085039
+"1446","anthropological institute",-83.9395465,35.9409835
+"1447","died dec",NA,NA
+"1449","chamber of mines",28.0387622,-26.2075142
+"1450","geological survey of india",-95.8665825,36.0557259
+"1451","institute of chemistry",-80.4258715,37.2328827
+"1452","chemistry and physics",-84.5039552,38.0357072
+"1453","shooters hill road",-83.7095979,41.6669326
+"1454","fifth year",NA,NA
+"1455","on chemistry whit",-117.2409587,32.8755239
+"1456","ministry of munitions",NA,NA
+"1457","soap works irlam lancashire",-2.42142,53.444266
+"1458","copper company dolgelly",-3.8844,52.74215
+"1459","johannesburg transvaal",28.0016916,-26.2168494
+"1460","the royal mint",-3.3887484,51.5542917
+"1461","metallurgical dept rsm",NA,NA
+"1462","buluwayo south africa",28.626479,-20.1325066
+"1463","norfolk house laurence pountney",-0.0888444,51.5109073
+"1464","assistant superintending engineer",NA,NA
+"1465","mines ltd tarquah",-1.9930466,5.301832
+"1466","tarquah gold coast colony",NA,NA
+"1467","halkyn holywell north wales",-3.1845501,53.2322408
+"1468","dean road willesden",-0.2246013,51.5483121
+"1469","mining and metallurgy",-110.9531671,32.2333222
+"1470","science and technology",-91.7756271,37.9537078
+"1471","queen victoria street",-79.3348366,43.6771481
+"1472","clogher co tyrone",-7.1645201,54.4143001
+"1473","the dell northfield birmingham",-1.9880316,52.4245092
+"1474","scholarship",-95.9964783,36.1592882
+"1475","science scholarship",NA,NA
+"1476","watt college edinburgh",-3.0796161,55.882567
+"1477","society of scotland",-3.208492,55.945864
+"1478","and east of",-97.2753077,37.6497156
+"1479","kaduna syndicate nigeria",7.4165053,10.5104642
+"1480","on the rand",-98.4934748,29.4262994
+"1481","in surveying rsm",NA,NA
+"1483","suffolks april",-72.6151169,40.9848784
+"1484","the institution of mining",-106.905611,34.065993
+"1485","assistant mining engineer",NA,NA
+"1486","chemist and assayer",-73.9798349,40.7569247
+"1487","sociedad esplotadora de caylloma",-71.601445,-15.6378116
+"1489","thurlow park road",-0.0969519,51.4400022
+"1490","a gold coast",153.4,-28.016667
+"1491","marks s africa",NA,NA
+"1492","lands and minerals",-92.9397751,47.4325162
+"1493","consolidated lands ltd",NA,NA
+"1494","consolidated oilfields refinery",NA,NA
+"1495","chiciura oilfield roumania",NA,NA
+"1496","berca oilfields roumania",26.683333,45.283333
+"1497","aeronautical inspection dept",-92.2412692,34.727771
+"1498","and petrol aid",NA,NA
+"1499","highstead sittingbourne kent",0.7399922,51.3288489
+"1500","has not practised",NA,NA
+"1501","thurleigh road balham",-0.1582514,51.4520622
+"1502","tin mines",-106.4880236,31.9359017
+"1503","ltd to date",NA,NA
+"1504","royal anthropological institute",-0.1400625,51.5237959
+"1505","russell road kensington",-0.2093793,51.4981206
+"1506","concession south africa",28.1605413,-26.213164
+"1507","as chemist",NA,NA
+"1508","chief chemist",NA,NA
+"1509","p talbot",-71.1252755,41.6932286
+"1510","general manager rio tinto",NA,NA
+"1512","dutch west borneo",116.0814679,5.9951089
+"1514","coldharbour lane brixton",-0.1029496,51.4656441
+"1515","the chemical society",-77.0363503,38.9053363
+"1516","the orchard chertsey surrey",-0.5059362,51.3956949
+"1517","west coombe chagford devon",-3.8402649,50.673066
+"1518","iron masters shropshire",-2.4834176,52.6133651
+"1519","ltd perak fms",101.090109,4.5921126
+"1520","langdale kirkby near liverpool",-2.8799288,53.4788587
+"1521","carr mount ruswarp whitby",-0.6318278,54.4696562
+"1522","aug th",NA,NA
+"1523","batu gajah fms",101.04124,4.472081
+"1524","wynaad co wynaad",76.0435787,11.6952228
+"1525","rhodes reef wynaad",76.1319953,11.6853575
+"1526","of mineral properties",-90.806248,39.6065498
+"1527","at dover deceased",NA,NA
+"1528","jack cos",NA,NA
+"1529","quicksilver mines nz",NA,NA
+"1530","co el oro",-119.0397305,46.9676426
+"1531","co ltd sarawak",110.399908,1.569377
+"1532","bancroft mitten road bexhill",0.4722735,50.8437298
+"1533","east rand proprietary",28.3461948,-26.1777025
+"1534","tronoh mines fms",100.993027,4.423069
+"1535","fed council fms",NA,NA
+"1536","fields of burma",NA,NA
+"1537","scotland junior chemist",-4.2026458,56.4906712
+"1538","merchant and agent",-79.6622954,43.5975197
+"1539","whernside headingley leeds",-2.402527,54.2277395
+"1540","ruislip teignmouth road cricklewood",-0.2166058,51.5504857
+"1541","brabourne near ashford kent",1.00567,51.135957
+"1542","messrs cox",NA,NA
+"1543","siemens frs deceased",NA,NA
+"1544","kuala lumpur selangor federated",101.686855,3.139003
+"1545","imperial institute sk",-0.1748772,51.4987997
+"1546","boxgrove st margarets",-0.7126677,50.8592851
+"1547","cordoba copper co",NA,NA
+"1548","ditton road surbiton",-0.3013209,51.3826191
+"1549","argyle road saltcoats",-4.7890254,55.6384622
+"1551","mining co burma",96.1378162,16.8792298
+"1552","tenasserim lower burma",99.0115113,12.0896327
+"1553","trading co singapore",103.8439529,1.2745039
+"1554","the ranch misa street",NA,NA
+"1555","in s africa",22.937506,-30.559482
+"1556","county analyst",NA,NA
+"1557","llwynypia colliery glam",-3.454214,51.632965
+"1558","chappel ipoh fms",101.090106,4.597479
+"1559","ltd tin mine",145.757888,-16.898277
+"1560","mines ltd fms",NA,NA
+"1561","clifton ashbourne derbyshire",-1.7526889,53.0017711
+"1564","nightingale lane london",-0.156483,51.4506138
+"1565","city road ec",-0.1020699,51.5306451
+"1566","works rotherhithe se",-0.0411931,51.49629
+"1567","wellington street glasgow",-4.2599031,55.8618594
+"1569","chartfield avenue putney",-0.2260289,51.457482
+"1570","treasury gold mine",NA,NA
+"1571","newclare smelting works",NA,NA
+"1572","mine w africa",-111.897812,40.76578
+"1573","hm factory penrhyndendraeth",-4.067134,52.92924
+"1574","clarence road devonshire",-78.5770812,42.982216
+"1576","furze down the downs",-0.8919974,51.9437304
+"1577","british american nickel corporation",NA,NA
+"1578","alkali co ltd",NA,NA
+"1579","knowsley road cressington",-2.914403,53.3572456
+"1580","minas de rio tinto",-6.5962863,37.6927452
+"1581","deep mine safrica",27.4306297,-26.4153845
+"1582","british north borneo",NA,NA
+"1583","lahore college deceased",74.3587473,31.5203696
+"1584","consulting chemical engineer",-78.9218998,35.831874
+"1585","mint bangkok siam",100.56971,13.7266909
+"1586","schools from",-96.3958176,41.2406462
+"1587","board of education whitehall",-86.3408433,43.4069673
+"1588","new road water orton",-1.7373468,52.5175742
+"1589","iron co ltd",-90.2489865,30.0052968
+"1590","at darwen lancashire",-2.46874,53.695451
+"1591","hollinsgrove darwen lancs",-2.4734702,53.7064837
+"1592","metallurgist since",NA,NA
+"1593","of chemical industry",-89.6586533,39.7994549
+"1594","mines department tarquah via",NA,NA
+"1595","dso with bar",NA,NA
+"1596","with two bars",-110.0733891,46.425038
+"1597","cyanides and ferrocyanides",NA,NA
+"1598","of gold tailings",NA,NA
+"1599","chromates and bichromates",NA,NA
+"1600","canonbury park north",-0.0949409,51.54621
+"1601","grube elisa alsace",7.4416241,48.3181795
+"1602","mining co nsw",151.2108816,-33.877105
+"1603","minerals exploration co",-79.3832231,43.649972
+"1604","mining co borneo",115.5598402,-3.7007969
+"1606","the van mine near",-3.5467332,52.4755788
+"1607","estate gold mines",-106.7720891,32.2612959
+"1608","willesden glass co",-0.2353089,51.547445
+"1609","general consulting work",-73.990381,40.74456
+"1610","salisbury house london wall",-0.0874677,51.5174303
+"1611","iron mountain michigan usa",-88.0659603,45.8202334
+"1612","bishopsgate ec",-0.0810585,51.5167977
+"1613","camp hill maer staffordshire",-2.3245155,52.9595787
+"1614","admiralty engineering laboratory",NA,NA
+"1615","hm mint bombay",72.8371809,18.9336462
+"1616","colliery since",NA,NA
+"1617","stourbridge since",-2.148731,52.456891
+"1618","wolverhampton street dudley",-2.0897038,52.5109588
+"1619","rawson electricians",-87.9067371,42.915147
+"1620","of munitions area",NA,NA
+"1621","admont coed coch road",14.4614998,47.5729034
+"1622","and later superintendent",NA,NA
+"1623","survey of egypt",NA,NA
+"1624","director geological survey of",-75.5567942,45.4062935
+"1625","fairwarp forest drive kingswood",-0.2035289,51.2965918
+"1626","chief chemist at works",NA,NA
+"1627","assay office chester",NA,NA
+"1628","science lecturer",NA,NA
+"1630","casillas",-95.9888225,36.1527794
+"1631","consulting chemist deceased",NA,NA
+"1632","co waihi nz",175.8406072,-37.3912594
+"1634","spruce street berkeley",-122.2667157,37.8889903
+"1635","b jaya ram director",NA,NA
+"1636","coal trades review",NA,NA
+"1637","merchant and shipper",NA,NA
+"1638","journal and other",NA,NA
+"1639","foundry manager coatbridge",-4.019337,55.862241
+"1640","glenmavis airdrie",-3.996026,55.886356
+"1641","eton college museum",-0.6113141,51.4909343
+"1642","regio museo industriale italiano",14.2505254,40.8535985
+"1643","ltd loughor glam",-4.067286,51.665095
+"1644","end of",-74.4733275,40.7965446
+"1645","thorsden guildford road woking",-0.5618002,51.3120927
+"1647","tudor house king",NA,NA
+"1648","copper co ltd",-73.5197951,45.5262246
+"1649","straits settle ments",NA,NA
+"1650","maude avenue beeston",-1.5531766,53.7742372
+"1651","consulting mining engineer parliament",NA,NA
+"1652","of mines fms",NA,NA
+"1653","at ipoh perak",101.090106,4.597479
+"1654","tin mines perak",101.1464618,4.32666
+"1655","engineer in fms",-88.100914,30.669415
+"1656","smelting co penang",100.3287506,5.4141307
+"1657","eastern smelting co penang",100.3259961,5.4129546
+"1658","gold mines ltd",-79.3799655,43.6474359
+"1659","mining syndicate ltd",77.5789552,12.9841986
+"1660","post graduate course",NA,NA
+"1661","ennerdale ellesmere park eccles",-2.329437,53.4925703
+"1662","demonstrator rsm surveying",NA,NA
+"1663","hatherlow house romiley cheshire",-2.1001134,53.4106385
+"1664","s dominions",NA,NA
+"1665","gulbagh lane residency hyderabad",78.4776518,17.3890059
+"1666","mining engineer bazaar road",NA,NA
+"1667","cromwell road south",-0.1846011,51.4949409
+"1668","man underground agent",NA,NA
+"1669","grosvenor road highbury",-0.0914894,51.5492285
+"1670","london wall ec",-0.0924676,51.5177579
+"1671","derrylin oxton cheshire",-7.5714501,54.19624
+"1672","co ltd deceased",NA,NA
+"1673","mines perak fms",101.1669974,4.5245377
+"1674","beeches road west",-1.9828059,52.5153216
+"1675","west end wolsingham co",-1.8896882,54.7301359
+"1676","aylestone park leicester",-1.135997,52.605084
+"1677","knighton lane aylestone",-1.1398794,52.6098238
+"1678","mining engineer newfoundland shipbuilding",-57.6604364,53.1355091
+"1679","wycombe gardens golder",-0.1969139,51.5674096
+"1681","assistant consulting engineer",-73.9896655,40.7498851
+"1682","matabeleland south africa",29.0459927,-21.052337
+"1683","the colenbrander development co",NA,NA
+"1685","co nelson bc",-117.2909554,49.4938122
+"1686","on the",-95.8786149,36.0603987
+"1687","kelsterton hall flint north",NA,NA
+"1688","old national bank",-87.548374,37.962608
+"1689","institute renewed",NA,NA
+"1690","morro velho villa nova",NA,NA
+"1691","rand proprietary mines",NA,NA
+"1692","shansi university tai yuan",112.5700854,37.8097105
+"1693","to same firm",NA,NA
+"1694","west africa",-2.4604145,13.531665
+"1695","caixa postal rio",-43.1728965,-22.9068467
+"1696","brookfield house longstanton cambridge",0.0444857,52.2842975
+"1697","college of chemistry",-122.2560283,37.873109
+"1698","church road richmond",-77.6192034,37.6317864
+"1699","broken hill prop co",141.4539396,-31.9539135
+"1700","experimental station",-87.5906017,41.7840479
+"1701","co tavoy burma",98.193961,14.082769
+"1702","mine gold coast",153.3560644,-28.0340349
+"1703","award may",NA,NA
+"1704","mentioned in despatches",NA,NA
+"1705","bunhill row london",-0.0898267,51.5230794
+"1706","of mines selangor",101.7186151,3.028268
+"1707","hill propr co",-122.1443504,37.4191498
+"1708","thatched house club st",NA,NA
+"1709","minas de el centenillo",-3.729546,38.3377742
+"1710","national provincial",NA,NA
+"1711","co messrs thynne",NA,NA
+"1712","to assayer etc",NA,NA
+"1713","messrs james macdonald",NA,NA
+"1714","mining co nz",NA,NA
+"1715","mcgee avenue berkeley",-122.2773106,37.8689552
+"1716","elm tree cottage radlett",-0.3173869,51.686808
+"1717","kelantan malay states",102.238071,6.1253969
+"1718","at arafo",-16.4214477,28.3385856
+"1719","the canary islands",-16.6291304,28.2915637
+"1720","puerto orotava teneriffe",-16.5357766,28.4115443
+"1721","street place aimm",NA,NA
+"1722","claremont road forest",0.0333401,51.5488816
+"1723","co w africa",34.508523,-8.783195
+"1724","metallurgist pierrefitte pyrenees",2.364077,48.967903
+"1725","co co re",-94.6556964,39.0226626
+"1726","june rd",-96.645487,32.7352607
+"1728","joint manager of the",NA,NA
+"1729","the government of",-81.180702,48.4989491
+"1730","force and salonica",22.9444191,40.6400629
+"1732","baltimore avenue kansas",-94.5870287,39.0614871
+"1733","of cape breton",-60.851817,46.2486851
+"1734","acadia coal co",NA,NA
+"1735","stellarton nova scotia",-62.6603903,45.5567766
+"1736","federated malay states",NA,NA
+"1737","ipoh federated malay states",101.090106,4.597479
+"1738","the royal mint bangkok",100.6169988,14.0096722
+"1739","messrs marshall cotterell",NA,NA
+"1740","various scientific subjects",NA,NA
+"1741","st paul",-93.0899578,44.9537029
+"1742","northbrook society cromwell",NA,NA
+"1743","sudan government farm",NA,NA
+"1744","farlie house beauly scotland",-4.4760274,57.475168
+"1745","under prof frankland",NA,NA
+"1746","brandram road lee",0.0009824,51.4607865
+"1747","tavoy lower burma",98.193961,14.082769
+"1748","limdi kui naka gopipura",72.8306941,21.1928956
+"1749","gleneldon road streatham",-0.12573,51.4284482
+"1750","the orchard bedford",-79.6243743,37.4000653
+"1751","to above companies",-93.1877925,39.1090425
+"1752","mining engineer rand mines",NA,NA
+"1753","and metallurgical companies",NA,NA
+"1754","the mineral industry",NA,NA
+"1755","stanfield concentrator co",NA,NA
+"1756","various metallurgical works",NA,NA
+"1757","salisbury house ec",-0.0874677,51.5174303
+"1758","mines fms deceased",NA,NA
+"1759","a w africa",34.508523,-8.783195
+"1760","to nov",NA,NA
+"1761","oakwood avenue beckenham",-0.0110629,51.4042795
+"1762","survey of scotland",-4.1620461,55.8512205
+"1763","in the pyrenees",1.0011899,42.6681804
+"1764","oil reserves committee",NA,NA
+"1765","chairman rsm dinner",NA,NA
+"1766","institution petroleum technologists",NA,NA
+"1767","institution mining engineers",-104.836813,39.577623
+"1768","simla india",77.1734033,31.1048145
+"1769","mining and exploring",-123.1152488,49.2865658
+"1770","mineral oil production",NA,NA
+"1771","owners chemical manufacturers",NA,NA
+"1772","appointed director",NA,NA
+"1773","appointed managing director",NA,NA
+"1774","naya cementation dept",NA,NA
+"1775","general consulting practice",-83.0007548,39.9610405
+"1776","finsbury pavement london",-0.0874254,51.5199229
+"1777","sandford road bromley",0.0172136,51.39684
+"1778","royal societies club st",NA,NA
+"1779","to mining",-123.1176612,49.2852063
+"1780","companies chota nagpur",85,23
+"1781","deccan development co",NA,NA
+"1782","eastern development corporation",-72.161416,41.380597
+"1783","fields prospecting department",NA,NA
+"1784","of mines perak",101.0843575,4.2781016
+"1785","speedwell road edgbaston",-1.9008128,52.4617535
+"1786","sons agricultural chemists",NA,NA
+"1787","tierney road streatham",-0.1277938,51.4459368
+"1788","blaina works monmouthshire",-3.159627,51.766823
+"1789","s african school of",18.4699541,-33.9562784
+"1790","ltd nelson bc",-117.296549,49.4922888
+"1792","mines ltd bc",-123.1225996,49.2849807
+"1793","bank of british west",-2.2390595,53.4805743
+"1794","mayfield house wolverhampton",-2.0635297,52.5993966
+"1795","middleton st george co",-1.4518734,54.5185901
+"1796","consulting metallurgist truro",NA,NA
+"1797","africa south africa",22.937506,-30.559482
+"1798","esq merchant newquay",-5.073719,50.415497
+"1799","in trans vaal",-81.1829373,43.2303525
+"1800","mines in damaraland",NA,NA
+"1801","miner geldenhuis deep",NA,NA
+"1802","dutch east indies",NA,NA
+"1803","in sw africa",34.508523,-8.783195
+"1805","glebe road sheffield",-1.501568,53.3832491
+"1806","of great britain",-3.435973,55.378051
+"1807","government metallurgical works clyde",NA,NA
+"1808","metallurgy mason college",-77.3073606,38.8298118
+"1809","the university birmingham",-1.9305135,52.4508168
+"1810","in mining etc",NA,NA
+"1811","demonstrator rsm",NA,NA
+"1812","malay states government",NA,NA
+"1813","mines department fed malay",NA,NA
+"1814","senior whitworth scholar",NA,NA
+"1815","lilleshall ironworks shropshire",-2.397612,52.736249
+"1816","retired from service",-84.5592539,42.7331866
+"1817","in west africa",-2.4604145,13.531665
+"1818","copiapa chili",-70.3321587,-27.3665763
+"1819","shepton beauchamp ilminster somerset",-2.850804,50.951806
+"1820","wheatlands crockham hill edenbridge",0.0654509,51.236681
+"1821","pendarves street camborne",-5.2855928,50.2065772
+"1822","junc tion mine",-84.5052313,32.6427305
+"1823","hill and elsewhere",NA,NA
+"1824","sulphide corporation finsbury house",-3.0387698,53.8029686
+"1825","geology and geography",-81.7810302,32.4263179
+"1826","and their origins",NA,NA
+"1827","growth of europe",15.2551187,54.5259614
+"1828","of mineralogy",NA,NA
+"1829","orahova carrickmines co dublin",17.0336789,45.1977036
+"1830","lead south dakota",-103.7651984,44.3522065
+"1831","lead south dakota usa",-103.7651984,44.3522065
+"1832","and land development",-94.720305,36.722185
+"1833","willow st san",-117.2264226,32.733169
+"1834","govern ment service",-95.7420105,37.2270235
+"1835","inspector of mines ulu",NA,NA
+"1836","vryheid natal",30.792458,-27.7654196
+"1837","derby road withington",-2.2188704,53.4366338
+"1838","engineer hong kong",114.2029845,22.2914765
+"1839","trading corporation ltd",-73.7611531,45.4960525
+"1840","dredging co ltd",-87.973341,31.1019096
+"1841","broad street avenue blomfield",-74.1914382,40.8210489
+"1842","development co",-94.720305,36.722185
+"1843","st thomas",-64.8940946,18.3380965
+"1844","manager honjo works furukawa",NA,NA
+"1845","pocos de caldas minas",-46.5547852,-21.7695566
+"1846","grove lane kingston",-122.5728277,47.8115465
+"1847","and acting manager",NA,NA
+"1848","agency district engineer",-95.9892906,36.1521136
+"1849","panyer house to",-79.9545716,40.4365121
+"1850","naosari buildings fort bombay",72.8332034,18.9358104
+"1851","tin properties burma",NA,NA
+"1852","consulting mining engineer and",-79.3773704,43.65048
+"1853","section geldenhuis deep",NA,NA
+"1854","dirleton gardens alloa scotland",-3.8072017,56.1159531
+"1855","brakpan mines ltd",28.3743697,-26.2764739
+"1856","coal syndicate fms",NA,NA
+"1857","vimy estate kuang selangor",2.810418,50.373953
+"1858","otago university museum dunedin",170.5103944,-45.8656722
+"1859","pinner road harrow",-0.358428,51.5844176
+"1860","sir john cass technical",NA,NA
+"1861","bau upper sarawak",110.1546292,1.417224
+"1862","lembing pahang fms",103.0327402,3.914618
+"1863","beach lawn waterloo",-3.0353584,53.4765457
+"1864","co oratava teneriffe",-16.5242831,28.3910982
+"1865","oratava teneriffe canary islands",-16.5701927,28.2648286
+"1866","old jewry london",-0.0908538,51.5143264
+"1867","st helen",-84.4103263,44.3636378
+"1868","rua do sacramento",-46.5744413,-23.6578654
+"1869","mines dept nsw",151.5517747,-32.7276421
+"1870","owing to war",-95.712891,37.09024
+"1871","st olaf westcliff bournemouth",-1.8903103,50.7189057
+"1872","ltd blaina monmouthshire",-3.159627,51.766823
+"1873","co asia minor",-74.394465,40.838075
+"1874","bechuanaland south africa",NA,NA
+"1875","and port pirie",138.0088567,-33.1708294
+"1878","borneo co sarawak",112.9407712,2.0156006
+"1879","tin syndicate nigeria",NA,NA
+"1880","office chancery lane",-0.1110752,51.5143002
+"1881","royal mint melbourne",144.9568638,-37.8122632
+"1882","assayer in",NA,NA
+"1883","the royal mint melbourne",144.9568638,-37.8122632
+"1884","national mutual chambers sydney",151.2074213,-33.8669456
+"1885","siemens westminster sw",NA,NA
+"1886","work and private",NA,NA
+"1887","chancery lane london",-0.1120214,51.516154
+"1889","the sl syndicate",NA,NA
+"1890","box gatooma s",29.9162276,-18.3269371
+"1892","engineer west africa",3.4250659,6.4313493
+"1893","gold mines salvador",NA,NA
+"1894","silver mines salvador",NA,NA
+"1895","under professor frankland",NA,NA
+"1896","brewery house plumstead london",0.0786646,51.4807618
+"1897","on witwatersrand mine",27.8486571,-25.7855464
+"1898","consolidated gold fields",-83.973032,34.5369517
+"1899","avenue road highgate",138.6219047,-34.9623939
+"1900","newman street w",-117.6764734,34.1519306
+"1901","technical information bureau",-84.2102582,36.0436975
+"1902","african mining journal",34.508523,-8.783195
+"1903","bengal coal co ltd",153.029619,-27.468467
+"1904","the doon harpenden herts",-0.3603831,51.8211659
+"1905","auckland roseville street jersey",174.6823876,-36.9078168
+"1907","works at pontgibaud",2.852928,45.831664
+"1908","th may",NA,NA
+"1909","technical school hanley",-71.4212183,41.8157482
+"1910","mint to",NA,NA
+"1911","feb th",NA,NA
+"1912","retired from business",-122.4775753,48.7504177
+"1913","red cross society",-122.9367933,49.2549307
+"1914","during the war",NA,NA
+"1915","could be devised",NA,NA
+"1916","their treatment impracticable",NA,NA
+"1917","and finance co",-97.7797899,37.6378555
+"1918","surveyor and sampler",NA,NA
+"1919","assistant manager nigeria",NA,NA
+"1920","the grange bramcote",-1.242837,52.934196
+"1921","francke mines ltd",NA,NA
+"1922","of the mint",-118.371601,34.052203
+"1923","the british association",NA,NA
+"1924","and steel institute",-77.0104605,38.898431
+"1925","redcliffe square s",-0.1884377,51.487797
+"1926","killed in action",-95.712891,37.09024
+"1927","wolf concentrating table",NA,NA
+"1928","over cambs england",0.0301999,52.3240875
+"1930","areas gold mines",-83.973032,34.5369517
+"1931","mining arsm dic",NA,NA
+"1932","assayer royal mint",-3.3887484,51.5542917
+"1933","inst mining lurgy",NA,NA
+"1934","institute of metals",-73.9807114,40.7512341
+"1935","a g charleton",NA,NA
+"1936","nigeria ltd nigeria",3.5570356,6.7774301
+"1937","row helensburgh nb",-4.734014,56.002318
+"1938","lake of wood",-94.8475431,49.0609997
+"1939","the reduction works",NA,NA
+"1940","cheshunt lodge horsham sussex",-0.028486,51.699888
+"1941","webster street san",-122.4319482,37.787815
+"1942","a barons court road",-80.6828565,35.300467
+"1943","trading co ltd",-79.2695469,43.7512762
+"1944","the mining journal",-87.3973197,46.5436564
+"1945","and analytical chemist",-117.156924,32.8344431
+"1946","the laboratory no",NA,NA
+"1947","th street douglas",-109.5446878,31.3468977
+"1948","st james",-95.9159416,36.7336754
+"1949","the cementation work",NA,NA
+"1950","smelting works singapore",NA,NA
+"1951","engineer malay states",NA,NA
+"1952","tin mines nigeria",NA,NA
+"1953","hayle explosive works",-5.4217237,50.1840616
+"1954","director of dept",-95.712891,37.09024
+"1955","director",-95.705184,37.223513
+"1956","tin syndicate ltd",NA,NA
+"1957","appointment to date",NA,NA
+"1958","general manager siamese tin",NA,NA
+"1959","co died",-105.7820674,39.5500507
+"1960","marine terrace aberdeen",-2.1014357,57.1379858
+"1961","coal mine usa",-105.5150314,44.3877807
+"1962","crown mines ltd",NA,NA
+"1963","mines crown ltd",NA,NA
+"1965","gift coolgardie wa",121.4709003,-30.7485681
+"1966","broken hill nsw",141.4539396,-31.9539135
+"1967","po box cobalt",NA,NA
+"1968","consolidated langlaagte mines",NA,NA
+"1969","springs mines box",NA,NA
+"1970","prof w gowland",NA,NA
+"1971","british non",NA,NA
+"1972","exploration co egypt",NA,NA
+"1973","the allikies copper mines",-10.0457401,51.6389999
+"1974","rutherford college newcastle",-1.627714,54.9667014
+"1975","sunny bank lennox road",-73.2765306,42.3544346
+"1976","lake view consols",-76.050449,42.109335
+"1977","syndicate ltd nigeria",NA,NA
+"1978","kaduna syndicate ltd jos",7.4165053,10.5104642
+"1979","university college oxford",-1.2520981,51.7525769
+"1980","of s africa",22.937506,-30.559482
+"1981","vickers ltd crayford",NA,NA
+"1982","ivydale road peckham london",-0.046914,51.4613987
+"1983","mines queens land",151.6780968,-28.8607028
+"1984","produce co ltd",-122.3115263,41.3037693
+"1985","belvidere estate antigua british",-61.8175207,17.0746557
+"1986","mcgill university montreal canada",-73.5771511,45.5047847
+"1987","kenaston saskatchewan canada",-106.2706237,51.5006133
+"1988","old jewry ec",-0.13198,51.528774
+"1989","st james street",-0.1392841,51.5065194
+"1990","a mine accident",NA,NA
+"1991","redcliffe square london",-0.1884377,51.487797
+"1992","sociedad exploradora de caylloma",-71.601445,-15.6378116
+"1993","holywell coal co",-3.225103,53.276009
+"1994","navigation co ltd",-81.5826389,28.4185332
+"1995","peace co durham",-1.8811598,54.7294099
+"1996","coal co ltd",-81.187287,37.777506
+"1997","crucible co travancore",NA,NA
+"1998","mining co wynaad",76.1319953,11.6853575
+"1999","engineer private account",NA,NA
+"2000","work in",-73.9964338,40.7243662
+"2001","works assistant assayer",NA,NA
+"2002","co assistant engineer",NA,NA
+"2003","under oceana consolidated",NA,NA
+"2004","corporation water works and",-81.223546,29.47445
+"2005","died in",-95.712891,37.09024
+"2006","assistant works manager",NA,NA
+"2007","and works manager",NA,NA
+"2008","joint managing director",NA,NA
+"2009","bath hill prestwich n",-2.283889,53.524446
+"2010","the patent office",-118.3379534,34.152544
+"2011","to date examiner",NA,NA
+"2012","trator tati concessions",NA,NA
+"2013","hawthorn bank helmsburgh scotland",-4.2026458,56.4906712
+"2014","astronomical physics rsm",NA,NA
+"2015","a common ealing",-0.2959456,51.5104269
+"2016","of explosives factories",NA,NA
+"2017","cwrt",-3.934182,52.583913
+"2018","queen street place",-75.7019298,45.4200479
+"2019","ltd dudley",-2.0680914,52.5184876
+"2020","king street dudley",-2.0858486,52.5083088
+"2021","cheam park cheam surrey",-0.222666,51.361036
+"2022","habergham vicarage burnley lancs",-2.2551546,53.7645781
+"2023","kilvington eynsford kent",0.211539,51.366456
+"2024","with messrs becker",NA,NA
+"2025","co singapore",103.8431984,1.2795757
+"2026","mining syndicate smyrna",NA,NA
+"2027","coke company",-96.9544002,37.240004
+"2028","st bernards tulse",-95.9327352,36.0177606
+"2029","mines johannes burg",28.0011893,-26.2173389
+"2030","jos northern nigeria",8.881082,9.7985242
+"2031","drayton gardens london",-0.1812237,51.4887216
+"2034","rapid city usa",-103.2310149,44.0805434
+"2035","dakota usa",-101.0020119,47.5514926
+"2036","molyneux mines consolidated",NA,NA
+"2037","mine ltd manicaland",32.174605,-18.9216386
+"2038","gold mine co",-105.50055,39.78712
+"2039","of mines pretoria",28.173062,-25.752532
+"2040","mines dept pretoria s",28.201357,-25.7488019
+"2041","balcombe hayward",-0.12794,51.058563
+"2042","netherhall gardens hampstead",-0.1781198,51.5516853
+"2043","brookman boulder mine kalgoorlie",121.4862627,-30.7781939
+"2044","co mergui burma",98.0656972,11.4062394
+"2045","mines tavoy burma",98.193668,14.095062
+"2046","st agnes scorrier cornwall",-5.2036202,50.3125085
+"2047","the mexico mines of",-108.4082757,27.3911752
+"2048","the tsungli yamen",NA,NA
+"2049","student in",-86.516804,39.171006
+"2051","office central building",-93.2920337,37.20854
+"2052","casa mia hornchurch essex",0.2032977,51.5649892
+"2053","consols w a",-120.7401385,47.7510741
+"2054","kalgoorlie west australia",121.466,-30.749
+"2055","upper gloucester place",-0.1593497,51.5211359
+"2056","ltd lingsugur hyderabad",76.5199195,16.1550404
+"2057","to date",-71.2607451,42.3896516
+"2058","hillside langley park sutton",-0.1852516,51.3571569
+"2059","union of sa",27.774966,-26.103941
+"2060","inspector of mines office",-105.4916673,44.2776711
+"2061","course at rsm",NA,NA
+"2062","mines as above",NA,NA
+"2063","surveys siamese government",NA,NA
+"2064","leecroft south hill park",-84.059858,34.0994975
+"2065","explosive co",NA,NA
+"2066","co briton ferry",-3.824315,51.632119
+"2067","tube works landore",-3.9369162,51.6412925
+"2068","courtenay gardens upminster",0.2541559,51.5614954
+"2069","spassky copper",NA,NA
+"2070","box route",-95.5919774,36.7931177
+"2071","new denver british columbia",-117.3720711,49.99129
+"2072","iron co monmouthshire",-2.7163417,51.81161
+"2073","april th",NA,NA
+"2075","steel works manager",NA,NA
+"2076","iron co ulverston",-3.09267,54.195138
+"2077","parkdale wolverhampton",-2.1468138,52.5901774
+"2078","rotherfield sussex",0.2194,51.046062
+"2079","the abyssinian development syndicate",-73.9418873,40.8109982
+"2080","mines dept naraguta nigeria",8.9466146,9.9826896
+"2081","addison gardens kensington",-0.2176969,51.5008589
+"2082","clifton road twickenham",-0.334599,51.4470208
+"2083","temporary superintendent",NA,NA
+"2084","estate ltd",-77.3850424,44.1653742
+"2085","po box witbank",29.233446,-25.8989004
+"2086","taking first place",NA,NA
+"2087","of mines",-105.2225708,39.7510475
+"2088","shrublands kew gardens",-0.295573,51.4787438
+"2089","miri sarawak",113.9913832,4.399493
+"2090","th avenue parktown north",28.0337183,-26.1452379
+"2091","of mines siam",NA,NA
+"2092","renong west siam",NA,NA
+"2093","bitteswell manor lutterworth leicester",-1.2130088,52.4680697
+"2095","san seoul mining co",126.9779692,37.566535

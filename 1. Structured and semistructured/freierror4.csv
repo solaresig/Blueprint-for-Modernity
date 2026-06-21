@@ -1,0 +1,37 @@
+year,number,text,lastname,firstname,simpname,ydeg,degree,location,lat,lon
+1871,2641,"Papageorgiu, Antonius Johannes. Kastrovalab. Kumi, Griechenland. Dipl.Ing. 1876.",Papageorgiu,Antonius Johannes,"Papageorgiu, A  J",1876,Dipl Ing,kumi griechenland,64.19828,-51.732658
+1875,2832,"Latinak, Eugen Theodor. Ploszko, Ungarn.",Latinak,Eugen Theodor,"Latinak, E  T",NA,,pinya valley,16.68929,121.33412
+1879,3052,"Dietrich, Richard. NiederLeisersdorf, Schlesien. Dipl.Ing. 1887.",Dietrich,Richard,"Dietrich, R",1887,Dipl Ing,niederleisersdorf silesia,45.55667,-108.8415
+1879,3066,"v. Ludwiger, Hartwig. Etska, Banat, Ungarn.",V Ludwiger,Hartwig,"V Ludwiger, H",NA,,banat ungarn,-7.14852,110.43098
+1880,3101,"Grimm, Adolph. Bras, Bohmen, Osterreich.",Grimm,Adolph,"Grimm, A",NA,,bohmen austria,47.2897,9.93624
+1880,3120,"Treptow, Johannes. Danzig, PreuBen. Dip!. . Ing. 1885.",Treptow,Johannes,"Treptow, J",NA,,danzig germany,51.4374,7.7666
+1884,3298,"Berg, Johann Ernst. Bi.ixnas, Schweden.",Berg,Johann Ernst,"Berg, J  E",NA,,buxnas schweden,64.21414,20.80685
+1884,3344,"Schwarz, Josef. Proschwitz, Bohmen, Osterreich. Dipl.Ing. 1889.",Schwarz,Josef,"Schwarz, J",1889,Dipl Ing,proschwitz bohmen,51.179508,13.47699
+1884,3352,"Treptow, Carl Johannes Emil. Danzig, PreuBen.",Treptow,Carl Johannes Emil,"Treptow, C  J",NA,,danzig germany,51.4374,7.7666
+1887,3513,"Sc_hutz, Ernst. Danzig, PreuBen. Dipl.Ing. 1890.",Sc hutz,Ernst,"Sc hutz, E",1890,Dipl Ing,danzig germany,51.4374,7.7666
+1888,3541,"Ferber, Alfred. Romehnen, Ostpreu8en.",Ferber,Alfred,"Ferber, A",NA,,romehnen ostpreussen,52.368252,10.3921
+1892,3804,"Gro8kopf, Paul. Danzig, PreuB. Dipl.Ing. 1896.",Gro8kopf,Paul,"Gro8kopf, P",1896,Dipl Ing,danzig germany,51.4374,7.7666
+1894,3910,"Demme, Karl Maximilian Emil. Lemehnen, RuBI.",Demme,Karl Maximilian Emil,"Demme, K  M",NA,,Ungurmuia latvia,56.94625,24.10425
+1894,3947,"Rodigin, Pantaleonis. Scharkan, RuBland. Dip!.",Rodigin,Pantaleonis,"Rodigin, P",NA,,scharka belarus,53.89769,27.54942
+1897,4200,"v. RechenbergLinten, Paul. Eckengraf, RuBI.",V RechenbergLinten,Paul,"V RechenbergLinten, P",NA,,Vieste lithuania,54.68946,25.27986
+1898,4250,"Bogajewsky, Paul A. WierschinaMuraweyka,",Bogajewsky,Paul A,"Bogajewsky, P  A",NA,,wierschinamoskau,55.755871,37.61768
+1898,4310,"Milden, Robert Friedrich Samuel. Johannesthal, Krain. Deutsch. Reichsangeh.",Milden,Robert Friedrich Samuel,"Milden, R  F",NA,,Johannistal Eslovenia,46.05143,14.50597
+1899,4371,"Byszewski, Waclav Watery. Goszczendza, RuBI.",Byszewski,Waclav Watery,"Byszewski, W  W",NA,,goszczendza poland,52.11076,18.94828
+1900,4645,"Karra, Wasili. Kamrat, RuBI. Dipl.Ing. 1905.",Karra,Wasili,"Karra, W",1905,Dipl Ing,bessarabien,48.90264,9.21933
+1909,5581,"Knaut, Oskar Philipp. Modlan, Bohmen. Deutsch.",Knaut,Oskar Philipp,"Knaut, O  P",NA,,bohmen austria,47.2897,9.93624
+1910,5696,"Schnitzel, Erich. Brux, Osterreich.",Schnitzel,Erich,"Schnitzel, E",NA,,brux bohmen,50.50287,13.63982
+1913,5988,"v. Sivers, Erich Bruno. Gut Kerjell, Livland, RuBI.",V Sivers,Erich Bruno,"V Sivers, E  B",NA,,livonia russia,55.75654,37.61492
+1916,6036,"Hairi, Hassan. Sisstowo, Bulgarien. ,,",Hairi,Hassan,"Hairi, H",NA,,sisstowo bulgarien,43.04138,24.58091
+1919,6283,"Lamprecht, Ernst. CrostaAdolfshtitte b.Bautzen. Ingenieur. 1925 12",Lamprecht,Ernst,"Lamprecht, E",NA,,crosta costa rica,9.90958,-84.05406
+1919,6369,"Ucke, Heinrich. Zierohlen, Kurland. Banlcdirektor. 1925 Dipl.(H). Lettla.nder.",Ucke,Heinrich,"Ucke, H",1925,Dipl H,courland lethonia,56.94625,24.10425
+1920,6401,"Dzundza, Rudolf. Stanislau, Ostgal~zien. Bahnbeamter.",Dzundza,Rudolf,"Dzundza, R",NA,,galizi ukraine,50.44773,30.54272
+1922,6784,"Panin, Michail. Rublineza Bez.Soroca (Bessarabien). M.Gutsbesit1929 Dipl.(E).",Panin,Michail,"Panin, M",1929,Dipl E,bessarabien,48.90264,9.21933
+1922,6792,"Radler, Friedrich. Seestadtl, Bohmen. Bergdirektor. 1929 Dipi. (B).",Radler,Friedrich,"Radler, F",NA,,Ervenice chequia,50.62736,15.07289
+1922,6833,"Suchy, Robert. Brux, Bohmen. Bergbeamter. 1928 Dipl.(B).",Suchy,Robert,"Suchy, R",1928,Dipl B,brux bohmen,50.50287,13.63982
+1922,6837,"Thomann, Alois. OberDoberney, Bohmen. Revierforster. 1926 Dipl(B). 1 ...",Thomann,Alois,"Thomann, A",1926,Dipl B,bohmen czech,47.2897,9.93624
+1922,6843,"Ufll, Friedrich. Settenz. Bahnoffiziat Ã¢â‚¬Â¢. 1924 Dipl.(B).",Ufll,Friedrich,"Ufll, F",1924,Dipl B,settenz czech,50.08781,14.42046
+1923,6878,"Balthasar, Karl. Ladowitz, Bohmen. Be:rgdirektor. 1928 Dipl.(B) .",Balthasar,Karl,"Balthasar, K",1928,Dipl B,bohmen deutsch,47.2897,9.93624
+1923,6934,"Kotschetlcoff, Viktor. Buhedu, Mandschurei, Ru.Bland. Bahnhof.svorstand.",Kotschetlcoff,Viktor,"Kotschetlcoff, V",NA,,manchuria,31.89673,-116.70446
+1923,6994,"Wolf, Karl. Brux, Bohnen. Faktor. 1928 Dipl.(B).",Wolf,Karl,"Wolf, K",1928,Dipl B,brux bohmen,50.50287,13.63982
+1924,7007,"von EngelhardtBorn, Leonhardt, Baron. AltBorn, Kurland. Rittergutsbesitzer. Bayer.",V EngelhardtBorn,Leonhardt,"V EngelhardtBorn, L",NA,,courland latvia,56.94625,24.10425
+1929,7266,"Jacobsen, Karl. Laurahlitte, Oberschles. Masohineninspektor. 1934i~ Dipl. (Eh).",Jacobsen,Karl,"Jacobsen, K",1934,Dipl Eh,laurahlitte oberschles,45.55667,-108.8415
