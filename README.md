@@ -9,4 +9,4 @@ Please combine the direcgories in order to replicate the construction of the dat
 
 Download the sql files at https://www.dropbox.com/scl/fi/so0dwxea5ps1id3auuwaj/db-files.zip?rlkey=9hvzki4v0eebtgz2vbg35k07e&st=yp2bqlpl&dl=1
 
-The validation tests are available in test.xlsx, and the list of our primary source can be found in the file list of sources.xlsx. We have added, as well, a distant reading of the Engineering and Mining Journal.
+The validation tests are available in test.xlsx, and the list of our primary source can be found in the file list of sources.xlsx. We have added, as well, an md explaining the distant reading of the Engineering and Mining Journal, located in 2.Unstructured. 
