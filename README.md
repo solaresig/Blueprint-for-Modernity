@@ -3,7 +3,7 @@
 #this git contains the sources and methods for the general database
 
 Most of the files are organized in the three stages of the construction of the database. Large files, organized in the same folders, are available here. 
-https://www.dropbox.com/scl/fo/06tw0keb6i1p9ioj4jtgt/ALt1NQaNkFwtTIIRuKmRNLo?rlkey=sfzygq3280fjmu78u06hormbj&st=gv5jitea&dl=0
+https://www.dropbox.com/scl/fo/06tw0keb6i1p9ioj4jtgt/ALt1NQaNkFwtTIIRuKmRNLo?rlkey=sfzygq3280fjmu78u06hormbj&st=gv5jitea&dl=1
 
 Please combine the direcgories in order to replicate the construction of the database. The final files are listed as Individuals.csv, Firms.csv and Journals.csv in the folder '3. Integration'. 
 
